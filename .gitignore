@@ -1,0 +1,7 @@
+myenv/
+__pycache__/
+.idea
+.env
+*.pyc
+log
+values.yaml

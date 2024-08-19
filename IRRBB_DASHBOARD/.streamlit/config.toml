@@ -1,0 +1,8 @@
+[theme]
+base="light"
+primaryColor="#539eb1"
+
+[aws]
+bucket_name = 'nimbus-powerbi-preprod'
+directory = 'Rishi_Kumar/IRRBB Implementation/IRRBB_Automation/latest_execution/'
+file_key = 'Nimbus123/Streamlit_Images/IRRBB_workflow.drawio.png'

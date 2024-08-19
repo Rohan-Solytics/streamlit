@@ -1,0 +1,888 @@
+{
+    "Base": {
+        "QUEUE_PROVIDER":"aws",
+        "STORAGE_PROVIDER":"aws",
+        "ARCHITECTURE":"event",
+        "ACCESS_TOKEN_LIFETIME": 0.166667,
+        "REFRESH_TOKEN_LIFETIME": 0.25,
+        "SLIDING_TOKEN_LIFETIME": 1,
+        "SLIDING_TOKEN_REFRESH_LIFETIME": 1,
+        "BASE_URL": "https://api-qa.solytics.us",
+        "LANGUAGE_CODE": "en-us",
+        "TIME_ZONE": "Asia/Kolkata",
+        "STATIC_URL": "/NimbusStatics/",
+        "EMAIL_BACKEND": "django.core.mail.backends.smtp.EmailBackend",
+        "EMAIL_HOST": "smtp.outlook.office365.com",
+        "EMAIL_PORT": 587,
+        "EMAIL_HOST_USER": "no-reply@solytics-partners.com",
+        "EMAIL_HOST_PASSWORD": "Mug48400",
+        "AWS_STORAGE_BUCKET_NAME": "nimbusuno13",
+        "AWS_S3_REGION_NAME": "ap-south-1",
+        "DEFAULT_FILE_STORAGE": "App.storage.NimbusCustomStorage",
+        "AWS_QUERYSTRING_EXPIRE": "604800",
+        "LOGIN_URL": "/admin/login",
+        "SILENCED_SYSTEM_CHECKS": "fields.W904",
+        "PROMETHEUS_METRICS_EXPORT_PORT": 8001,
+        "PROMETHEUS_METRICS_EXPORT_ADDRESS": "",
+        "WEBPUSH_SETTINGS": {
+            "VAPID_PUBLIC_KEY": "BC2puH6F4zC94efzRdnsMTf9tDNKOfpmsuzZjuICN_y4P0jBi2Q1X65OHYTBgbVBYmp8YQHNGllCu9o1xfIwrBs",
+            "VAPID_PRIVATE_KEY": "wQ8DpIvSgtHD_x0cJ_ZvO5jYp0Vj2f1x-P4TEqfO-no",
+            "VAPID_ADMIN_EMAIL": "shubhamtakode@gmail.com"
+        },
+        "ELASTIC_LOGGER_HOST": "https://solytics-logging.sams-solytics.com",
+        "ELASTIC_LOGGER_PORT": "9200",
+        "ELASTIC_LOGGER_USERNAME": "elastic",
+        "ELASTIC_LOGGER_PASSWORD": "TwdXEcFTlRmtR+BfEu6b",
+        "ELASTIC_LOGGER_SENDER_EMAIL": "no-reply@solytics-partners.com",
+        "ELASTIC_LOGGER_SENDER_PASS": "Mug48400",
+        "ELASTIC_CACHE_INDEX": "task-processing-uat",
+        "ELASTIC_LOGGER_RECEIVERS": [
+            "nimbusawsnotification@solytics-partners.com"
+        ],
+        "NIMBUS_LOGGING_TYPE": "ELASTIC",
+        "DB_ENGINE": "django.db.backends.postgresql_psycopg2",
+        "DB_NAME_DEFAULT": "Uat",
+        "DB_NAME_TENANT1": "Demo1",
+        "DB_NAME_TENANT2": "Demo2",
+        "DB_NAME_TENANT3": "ProjectTypeTest",
+        "DB_NAME_TENANT4": "NimbusFinal",
+        "DB_NAME_TENANT5": "NimbusUno13",
+        "ADMIN_MAILER_LIST": ["nimbususerlimitalert@solytics-partners.com"],
+        "BIGDATA_ENABLED": false,
+        "SECRET_KEY": "django-insecure-fs72dabcoo*4ojpu00ewry$7ntui5u3&)x0u^wpqexa9*)%)4f",
+        "ENV_VARS": {
+            "AUDIENCE":"7ce6b1dc-1cf0-4ea2-9461-e097180f2de7",
+            "ALGORITHM":"RS256",
+            "ISSUER":"https://login.microsoftonline.com/1bb287c4-8e33-476f-bf7b-a5e274c5b0e6/v2.0",
+            "JWK_URL":"https://login.microsoftonline.com/organizations/discovery/v2.0/keys",
+            "PYTHONUBUFFERED":"1",
+            "postgres_host": "nimbus-qa.cqgw8sweplzm.ap-south-1.rds.amazonaws.com",
+            "postgres_password": "sepC95v85XR",
+            "postgres_port": "5544",
+            "postgres_user": "postgres",
+            "ZENKO_HOST":"qa.solytics.us",
+            "ZENKO_PORT": "8000",
+            "ZENKO_ACCESS_KEY_ID":"accessKey1",
+            "ZENKO_SECRET_ACCESS_KEY":"verySecretKey1",
+            "ZENKO_SECURE":"1",
+            "ORCHESTRATION_PROVIDER":"kubernetes",
+            "NAMESPACE" : "nimbus-qa-workers",
+            "MAX_CONCURRENT_JOB_ALLOWED": "10",
+            "MAX_JOB_RETRIES": "5",
+            "MAX_RETRY_ERROR_MSG":"Max retries reached.",
+            "REQ_MEMORY": "20Gi",
+            "REQ_CPU": "4000m",
+            "TCMALLOC_LARGE_ALLOC_REPORT_THRESHOLD":"5368709120",
+            "GIT_TOKEN" : "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"
+        },
+        "CORS_ALLOWED_ORIGINS" : [ "https://qa.solytics.us", "http://localhost:3000", "http://127.0.0.1:3000","https://vault-preprod.solytics.us" ],
+        "TENANT_DB_MAP": {"preprod": "tenant4", "lsdb": "tenant1", "lsdb2": "tenant2", "localhost:3000": "tenant3", "prod": "default", "qa": "tenant5"}
+    },
+    "Sharing": {
+        "DOCUMENTATION_URL": "https://api-qa.solytics.us/ad/automated_documentation/"
+    },
+    "Transformation": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-transformation",
+        "ELASTIC_LOGGER_SERVICES": "Transformation",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "ROWS_THRESHOLD":"30000000",
+        "s3_prefix": "Transformation_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "Transformation-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-fts:worker_qa_fts",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Transformation-UAT-Queue",
+            "TargetQueue": "Transformation-UAT1-Queue",
+            "HeavyTargetQueue": "Transformation-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Transformation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "ModelEstimation": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-modelestimation",
+        "ELASTIC_LOGGER_SERVICES": "ModelEstimation",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "ModelEstimation_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "ModelEstimation-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" : "842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-me:worker_qa_me",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "ModelEstimationEKS-UAT-Queue",
+            "TargetQueue": "ModelEstimationEKS-UAT1-Queue",
+            "HeavyTargetQueue": "ModelEstimationEKS-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Transformation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "ModelDeployment": {
+        "ELASTIC_LOGGER_INDEX": "Nimbus-modeldeployment",
+        "ELASTIC_LOGGER_SERVICES": "ModelDeployment",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "ModelDeployment_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "ModelDeployment-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-md:worker_qa_md_b09eb3d",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "ModelDeployment-UAT-Queue",
+            "TargetQueue": "ModelDeployment-UAT1-Queue",
+            "HeavyTargetQueue": "ModelDeployment-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Transformation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+
+    "Sampling": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-sampling",
+        "ELASTIC_LOGGER_SERVICES": "Sampling",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "ROWS_THRESHOLD":"30000000",
+        "s3_prefix": "Sampling_Uat",
+        "log_group": "Nimbus-QA-Django-Log-Group",
+        "stream_name": "Sampling-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-sp:worker_qa_sp",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Sampling-UAT-Queue",
+            "TargetQueue": "Sampling-UAT1-Queue",
+            "HeavyTargetQueue": "Sampling-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Sampling/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Segmentation": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-segmentation",
+        "ELASTIC_LOGGER_SERVICES": "Segmentation",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "Segmentation_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "Segmentation-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-segmentation:worker_qa_segmentation",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Segmentation-UAT-Queue",
+            "TargetQueue": "Segmentation-UAT1-Queue",
+            "HeavyTargetQueue": "Segmentation-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Segmentation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Performance": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-performance",
+        "ELASTIC_LOGGER_SERVICES": "Performance",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "Performance-UAT",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "ModelTesting-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-mp:worker_qa_mp",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Performance-UAT-Queue",
+            "TargetQueue": "Performance-UAT1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Performance/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Timeseries": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-timeseries",
+        "ELASTIC_LOGGER_SERVICES": "Timeseries",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "TimeSeries_Preprod",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "TimeEda-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-timeseries:worker_qa_ts",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Timeseries-UAT-Queue",
+            "InternalQueueEDA": "TimeseriesEDA-UAT-Queue",
+            "InternalQueueSAM": "Timeseries-UATSAMP-Queue",
+            "InternalQueueVR": "Timeseries-UATVR-Queue",
+            "InternalQueueME": "ModelEstimationTS-UAT1-Queue",
+            "InternalQueueMI": "Timeseries-UATMI-Queue",
+            "InternalQueueMP": "Timeseries-UATMP-Queue",
+            "TargetQueue": "Timeseries-UAT1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Transformation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "ModelInterpretation": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-modelinterpretation",
+        "ELASTIC_LOGGER_SERVICES": "ModelInterpretation",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "ModelInterpretation_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "ModelInterpretation-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-mi:worker_qa_mi",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Interpretation-UAT-Queue",
+            "TargetQueue": "Interpretation-UAT1-Queue",
+            "HeavyTargetQueue": "ModelInterpretation-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/ModelInterpretation/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "VariableReduction": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-variablereduction",
+        "ELASTIC_LOGGER_SERVICES": "VariableReduction",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "VariableReduction_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "VariableReductions-PreprodLogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-vr:worker_qa_vr",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "VariableReduction-UAT-Queue",
+            "TargetQueue": "VariableReduction-UAT1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/VariableReduction/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "EDA": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-eda",
+        "ELASTIC_LOGGER_SERVICES": "eda",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "eda_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "Eda-QALogStream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-eda:worker_qa_eda",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Eda-UAT-Queue",
+            "TargetQueue": "Eda-UAT1-Queue",
+            "HeavyTargetQueue": "Eda-UAT2-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v3",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/eda/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Management": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-datamanagement",
+        "ELASTIC_LOGGER_SERVICES": "DataManagement",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "DataManagement_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "DataManagement-QA-Logstream",
+        "BROKER_URL": "sqs://",
+        "WORKER_IMAGE": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-dm:worker_qa_dm",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "DataManagement-UAT-Queue",
+            "TargetQueue": "DataManagement-UAT1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v1",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Management/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Grid": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-datagrid",
+        "ELASTIC_LOGGER_SERVICES": "DataGrid",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "DataManagement_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "DataManagement-QA-Logstream",
+        "WORKER_IMAGE": "",
+        "BROKER_URL": "sqs://",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "DataManagement-GRID-Queue",
+            "TargetQueue": "DataManagement-GRID1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v1",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Management/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Ingestion": {
+        "ORG": "qa",
+        "WORKER_IMAGE" : "842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-worker-ingestion:worker_qa_dmingestion",
+        "ELASTIC_LOGGER_ACCESS_LOGS_INDEX": "nimbus-usermanagement",
+        "VERSION_CONTROLLER": "github",
+        "ELASTIC_LOGGER_INDEX": "nimbus-dataingestion",
+        "ELASTIC_LOGGER_SERVICES": "DataIngestion",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "s3_prefix": "DataManagement_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "DataManagement-QA-Logstream",
+        "DOCUMENT_URL": "https://api-qa.solytics.us/ad/automated_documentation/",
+        "BROKER_URL": "sqs://",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "DataIngestion-UAT-Queue",
+            "InternalQueuePm": "DataIngestion-UATPM-Queue",
+            "TargetQueue": "DataIngestion-UAT1-Queue"
+        },
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v1",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Management/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ALLOWED_USERS": {
+            "preprod": 10, "lsdb": 10, "lsdb2": 10, "localhost:3000": 10, "prod": 10, "qa": 220
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    },
+    "Documentation": {
+        "ELASTIC_LOGGER_INDEX": "nimbus-documentation",
+        "ELASTIC_LOGGER_SERVICES": "documentation",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "s3_prefix": "DataManagement_Uat",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "AD-QALogStream",
+        "BROKER_URL": "sqs://",
+        "DOCUMENT_URL": "https://api-qa.solytics.us/ad/automated_documentation/createdoc/",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "ModelEstimation-UAT-Queue",
+            "TargetQueue": "ModelEstimation-UAT1-Queue",
+            "AirflowServer":"https://nimbus-airflow.qa.solytics.us/",
+            "AirflowHeader" : {
+                "Content-type": "application/json",
+                "Accept": "application/json",
+                "Authorization": "Basic YWRtaW46YWRtaW4="
+                }
+        },
+        "POWER_BI_BUCKET": "nimbus-powerbi-poc"
+    },
+    "Console": {
+        "s3_prefix": "Console_Uat",
+        "APP_LOG_FILE": "./NimbusLogs/Local.log",
+        "AWS_REGION_NAME": "ap-south-1",
+        "WORKER_IMAGE" :"842928376651.dkr.ecr.ap-south-1.amazonaws.com/nimbus-qa-eks:worker_qa_console",
+        "CONFIG": {
+            "Dtype": "Uat",
+            "InternalQueue": "Console-UAT-Queue",
+            "TargetQueue": "Console-UAT1-Queue"
+        },
+        "preprod_database": {
+            "PASSWORD": "postgres",
+            "HOST": "Nimbus-database.cqgw8sweplzm.ap-south-1.rds.amazonaws.com",
+            "PORT": "5432"
+        },
+        "prod_database": {
+            "PASSWORD": "postgres",
+            "HOST": "Nimbus-database.cqgw8sweplzm.ap-south-1.rds.amazonaws.com",
+            "PORT": "5432"
+        },
+        
+        "VERSION_CONTROLLER" : "github",
+        "INTERNAL_QUEUE": "ConsolePackage-DeviceManagement-Queue",
+        "ELASTIC_LOGGER_TENANTS": "qa",
+        "ELASTIC_LOGGER_SERVICES": "nimbusConsole",
+        "ELASTIC_LOGGER_SERVERS_DJANGO": "django",
+        "ELASTIC_LOGGER_INDEX": "Nimbus-console",
+        "log_group": "Nimbus-Preprod-Django-Log-Group",
+        "stream_name": "Console-QALogStream",
+        "ELASTIC_LOGGER_SERVERS_WORKER": "worker",
+        "BROKER_URL": "sqs://",
+        "executionRoleArn": "arn:aws:iam::842928376651:role/EMR-EKS-S3-Role",
+        "releaseLabel": "emr-6.8.0-latest",
+        "BIG_DATA_S3_BUCKET": "nimbus-bigdata",
+        "configurationOverrides": {
+            "applicationConfiguration": [
+                {
+                    "classification": "spark-defaults",
+                    "properties": {
+                        "spark.kubernetes.container.image": "842928376651.dkr.ecr.ap-south-1.amazonaws.com/spark/emr-6.8.0-local:v1",
+                        "spark.kubernetes.executor.podTemplateFile": "s3://nimbus-bigdata/Uat/Management/pod.yml"
+                    }
+                }
+            ],
+            "monitoringConfiguration": {
+                "s3MonitoringConfiguration": {
+                    "logUri": "s3://nimbus-bigdata/logs"
+                }
+            }
+        },
+        "ORCHESTRATION_CONFIG": {
+            "node_selector": {},
+            "tolerations": [],
+            "VPA": {
+                "enabled": true,
+                "minAllowed": {
+                    "cpu": "1000m",
+                    "memory": "4Gi"
+                },
+                "maxAllowed": {
+                    "cpu": "8000m",
+                    "memory": "30Gi"
+                }
+            },
+            "REQ_CPU": "1000m",
+            "REQ_MEMORY": "4Gi"
+        }
+    }
+}
