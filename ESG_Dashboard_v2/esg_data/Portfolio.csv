@@ -1,0 +1,27 @@
+﻿sector,industry,BV(%)
+Utilities,Electric/Gas,0.178
+Utilities,Electric/Gas,0.0187
+Utilities,Water,0.0122
+Financial,Bank,0.1875
+Financial,REIT,0.0798
+Financial,Diversified Financial,0.0224
+Financial,Insurance,0.0128
+"Consumer, Non-Cyclical",Pharmaceutical,0.0839
+"Consumer, Non-Cyclical",Beverages,0.0223
+"Consumer, Non-Cyclical",Food,0.0193
+"Consumer, Cyclical",Retail,0.047
+"Consumer, Cyclical",Auto Manufacturer,0.0149
+Communications,Telecommunications,0.0372
+Communications,Media,0.0255
+Energy,Oil and Gas,0.0384
+Energy,Pipeline Operator,0.018
+Basic Materials,Chemicals,0.0313
+Basic Materials,Mining,0.0126
+Industrial,Transportation,0.0313
+Industrial,Aerospace & Defense,0.0306
+Industrial,Commercial & Services,0.0123
+Industrial,Miscellaneous Manufacturing,0.0115
+Technology ,Software,0.0266
+Technology ,Computers ,0.0132
+Technology ,Semiconductors,0.0127
+Total,,1

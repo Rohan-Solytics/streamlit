@@ -1,0 +1,141 @@
+﻿company name,sector,type,services provided,headquarters location,net zero pledge year
+PG&E Corporation,Utilities,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050
+Duke Energy,Utilities,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050
+Exelon Corporation,Utilities,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050
+Dominion Energy,Utilities,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040
+National Grid,Utilities,Electric/Gas,"Electricity, Gas","London, UK",2040
+NextEra Energy,Utilities,Electric,Electricity,"Juno Beach, FL, USA",2030
+Southern Company,Utilities,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040
+American Water,Utilities,Water,Water and Wastewater,"Camden, NJ, USA",2040
+Sempra Energy,Utilities,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030
+E.ON SE,Utilities,Electric/Gas,"Electricity, Gas","Essen, Germany",2030
+Veolia Environnement,Utilities,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040
+Centrica,Utilities,Electric/Gas,"Electricity, Gas","Windsor, UK",2030
+Eversource Energy,Utilities,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040
+PPL Corporation,Utilities,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030
+Entergy Corporation,Utilities,Electric,Electricity,"New Orleans, LA, USA",2050
+JPMorgan Chase & Co.,Financial,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050
+Bank of America Corp.,Financial,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050
+Wells Fargo & Co.,Financial,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030
+Goldman Sachs Group Inc.,Financial,Bank,"Investment Banking, Securities","New York, NY, USA",2050
+Morgan Stanley,Financial,Bank,"Investment Banking, Securities","New York, NY, USA",2050
+Berkshire Hathaway Inc.,Financial,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030
+"BlackRock, Inc.",Financial,Diversified Financial,Investment Management,"New York, NY, USA",2040
+"The Goldman Sachs Group, Inc.",Financial,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040
+"American International Group, Inc. (AIG)",Financial,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030
+"Prudential Financial, Inc.",Financial,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050
+"MetLife, Inc.",Financial,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040
+Berkshire Hathaway Inc.,Financial,Insurance,Insurance,"Omaha, NE, USA",2040
+Realty Income Corporation,Financial,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030
+"Simon Property Group, Inc.",Financial,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030
+Public Storage,Financial,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040
+ompany Name,"Consumer, Non-Cyclical",Type,Services Provided,Headquarters Location,2050
+Pfizer Inc.,"Consumer, Non-Cyclical",Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050
+Johnson & Johnson,"Consumer, Non-Cyclical",Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050
+Novartis International AG,"Consumer, Non-Cyclical",Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030
+The Coca-Cola Company,"Consumer, Non-Cyclical",Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040
+"PepsiCo, Inc.","Consumer, Non-Cyclical",Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050
+Nestlé S.A.,"Consumer, Non-Cyclical",Food,Food and Beverages,"Vevey, Switzerland",2040
+Unilever PLC,"Consumer, Non-Cyclical",Food,"Food, Home and Personal Care","London, UK",2030
+Kraft Heinz Company,"Consumer, Non-Cyclical",Food,Food and Beverage Products,"Chicago, IL, USA",2040
+"Mondelez International, Inc.","Consumer, Non-Cyclical",Food,Snacks and Confectionery,"Deerfield, IL, USA",2040
+Danone S.A.,"Consumer, Non-Cyclical",Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040
+"Amgen, Inc.","Consumer, Non-Cyclical",Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050
+"General Mills, Inc.","Consumer, Non-Cyclical",Food,Food Products,"Minneapolis, MN, USA",2040
+Kellogg Company,"Consumer, Non-Cyclical",Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050
+Walmart Inc.,"Consumer, Cyclical",Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050
+"Amazon.com, Inc.","Consumer, Cyclical",Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030
+"The Home Depot, Inc.","Consumer, Cyclical",Retail,Home Improvement Retail,"Atlanta, GA, USA",2040
+Target Corporation,"Consumer, Cyclical",Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030
+Costco Wholesale Corp.,"Consumer, Cyclical",Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050
+Ford Motor Company,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050
+General Motors Company,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050
+Toyota Motor Corporation,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050
+Volkswagen Group,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040
+"Tesla, Inc.","Consumer, Cyclical",Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040
+BMW AG,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050
+Daimler AG,"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040
+"Honda Motor Co., Ltd.","Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040
+AT&T Inc.,Communications,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050
+Verizon Communications Inc.,Communications,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030
+Comcast Corporation,Communications,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040
+"Charter Communications, Inc.",Communications,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050
+"T-Mobile US, Inc.",Communications,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050
+Deutsche Telekom AG,Communications,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050
+Orange S.A.,Communications,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040
+China Mobile Limited,Communications,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040
+Nippon Telegraph and Telephone Corporation (NTT),Communications,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040
+Comcast NBCUniversal,Communications,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040
+The Walt Disney Company,Communications,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030
+"Netflix, Inc.",Communications,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050
+ViacomCBS Inc.,Communications,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050
+News Corporation,Communications,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030
+Sony Corporation,Communications,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040
+Time Warner (now part of WarnerMedia),Communications,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030
+Exxon Mobil Corporation,Energy,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030
+Chevron Corporation,Energy,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050
+Royal Dutch Shell plc,Energy,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050
+BP plc,Energy,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050
+TotalEnergies SE,Energy,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040
+ConocoPhillips,Energy,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040
+"Kinder Morgan, Inc.",Energy,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030
+Enterprise Products Partners L.P.,Energy,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050
+Enbridge Inc.,Energy,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040
+TransCanada Corporation,Energy,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050
+Phillips 66,Energy,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030
+Valero Energy Corporation,Energy,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040
+Marathon Petroleum Corporation,Energy,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030
+"EOG Resources, Inc.",Energy,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030
+Occidental Petroleum Corporation,Energy,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030
+Dow Inc.,Basic Materials,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040
+BASF SE,Basic Materials,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030
+"DuPont de Nemours, Inc.",Basic Materials,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030
+LyondellBasell Industries NV,Basic Materials,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050
+Air Liquide S.A.,Basic Materials,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050
+BHP Group Limited,Basic Materials,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030
+Rio Tinto Group,Basic Materials,Mining,"Mining, Metals","London, UK",2050
+Vale S.A.,Basic Materials,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040
+Freeport-McMoRan Inc.,Basic Materials,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050
+Newmont Corporation,Basic Materials,Mining,"Mining, Gold","Denver, CO, USA",2030
+Barrick Gold Corporation,Basic Materials,Mining,"Mining, Gold","Toronto, Canada",2040
+Alcoa Corporation,Basic Materials,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030
+Anglo American plc,Basic Materials,Mining,"Mining, Metals","London, UK",2030
+Glencore plc,Basic Materials,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050
+Teck Resources Limited,Basic Materials,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040
+"American Airlines Group, Inc.",Industrial,Transportation,Airline Services,"Fort Worth, TX, USA",2040
+Boeing Company,Industrial,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030
+Lockheed Martin Corporation,Industrial,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050
+Northrop Grumman Corporation,Industrial,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030
+Raytheon Technologies Corp.,Industrial,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050
+General Dynamics Corporation,Industrial,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030
+United Technologies Corp.,Industrial,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050
+"Delta Air Lines, Inc.",Industrial,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050
+"United Parcel Service, Inc.",Industrial,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050
+FedEx Corporation,Industrial,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040
+The Boeing Company,Industrial,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030
+General Electric Company,Industrial,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040
+3M Company,Industrial,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030
+Caterpillar Inc.,Industrial,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050
+Honeywell International Inc.,Industrial,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050
+Siemens AG,Industrial,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040
+Microsoft Corporation,Technology ,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050
+Apple Inc.,Technology ,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050
+Google LLC (Alphabet Inc.),Technology ,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040
+"Amazon.com, Inc.",Technology ,Software,"E-commerce, Cloud Computing","Seattle, WA, USA",2050
+IBM (International Business Machines Corporation),Technology ,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050
+Intel Corporation,Technology ,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030
+NVIDIA Corporation,Technology ,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030
+"Advanced Micro Devices, Inc.",Technology ,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030
+Qualcomm Incorporated,Technology ,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040
+Broadcom Inc.,Technology ,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040
+Adobe Inc.,Technology ,Software,"Creative Software, Document Management","San Jose, CA, USA",2030
+Oracle Corporation,Technology ,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040
+SAP SE,Technology ,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040
+Dell Technologies Inc.,Technology ,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050
+HP Inc.,Technology ,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030
+"Micron Technology, Inc.",Technology ,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030

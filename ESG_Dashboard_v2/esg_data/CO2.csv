@@ -1,0 +1,841 @@
+﻿company name,sector,year,s1,s2,s3,revenue__mil_$,production_volume_mil_units
+"American Airlines Group, Inc.",Industrial,2016,39000,27000,6000,5655,236495
+"American Airlines Group, Inc.",Industrial,2017,38610,26190,5820,5681,225248
+"American Airlines Group, Inc.",Industrial,2018,37837.8,23571,5354.4,5693,362597
+"American Airlines Group, Inc.",Industrial,2019,37081.044,23335.29,5300.856,5755,338516
+"American Airlines Group, Inc.",Industrial,2021,34485.37092,21001.761,5247.84744,5763,222449
+"American Airlines Group, Inc.",Industrial,2022,31381.68754,19321.62012,4932.976594,5763,817729
+PG&E Corporation,Utilities,2016,116000,73000,17000,5765,173889
+PG&E Corporation,Utilities,2017,107880,70080,16150,5775,59672
+PG&E Corporation,Utilities,2018,104643.6,65875.2,15019.5,5810,551669
+PG&E Corporation,Utilities,2019,101504.292,63240.192,14719.11,5829,39172
+PG&E Corporation,Utilities,2021,95414.03448,59445.78048,13247.199,5870,275909
+PG&E Corporation,Utilities,2022,85872.63103,57067.94926,12717.31104,5898,258537
+Duke Energy,Utilities,2016,154000,132000,17000,5910,155774
+Duke Energy,Utilities,2017,150920,124080,15640,5991,45400
+Duke Energy,Utilities,2018,147901.6,121598.4,14388.8,6016,237428
+Duke Energy,Utilities,2019,143464.552,114302.496,14101.024,6027,40963
+Duke Energy,Utilities,2021,142029.9065,108587.3712,12972.94208,6040,2687379
+Duke Energy,Utilities,2022,132087.813,99900.3815,12064.83613,6053,228037
+Exelon Corporation,Utilities,2016,198000,94000,18000,6074,67598
+Exelon Corporation,Utilities,2017,184140,92120,16740,6110,291727
+Exelon Corporation,Utilities,2018,180457.2,89356.4,16405.2,6117,286556
+Exelon Corporation,Utilities,2019,169629.768,84888.58,15092.784,6146,98556
+Exelon Corporation,Utilities,2021,162844.5773,81493.0368,14790.92832,6146,45256
+Exelon Corporation,Utilities,2022,151445.4569,75788.52422,13903.47262,6160,3503319
+Dominion Energy,Utilities,2016,224000,113000,17000,6202,2434079
+Dominion Energy,Utilities,2017,201600,106220,16490,6209,51236
+Dominion Energy,Utilities,2018,181440,100909,15170.8,6214,58720
+Dominion Energy,Utilities,2019,177811.2,98890.82,13805.428,6243,263414
+Dominion Energy,Utilities,2021,163586.304,94935.1872,12977.10232,6260,77453
+Dominion Energy,Utilities,2022,161950.441,88289.7241,12847.3313,6276,1927555
+National Grid,Utilities,2016,219000,75000,18000,6297,1951158
+National Grid,Utilities,2017,197100,74250,17100,6313,53864
+National Grid,Utilities,2018,193158,67567.5,15390,6343,266048
+National Grid,Utilities,2019,191226.42,62837.775,15082.2,6359,118861
+National Grid,Utilities,2021,175928.3064,57810.753,14177.268,6379,157728
+National Grid,Utilities,2022,172409.7403,54920.21535,13326.63192,6411,294823
+NextEra Energy,Utilities,2016,181000,54000,17000,6466,42779
+NextEra Energy,Utilities,2017,173760,51840,16150,6489,152186
+NextEra Energy,Utilities,2018,159859.2,49766.4,15019.5,6499,139716
+NextEra Energy,Utilities,2019,153464.832,44789.76,13817.94,6510,133625
+NextEra Energy,Utilities,2021,144256.9421,44341.8624,12988.8636,6531,2203623
+NextEra Energy,Utilities,2022,141371.8032,42124.76928,12339.42042,6547,40994
+Southern Company,Utilities,2016,128000,117000,18000,6554,57857
+Southern Company,Utilities,2017,120320,108810,16560,6554,39471
+Southern Company,Utilities,2018,117913.6,102281.4,15732,6581,136524
+Southern Company,Utilities,2019,113197.056,92053.26,14788.08,6601,133376
+Southern Company,Utilities,2021,110933.1149,88371.1296,13752.9144,6611,54403
+Southern Company,Utilities,2022,107605.1214,84836.28442,12515.1521,6691,740463
+American Water,Utilities,2016,250000,90000,17000,6695,193984
+American Water,Utilities,2017,230000,81900,16830,6699,115095
+American Water,Utilities,2018,216200,78624,15651.9,6704,78547
+American Water,Utilities,2019,198904,71547.84,15025.824,6726,29074
+American Water,Utilities,2021,179013.6,70832.3616,14124.27456,6731,896552
+American Water,Utilities,2022,171853.056,67999.06714,13276.81809,6743,43997
+Sempra Energy,Utilities,2016,120000,113000,17000,6755,20777
+Sempra Energy,Utilities,2017,112800,102830,15300,6784,17967
+Sempra Energy,Utilities,2018,111672,96660.2,14841,6840,47528
+Sempra Energy,Utilities,2019,104971.68,92793.792,13950.54,6845,33467
+Sempra Energy,Utilities,2021,99723.096,88154.1024,13392.5184,6863,98880
+Sempra Energy,Utilities,2022,94736.9412,84627.9383,12856.81766,6892,992968
+E.ON SE,Utilities,2016,228000,102000,18000,6895,895429
+E.ON SE,Utilities,2017,216600,95880,16740,6915,78453
+E.ON SE,Utilities,2018,201438,93962.4,15233.4,6941,97793
+E.ON SE,Utilities,2019,193380.48,85505.784,14928.732,6964,167489
+E.ON SE,Utilities,2021,189512.8704,83795.66832,14779.44468,6967,45058
+E.ON SE,Utilities,2022,174351.8408,82957.71164,13301.50021,7070,525064
+Veolia Environnement,Utilities,2016,198000,102000,17000,7105,198321
+Veolia Environnement,Utilities,2017,178200,93840,16320,7136,64532
+Veolia Environnement,Utilities,2018,167508,92901.6,15340.8,7159,84397
+Veolia Environnement,Utilities,2019,165832.92,90114.552,14727.168,7160,59995
+Veolia Environnement,Utilities,2021,159199.6032,88312.26096,13548.99456,7183,148188
+Veolia Environnement,Utilities,2022,156015.6111,81247.28008,12194.0951,7195,119950
+Centrica,Utilities,2016,128000,86000,17000,7210,330806
+Centrica,Utilities,2017,119040,78260,16660,7214,239540
+Centrica,Utilities,2018,117849.6,74347,16160.2,7224,15591
+Centrica,Utilities,2019,107243.136,66912.3,15513.792,7280,52611
+Centrica,Utilities,2021,97591.25376,64904.931,14117.55072,7286,133644
+Centrica,Utilities,2022,92711.69107,58414.4379,13552.84869,7320,60524
+Eversource Energy,Utilities,2016,194000,46000,18000,7326,33097
+Eversource Energy,Utilities,2017,176540,42780,16380,7329,24145
+Eversource Energy,Utilities,2018,173009.2,41496.6,14905.8,7338,615042
+Eversource Energy,Utilities,2019,167818.924,37346.94,14756.742,7372,108709
+Eversource Energy,Utilities,2021,151037.0316,34732.6542,14461.60716,7398,48841
+Eversource Energy,Utilities,2022,146505.9207,34038.00112,13304.67859,7428,73011
+PPL Corporation,Utilities,2016,198000,132000,18000,7523,23717
+PPL Corporation,Utilities,2017,196020,118800,16200,7524,54895
+PPL Corporation,Utilities,2018,180338.4,108108,15228,7580,24507
+PPL Corporation,Utilities,2019,169518.096,101621.52,15075.72,7625,86381
+PPL Corporation,Utilities,2021,167822.915,94508.0136,13568.148,7659,290731
+PPL Corporation,Utilities,2022,152718.8527,86002.29238,13296.78504,7694,13269
+Entergy Corporation,Utilities,2016,103000,45000,17000,7726,5992
+Entergy Corporation,Utilities,2017,96820,42750,16660,7731,58679
+Entergy Corporation,Utilities,2018,94883.6,39330,15827,7769,70514
+Entergy Corporation,Utilities,2019,93934.764,37756.8,14719.11,7838,173733
+Entergy Corporation,Utilities,2021,92995.41636,33981.12,13247.199,7863,124977
+Entergy Corporation,Utilities,2022,86485.73721,30583.008,12187.42308,7863,41089
+JPMorgan Chase & Co.,Financial,2016,79566.87824,28442.19744,11578.05193,7865,390365
+JPMorgan Chase & Co.,Financial,2017,49000,31000,10000,7887,29969
+JPMorgan Chase & Co.,Financial,2018,44100,30690,9300,7902,89115
+JPMorgan Chase & Co.,Financial,2019,40572,29155.5,8649,7921,9936
+JPMorgan Chase & Co.,Financial,2021,38949.12,26823.06,8303.04,7924,61733
+JPMorgan Chase & Co.,Financial,2022,38170.1376,26554.8294,8220.0096,7982,290318
+Bank of America Corp.,Financial,2016,49000,19000,4000,7986,44659
+Bank of America Corp.,Financial,2017,48020,18810,3720,8005,67887
+Bank of America Corp.,Financial,2018,46579.4,16929,3608.4,8023,16448
+Bank of America Corp.,Financial,2019,45647.812,15405.39,3464.064,8066,110122
+Bank of America Corp.,Financial,2021,43365.4214,14943.2283,3117.6576,8094,42875
+Bank of America Corp.,Financial,2022,39896.18769,13598.33775,3055.304448,8107,34566
+Wells Fargo & Co.,Financial,2016,47000,27000,10000,8116,51803
+Wells Fargo & Co.,Financial,2017,42770,24570,9500,8118,16401
+Wells Fargo & Co.,Financial,2018,41914.6,23832.9,9025,8170,49519
+Wells Fargo & Co.,Financial,2019,39818.87,21687.939,8303,8175,22825
+Wells Fargo & Co.,Financial,2021,37827.9265,19952.90388,7638.76,8200,495426
+Wells Fargo & Co.,Financial,2022,36693.08871,19753.37484,7180.4344,8201,19220
+Goldman Sachs Group Inc.,Financial,2016,42000,30000,4000,8225,129944
+Goldman Sachs Group Inc.,Financial,2017,37800,29400,3800,8234,11288
+Goldman Sachs Group Inc.,Financial,2018,35532,28224,3610,8235,64549
+Goldman Sachs Group Inc.,Financial,2019,33044.76,25401.6,3537.8,8237,28361
+Goldman Sachs Group Inc.,Financial,2021,32053.4172,24385.536,3431.666,8342,58381
+Goldman Sachs Group Inc.,Financial,2022,29168.60965,23897.82528,3157.13272,8345,21172
+Morgan Stanley,Financial,2016,50000,20000,4000,8352,12971
+Morgan Stanley,Financial,2017,48000,18800,3800,8359,101450
+Morgan Stanley,Financial,2018,47040,17860,3420,8365,158838
+Morgan Stanley,Financial,2019,42806.4,16967,3385.8,8382,34309
+Morgan Stanley,Financial,2021,40238.016,16627.66,3216.51,8443,9132
+Morgan Stanley,Financial,2022,37018.97472,15463.7238,2894.859,8469,32957
+Berkshire Hathaway Inc.,Financial,2016,35000,27000,3000,8479,5903
+Berkshire Hathaway Inc.,Financial,2017,31500,26730,2820,8489,16197
+Berkshire Hathaway Inc.,Financial,2018,31185,25928.1,2650.8,8510,53369
+Berkshire Hathaway Inc.,Financial,2019,28690.2,23853.852,2544.768,8527,11698
+Berkshire Hathaway Inc.,Financial,2021,26968.788,21707.00532,2290.2912,8536,19575
+Berkshire Hathaway Inc.,Financial,2022,25620.3486,20621.65505,2084.164992,8548,19737
+"BlackRock, Inc.",Financial,2016,41000,15000,5000,8612,7181
+"BlackRock, Inc.",Financial,2017,39770,13650,4550,8620,48887
+"BlackRock, Inc.",Financial,2018,36986.1,13377,4186,8649,59707
+"BlackRock, Inc.",Financial,2019,36246.378,12574.38,4018.56,8671,13943
+"BlackRock, Inc.",Financial,2021,35883.91422,11694.1734,3656.8896,8681,72574
+"BlackRock, Inc.",Financial,2022,32654.36194,11109.46473,3547.182912,8742,67493
+"The Goldman Sachs Group, Inc.",Financial,2016,45000,23000,3000,8751,18345
+"The Goldman Sachs Group, Inc.",Financial,2017,43650,22540,2760,8776,61627
+"The Goldman Sachs Group, Inc.",Financial,2018,40594.5,20962.2,2677.2,8781,25895
+"The Goldman Sachs Group, Inc.",Financial,2019,38564.775,19285.224,2570.112,8846,25377
+"The Goldman Sachs Group, Inc.",Financial,2021,36250.8885,18513.81504,2441.6064,8878,64742
+"The Goldman Sachs Group, Inc.",Financial,2022,32988.30854,17217.84799,2417.190336,8899,33471
+"American International Group, Inc. (AIG)",Financial,2016,42000,28000,4000,8906,39286
+"American International Group, Inc. (AIG)",Financial,2017,38220,25480,3960,8919,152768
+"American International Group, Inc. (AIG)",Financial,2018,34398,24970.4,3682.8,8926,29360
+"American International Group, Inc. (AIG)",Financial,2019,31302.18,23971.584,3609.144,8942,109330
+"American International Group, Inc. (AIG)",Financial,2021,28798.0056,22773.0048,3356.50392,8992,61673
+"American International Group, Inc. (AIG)",Financial,2022,27358.10532,22317.5447,3289.373842,9041,7591
+"Prudential Financial, Inc.",Financial,2016,50000,17000,4000,9041,410295
+"Prudential Financial, Inc.",Financial,2017,45000,15470,3640,9120,69396
+"Prudential Financial, Inc.",Financial,2018,41400,15160.6,3421.6,9127,118700
+"Prudential Financial, Inc.",Financial,2019,38916,13644.54,3318.952,9145,10543
+"Prudential Financial, Inc.",Financial,2021,38526.84,13371.6492,3219.38344,9165,29574
+"Prudential Financial, Inc.",Financial,2022,37756.3032,12836.78323,3154.995771,9172,47511
+"MetLife, Inc.",Financial,2016,49000,19000,4000,9175,25051
+"MetLife, Inc.",Financial,2017,47530,18050,3720,9273,9224
+"MetLife, Inc.",Financial,2018,45153.5,16245,3385.2,9298,381508
+"MetLife, Inc.",Financial,2019,42444.29,15432.75,3080.532,9304,70817
+"MetLife, Inc.",Financial,2021,39897.6326,13889.475,2926.5054,9351,62082
+"MetLife, Inc.",Financial,2022,38700.70362,13056.1065,2633.85486,9444,18881
+Berkshire Hathaway Inc.,Financial,2016,38000,15000,10000,9452,14462
+Berkshire Hathaway Inc.,Financial,2017,36480,14100,9000,9497,33976
+Berkshire Hathaway Inc.,Financial,2018,32832,12831,8190,9526,14555
+Berkshire Hathaway Inc.,Financial,2019,31190.4,12189.45,8108.1,9526,12681
+Berkshire Hathaway Inc.,Financial,2021,28383.264,11823.7665,8027.019,9538,49271
+Berkshire Hathaway Inc.,Financial,2022,26396.43552,10996.10285,7304.58729,9591,4654
+Realty Income Corporation,Financial,2016,42000,17000,7000,9650,8565
+Realty Income Corporation,Financial,2017,40320,16150,6930,9654,104826
+Realty Income Corporation,Financial,2018,37497.6,15019.5,6514.2,9709,14646
+Realty Income Corporation,Financial,2019,33747.84,14118.33,6188.49,9730,117691
+Realty Income Corporation,Financial,2021,32735.4048,13271.2302,5631.5259,9740,18718
+Realty Income Corporation,Financial,2022,29461.86432,12474.95639,5518.895382,9761,23351
+"Simon Property Group, Inc.",Financial,2016,45000,19000,8000,9779,15283
+"Simon Property Group, Inc.",Financial,2017,44550,18810,7680,9790,20497
+"Simon Property Group, Inc.",Financial,2018,40095,17493.3,7296,9871,30157
+"Simon Property Group, Inc.",Financial,2019,37288.35,15743.97,6785.28,9909,7999
+"Simon Property Group, Inc.",Financial,2021,35796.816,15429.0906,6310.3104,9909,13673
+"Simon Property Group, Inc.",Financial,2022,32217.1344,14349.05426,6057.897984,9971,20496
+Public Storage,Financial,2016,45000,23000,8000,10007,7884
+Public Storage,Financial,2017,43200,22310,7840,10072,51333
+Public Storage,Financial,2018,41040,20525.2,7369.6,10074,15607
+Public Storage,Financial,2019,40629.6,18677.932,7001.12,10076,12165
+Public Storage,Financial,2021,39817.008,18304.37336,6861.0976,10083,13226
+Public Storage,Financial,2022,39418.83792,16840.02349,6243.598816,10087,37125
+Pfizer Inc.,"Consumer, Non-Cyclical",2016,78000,38000,11000,10150,51765
+Pfizer Inc.,"Consumer, Non-Cyclical",2017,73320,37240,10340,10164,334761
+Pfizer Inc.,"Consumer, Non-Cyclical",2018,65988,35005.6,9719.6,10168,85196
+Pfizer Inc.,"Consumer, Non-Cyclical",2019,64668.24,31855.096,9330.816,10187,55126
+Pfizer Inc.,"Consumer, Non-Cyclical",2021,60141.4632,30262.3412,8770.96704,10189,29236
+Pfizer Inc.,"Consumer, Non-Cyclical",2022,57134.39004,29051.84755,8683.25737,10213,30111
+Johnson & Johnson,"Consumer, Non-Cyclical",2016,56000,46000,10000,10221,6787
+Johnson & Johnson,"Consumer, Non-Cyclical",2017,54880,41400,9000,10283,16204
+Johnson & Johnson,"Consumer, Non-Cyclical",2018,52684.8,37674,8190,10292,31357
+Johnson & Johnson,"Consumer, Non-Cyclical",2019,47416.32,36920.52,8108.1,10299,14128
+Johnson & Johnson,"Consumer, Non-Cyclical",2021,46467.9936,35812.9044,8027.019,10305,103823
+Johnson & Johnson,"Consumer, Non-Cyclical",2022,45538.63373,32947.87205,7384.85748,10333,26370
+Novartis International AG,"Consumer, Non-Cyclical",2016,45083.24739,30641.521,7163.311756,10433,13679
+Novartis International AG,"Consumer, Non-Cyclical",2017,54000,44000,9000,10454,13736
+Novartis International AG,"Consumer, Non-Cyclical",2018,53460,43120,8460,10456,276088
+Novartis International AG,"Consumer, Non-Cyclical",2019,50787,40964,8290.8,10465,9348
+Novartis International AG,"Consumer, Non-Cyclical",2021,50279.13,38096.52,7793.352,10579,15034
+Novartis International AG,"Consumer, Non-Cyclical",2022,47765.1735,34286.868,7559.55144,10647,75892
+The Coca-Cola Company,"Consumer, Non-Cyclical",2016,77000,47000,11000,10735,9737
+The Coca-Cola Company,"Consumer, Non-Cyclical",2017,75460,43240,10340,10800,11463
+The Coca-Cola Company,"Consumer, Non-Cyclical",2018,73950.8,41942.8,9306,10850,27743
+The Coca-Cola Company,"Consumer, Non-Cyclical",2019,68034.736,38587.376,8747.64,10879,4641
+The Coca-Cola Company,"Consumer, Non-Cyclical",2021,63952.65184,35500.38592,8222.7816,10918,17708
+The Coca-Cola Company,"Consumer, Non-Cyclical",2022,58836.43969,34080.37048,7811.64252,10974,21402
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2016,66000,33000,12000,11088,26783
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2017,60720,29700,10920,11094,82243
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2018,57076.8,26730,10046.4,11120,20869
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2019,55364.496,24324.3,9343.152,11144,30167
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2021,50381.69136,22864.842,8689.13136,11167,13156
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2022,46351.15605,21721.5999,8428.457419,11171,17185
+Nestlé S.A.,"Consumer, Non-Cyclical",2016,59000,31000,9000,11251,473078
+Nestlé S.A.,"Consumer, Non-Cyclical",2017,56050,29760,8280,11296,19024
+Nestlé S.A.,"Consumer, Non-Cyclical",2018,55489.5,29462.4,7866,11362,168622
+Nestlé S.A.,"Consumer, Non-Cyclical",2019,49940.55,27400.032,7236.72,11378,20597
+Nestlé S.A.,"Consumer, Non-Cyclical",2021,49441.1445,25756.03008,6947.2512,11389,40809
+Nestlé S.A.,"Consumer, Non-Cyclical",2022,46474.67583,24210.66828,6808.306176,11474,18018
+Unilever PLC,"Consumer, Non-Cyclical",2016,80000,35000,13000,11486,27234
+Unilever PLC,"Consumer, Non-Cyclical",2017,72000,31850,12610,11503,17577
+Unilever PLC,"Consumer, Non-Cyclical",2018,71280,28983.5,12357.8,11529,76731
+Unilever PLC,"Consumer, Non-Cyclical",2019,66290.4,27824.16,11739.91,11548,17578
+Unilever PLC,"Consumer, Non-Cyclical",2021,59661.36,26154.7104,10683.3181,11555,41888
+Unilever PLC,"Consumer, Non-Cyclical",2022,54291.8376,25631.61619,10149.1522,11618,31761
+Kraft Heinz Company,"Consumer, Non-Cyclical",2016,78000,35000,7000,11665,15068
+Kraft Heinz Company,"Consumer, Non-Cyclical",2017,74100,32200,6650,11785,17311
+Kraft Heinz Company,"Consumer, Non-Cyclical",2018,73359,31556,6450.5,11809,113996
+Kraft Heinz Company,"Consumer, Non-Cyclical",2019,68223.87,30609.32,6063.47,11847,8899
+Kraft Heinz Company,"Consumer, Non-Cyclical",2021,63448.1991,28466.6676,6002.8353,11864,10357
+Kraft Heinz Company,"Consumer, Non-Cyclical",2022,59006.82516,28182.00092,5882.778594,11937,42397
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2016,74000,49000,11000,11999,23199
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2017,68820,44590,10450,12029,15018
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2018,61938,40576.9,10032,12044,17564
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2019,58221.72,38548.055,9028.8,12067,79388
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2021,54728.4168,35849.69115,8577.36,12101,17305
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2022,53633.84846,34057.20659,8148.492,12112,1898
+Danone S.A.,"Consumer, Non-Cyclical",2016,59000,47000,8000,12301,15609
+Danone S.A.,"Consumer, Non-Cyclical",2017,57820,46530,7760,12347,74157
+Danone S.A.,"Consumer, Non-Cyclical",2018,55507.2,45599.4,7294.4,12443,5270
+Danone S.A.,"Consumer, Non-Cyclical",2019,52731.84,41039.46,6856.736,12506,245610
+Danone S.A.,"Consumer, Non-Cyclical",2021,49567.9296,40218.6708,6308.19712,12574,151828
+Danone S.A.,"Consumer, Non-Cyclical",2022,45602.49523,38609.92397,5740.459379,12593,2808
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2016,79000,49000,6000,12633,11608
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2017,75840,44590,5640,12669,10125
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2018,74323.2,41022.8,5301.6,12673,33876
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2019,69863.808,40612.572,5089.536,12808,38336
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2021,64973.34144,38988.06912,4733.26848,12856,33231
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2022,59775.47412,37428.54636,4543.937741,12900,6084
+"Amgen, Inc.","Consumer, Non-Cyclical",2016,66000,47000,7000,12914,41882
+"Amgen, Inc.","Consumer, Non-Cyclical",2017,64020,44650,6790,12937,31124
+"Amgen, Inc.","Consumer, Non-Cyclical",2018,58258.2,43310.5,6382.6,13082,17457
+"Amgen, Inc.","Consumer, Non-Cyclical",2019,54180.126,42011.185,6127.296,13103,58079
+"Amgen, Inc.","Consumer, Non-Cyclical",2021,53096.52348,39490.5139,5820.9312,13131,12780
+"Amgen, Inc.","Consumer, Non-Cyclical",2022,52034.59301,37515.98821,5588.093952,13191,65665
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2016,75000,44000,6000,13209,64382
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2017,73500,42680,5940,13210,35439
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2018,71295,42253.2,5643,13329,8332
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2019,70582.05,41830.668,5530.14,13458,2687
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2021,69876.2295,39739.1346,4977.126,13477,21416
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2022,63587.36885,38149.56922,4479.4134,13578,5570
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2016,66000,46000,10000,13630,6571
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2017,65340,41400,9400,13739,67013
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2018,61419.6,40158,8742,13846,38257
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2019,60805.404,39354.84,7867.8,13871,9896
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2021,58981.24188,38961.2916,7789.122,13888,171473
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2022,54262.74253,38182.06577,7010.2098,13989,26616
+"General Mills, Inc.","Consumer, Non-Cyclical",2016,64000,38000,12000,14102,294005
+"General Mills, Inc.","Consumer, Non-Cyclical",2017,62080,36100,11400,14109,15505
+"General Mills, Inc.","Consumer, Non-Cyclical",2018,58355.2,32490,10944,14147,180644
+"General Mills, Inc.","Consumer, Non-Cyclical",2019,56604.544,31840.2,10068.48,14175,18046
+"General Mills, Inc.","Consumer, Non-Cyclical",2021,53208.27136,31521.798,9363.6864,14192,10976
+"General Mills, Inc.","Consumer, Non-Cyclical",2022,51612.02322,29630.49012,8520.954624,14300,50448
+Kellogg Company,"Consumer, Non-Cyclical",2016,76000,32000,9000,14320,28898
+Kellogg Company,"Consumer, Non-Cyclical",2017,72200,29440,8460,14378,6005
+Kellogg Company,"Consumer, Non-Cyclical",2018,67868,27968,7867.8,14383,17360
+Kellogg Company,"Consumer, Non-Cyclical",2019,61759.88,27408.64,7710.444,14402,19509
+Kellogg Company,"Consumer, Non-Cyclical",2021,58671.886,26038.208,7093.60848,14442,11668
+Kellogg Company,"Consumer, Non-Cyclical",2022,56325.01056,25517.44384,6384.247632,14539,18193
+Walmart Inc.,"Consumer, Cyclical",2016,67000,39000,7000,14608,37923
+Walmart Inc.,"Consumer, Cyclical",2017,62310,36270,6720,14664,6917
+Walmart Inc.,"Consumer, Cyclical",2018,59194.5,35544.6,6451.2,14745,20762
+Walmart Inc.,"Consumer, Cyclical",2019,53275.05,32345.586,5999.616,14863,7989
+Walmart Inc.,"Consumer, Cyclical",2021,49013.046,29111.0274,5399.6544,14884,33735
+Walmart Inc.,"Consumer, Cyclical",2022,44601.87186,27073.25548,5345.657856,14906,49518
+"Amazon.com, Inc.","Consumer, Cyclical",2016,50000,30000,9000,14931,9367
+"Amazon.com, Inc.","Consumer, Cyclical",2017,48500,29700,8460,14954,23251
+"Amazon.com, Inc.","Consumer, Cyclical",2018,47530,29106,7867.8,15066,8131
+"Amazon.com, Inc.","Consumer, Cyclical",2019,45628.8,26195.4,7238.376,15146,17315
+"Amazon.com, Inc.","Consumer, Cyclical",2021,41065.92,25933.446,6586.92216,15310,51724
+"Amazon.com, Inc.","Consumer, Cyclical",2022,38601.9648,25414.77708,5994.099166,15455,42301
+"The Home Depot, Inc.","Consumer, Cyclical",2016,68000,41000,10000,15464,18174
+"The Home Depot, Inc.","Consumer, Cyclical",2017,67320,39360,9300,15524,30565
+"The Home Depot, Inc.","Consumer, Cyclical",2018,64627.2,36211.2,9021,15561,7311
+"The Home Depot, Inc.","Consumer, Cyclical",2019,59457.024,34400.64,8930.79,15693,28860
+"The Home Depot, Inc.","Consumer, Cyclical",2021,58862.45376,33712.6272,8484.2505,16039,8276
+"The Home Depot, Inc.","Consumer, Cyclical",2022,53564.83292,30678.49075,7975.19547,16222,50174
+Target Corporation,"Consumer, Cyclical",2016,50886.59128,27610.64168,7337.179832,16227,4071
+Target Corporation,"Consumer, Cyclical",2017,52000,41000,7000,16383,14631
+Target Corporation,"Consumer, Cyclical",2018,49400,40590,6510,16569,83806
+Target Corporation,"Consumer, Cyclical",2019,48906,37748.7,5989.2,16572,7151
+Target Corporation,"Consumer, Cyclical",2021,47927.88,37371.213,5569.956,16648,22684
+Target Corporation,"Consumer, Cyclical",2022,43135.092,36250.07661,5514.25644,16652,44189
+Costco Wholesale Corp.,"Consumer, Cyclical",2016,63000,42000,7000,16783,5717
+Costco Wholesale Corp.,"Consumer, Cyclical",2017,62370,41580,6440,16829,17752
+Costco Wholesale Corp.,"Consumer, Cyclical",2018,58004.1,40332.6,5860.4,16865,10716
+Costco Wholesale Corp.,"Consumer, Cyclical",2019,52203.69,37509.318,5743.192,16883,33648
+Costco Wholesale Corp.,"Consumer, Cyclical",2021,46983.321,37134.22482,5628.32816,17098,77539
+Costco Wholesale Corp.,"Consumer, Cyclical",2022,42284.9889,34906.17133,5065.495344,17129,9702
+Ford Motor Company,"Consumer, Cyclical",2016,57000,37000,13000,17258,21812
+Ford Motor Company,"Consumer, Cyclical",2017,51870,35150,12350,17290,10717
+Ford Motor Company,"Consumer, Cyclical",2018,47720.4,32338,11485.5,17380,44291
+Ford Motor Company,"Consumer, Cyclical",2019,47243.196,30397.72,10911.225,17450,15642
+Ford Motor Company,"Consumer, Cyclical",2021,45825.90012,28269.8796,9929.21475,17487,47730
+Ford Motor Company,"Consumer, Cyclical",2022,44451.12312,27704.48201,9532.04616,17593,15711
+General Motors Company,"Consumer, Cyclical",2016,56000,30000,9000,17772,16649
+General Motors Company,"Consumer, Cyclical",2017,52640,27000,8460,17817,27135
+General Motors Company,"Consumer, Cyclical",2018,48955.2,25650,8375.4,17901,13387
+General Motors Company,"Consumer, Cyclical",2019,46507.44,25137,8291.646,17983,13631
+General Motors Company,"Consumer, Cyclical",2021,44647.1424,23628.78,7462.4814,18032,13148
+General Motors Company,"Consumer, Cyclical",2022,40182.42816,23156.2044,7387.856586,18289,12531
+Toyota Motor Corporation,"Consumer, Cyclical",2016,59000,42000,7000,18372,169369
+Toyota Motor Corporation,"Consumer, Cyclical",2017,53690,41160,6440,18450,24627
+Toyota Motor Corporation,"Consumer, Cyclical",2018,52616.2,37455.6,5989.2,18479,34108
+Toyota Motor Corporation,"Consumer, Cyclical",2019,47354.58,35957.376,5929.308,19146,39974
+Toyota Motor Corporation,"Consumer, Cyclical",2021,43566.2136,35597.80224,5395.67028,19204,35492
+Toyota Motor Corporation,"Consumer, Cyclical",2022,42694.88933,32749.97806,5179.843469,19392,11249
+Volkswagen Group,"Consumer, Cyclical",2016,51000,30000,11000,19461,12001
+Volkswagen Group,"Consumer, Cyclical",2017,48960,29400,9900,19519,3643
+Volkswagen Group,"Consumer, Cyclical",2018,46022.4,27930,8910,19744,249870
+Volkswagen Group,"Consumer, Cyclical",2019,45101.952,25974.9,8197.2,19796,22214
+Volkswagen Group,"Consumer, Cyclical",2021,44199.91296,25195.653,8033.256,19810,37474
+Volkswagen Group,"Consumer, Cyclical",2022,41105.91905,23683.91382,7631.5932,19974,19317
+"Tesla, Inc.","Consumer, Cyclical",2016,53000,31000,12000,20156,8109
+"Tesla, Inc.","Consumer, Cyclical",2017,48760,29450,11400,20173,14957
+"Tesla, Inc.","Consumer, Cyclical",2018,44371.6,28272,11058,20419,6495
+"Tesla, Inc.","Consumer, Cyclical",2019,43927.884,26292.96,10283.94,20521,18970
+"Tesla, Inc.","Consumer, Cyclical",2021,40852.93212,23663.664,9666.9036,20740,19067
+"Tesla, Inc.","Consumer, Cyclical",2022,39627.34416,22007.20752,9376.896492,20822,7016
+BMW AG,"Consumer, Cyclical",2016,61000,36000,13000,20864,16008
+BMW AG,"Consumer, Cyclical",2017,56730,32760,12480,20972,4830
+BMW AG,"Consumer, Cyclical",2018,55028.1,30139.2,12230.4,21077,23126
+BMW AG,"Consumer, Cyclical",2019,53927.538,28330.848,11496.576,21184,5471
+BMW AG,"Consumer, Cyclical",2021,49613.33496,28047.53952,11151.67872,21336,15047
+BMW AG,"Consumer, Cyclical",2022,46140.40151,27767.06412,10036.51085,21419,2953
+Daimler AG,"Consumer, Cyclical",2016,53000,33000,12000,21512,60899
+Daimler AG,"Consumer, Cyclical",2017,47700,30030,11880,21624,7760
+Daimler AG,"Consumer, Cyclical",2018,44838,27027,11761.2,21674,26932
+Daimler AG,"Consumer, Cyclical",2019,42147.72,26756.73,10937.916,21708,24639
+Daimler AG,"Consumer, Cyclical",2021,39618.8568,24081.057,10828.53684,21971,169051
+Daimler AG,"Consumer, Cyclical",2022,36449.34826,23840.24643,9745.683156,22260,14475
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2016,70000,43000,14000,22307,18943
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2017,63000,41710,12880,22320,19299
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2018,59850,38373.2,12364.8,22376,7031
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2019,58653,35303.344,11622.912,22401,16469
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2021,53960.76,32832.10992,11157.99552,22408,4809
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2022,53421.1524,29877.22003,11046.41556,22428,12993
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2016,52000,38000,13000,22449,6950
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2017,48880,34580,12610,22589,6629
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2018,43992,33888.4,12231.7,22597,25345
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2019,41352.48,31177.328,11008.53,22977,101342
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2021,39698.3808,28994.91504,10237.9329,23179,18815
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2022,35728.54272,28125.06759,10033.17424,23362,17665
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2016,48000,35000,14000,23406,7220
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2017,46080,32550,13300,23481,102478
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2018,42854.4,30922.5,12502,23571,6771
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2019,38568.96,29685.6,11251.8,23611,2276
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2021,37797.5808,26717.04,10576.692,23757,41124
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2022,34017.82272,26449.8696,10153.62432,23838,5893
+AT&T Inc.,Communications,2016,16000,8000,3000,23894,16193
+AT&T Inc.,Communications,2017,15680,7440,2850,24088,13149
+AT&T Inc.,Communications,2018,15052.8,6993.6,2707.5,24273,10677
+AT&T Inc.,Communications,2019,13999.104,6504.048,2680.425,24508,23347
+AT&T Inc.,Communications,2021,12739.18464,5853.6432,2573.208,24578,5566
+AT&T Inc.,Communications,2022,12484.40095,5502.424608,2521.74384,24658,3731
+Verizon Communications Inc.,Communications,2016,25000,8000,3000,24977,5018
+Verizon Communications Inc.,Communications,2017,24500,7280,2700,25282,5289
+Verizon Communications Inc.,Communications,2018,24255,6843.2,2457,25331,14432
+Verizon Communications Inc.,Communications,2019,23527.35,6774.768,2260.44,25542,8320
+Verizon Communications Inc.,Communications,2021,23056.803,6707.02032,2147.418,25600,70130
+Verizon Communications Inc.,Communications,2022,22595.66694,6170.458694,2040.0471,25868,5027
+Comcast Corporation,Communications,2016,20000,11000,2000,25939,3906
+Comcast Corporation,Communications,2017,18200,10340,1980,26145,10816
+Comcast Corporation,Communications,2018,17836,10236.6,1801.8,26509,46040
+Comcast Corporation,Communications,2019,17479.28,9724.77,1621.62,27325,18944
+Comcast Corporation,Communications,2021,16605.316,9141.2838,1508.1066,27754,3692
+Comcast Corporation,Communications,2022,16107.15652,8775.632448,1357.29594,27812,3901
+"Charter Communications, Inc.",Communications,2016,16000,7000,2000,28917,13261
+"Charter Communications, Inc.",Communications,2017,15520,6510,1960,29135,29232
+"Charter Communications, Inc.",Communications,2018,14899.2,5989.2,1803.2,29176,17488
+"Charter Communications, Inc.",Communications,2019,14750.208,5450.172,1713.04,29805,11918
+"Charter Communications, Inc.",Communications,2021,13865.19552,5395.67028,1610.2576,31581,165733
+"Charter Communications, Inc.",Communications,2022,13726.54356,5179.843469,1465.334416,31901,38830
+"T-Mobile US, Inc.",Communications,2016,17000,8000,3000,31904,6589
+"T-Mobile US, Inc.",Communications,2017,15300,7760,2880,32136,8140
+"T-Mobile US, Inc.",Communications,2018,13923,7294.4,2592,32294,24639
+"T-Mobile US, Inc.",Communications,2019,13366.08,7002.624,2384.64,32789,25408
+"T-Mobile US, Inc.",Communications,2021,13232.4192,6862.57152,2265.408,32897,54703
+"T-Mobile US, Inc.",Communications,2022,12438.47405,6793.945805,2038.8672,33266,26643
+Deutsche Telekom AG,Communications,2016,12065.31983,6318.369598,1936.92384,33669,10642
+Deutsche Telekom AG,Communications,2017,22000,8000,3000,33766,5660
+Deutsche Telekom AG,Communications,2018,20020,7280,2970,33841,14805
+Deutsche Telekom AG,Communications,2019,19019,6697.6,2791.8,34438,7606
+Deutsche Telekom AG,Communications,2021,17117.1,6027.84,2735.964,35617,16711
+Deutsche Telekom AG,Communications,2022,16774.758,5605.8912,2517.08688,36670,45680
+Orange S.A.,Communications,2016,20000,11000,3000,36709,4178
+Orange S.A.,Communications,2017,19400,10120,2820,36819,12843
+Orange S.A.,Communications,2018,18624,9512.8,2650.8,36998,144988
+Orange S.A.,Communications,2019,18065.28,9132.288,2438.736,37253,2511
+Orange S.A.,Communications,2021,16258.752,8949.64224,2243.63712,37266,14127
+Orange S.A.,Communications,2022,15770.98944,8233.670861,2019.273408,38463,42802
+China Mobile Limited,Communications,2016,13000,7000,3000,39022,2518
+China Mobile Limited,Communications,2017,12480,6300,2700,39117,34952
+China Mobile Limited,Communications,2018,11980.8,5922,2565,39258,3810
+China Mobile Limited,Communications,2019,10782.72,5744.34,2334.15,39350,4864
+China Mobile Limited,Communications,2021,10243.584,5399.6796,2310.8085,39506,13717
+China Mobile Limited,Communications,2022,10141.14816,4967.705232,2172.15999,40454,32586
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2016,16000,8000,2000,41717,2229
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2017,15040,7200,1840,42405,17439
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2018,14288,6984,1784.8,42951,13347
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2019,13859.36,6844.32,1749.104,43228,5594
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2021,12612.0176,6775.8768,1714.12192,43259,3250
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2022,11729.17637,6708.118032,1662.698262,43638,10828
+Comcast NBCUniversal,Communications,2016,19000,8000,3000,43982,21076
+Comcast NBCUniversal,Communications,2017,18430,7440,2820,44117,2911
+Comcast NBCUniversal,Communications,2018,17692.8,7068,2622.6,44675,19635
+Comcast NBCUniversal,Communications,2019,17162.016,6361.2,2543.922,45764,4997
+Comcast NBCUniversal,Communications,2021,15789.05472,6297.588,2289.5298,45768,10006
+Comcast NBCUniversal,Communications,2022,14525.93034,5667.8292,2106.367416,46840,3092
+The Walt Disney Company,Communications,2016,25000,11000,3000,47007,8670
+The Walt Disney Company,Communications,2017,23250,10780,2760,47020,6393
+The Walt Disney Company,Communications,2018,21157.5,10564.4,2566.8,49746,5489
+The Walt Disney Company,Communications,2019,20311.2,10141.824,2387.124,51336,7354
+The Walt Disney Company,Communications,2021,19498.752,9736.15104,2220.02532,51750,7236
+The Walt Disney Company,Communications,2022,17938.85184,9249.343488,2020.223041,51904,119873
+"Netflix, Inc.",Communications,2016,23000,8000,3000,53800,8987
+"Netflix, Inc.",Communications,2017,22080,7680,2820,53823,136828
+"Netflix, Inc.",Communications,2018,21638.4,7065.6,2791.8,53922,7437
+"Netflix, Inc.",Communications,2019,20556.48,6359.04,2680.128,54213,4431
+"Netflix, Inc.",Communications,2021,20350.9152,5977.4976,2626.52544,58756,26837
+"Netflix, Inc.",Communications,2022,20147.40605,5738.397696,2495.199168,59812,6285
+ViacomCBS Inc.,Communications,2016,24000,9000,3000,60114,6283
+ViacomCBS Inc.,Communications,2017,21600,8280,2910,60535,126240
+ViacomCBS Inc.,Communications,2018,19872,7948.8,2764.5,64656,25054
+ViacomCBS Inc.,Communications,2019,18083.52,7392.384,2681.565,64807,6028
+ViacomCBS Inc.,Communications,2021,16817.6736,6653.1456,2440.22415,64888,21487
+ViacomCBS Inc.,Communications,2022,15304.08298,6253.956864,2318.212943,67161,3832
+News Corporation,Communications,2016,22000,9000,2000,67684,11348
+News Corporation,Communications,2017,19800,8910,1860,69570,6113
+News Corporation,Communications,2018,19404,8642.7,1804.2,69620,9610
+News Corporation,Communications,2019,19015.92,7951.284,1713.99,69693,13871
+News Corporation,Communications,2021,18065.124,7712.74548,1645.4304,70697,63138
+News Corporation,Communications,2022,16619.91408,7172.853296,1546.704576,71965,26495
+Sony Corporation,Communications,2016,10000,7000,3000,72148,16406
+Sony Corporation,Communications,2017,9400,6370,2730,74094,227259
+Sony Corporation,Communications,2018,8648,5987.8,2620.8,74639,94493
+Sony Corporation,Communications,2019,7956.16,5628.532,2358.72,75125,6645
+Sony Corporation,Communications,2021,7717.4752,5178.24944,2122.848,76559,21782
+Sony Corporation,Communications,2022,7331.60144,5074.684451,2080.39104,77046,3693
+Time Warner (now part of WarnerMedia),Communications,2016,22000,7000,3000,77147,19845
+Time Warner (now part of WarnerMedia),Communications,2017,21120,6370,2790,78112,2820
+Time Warner (now part of WarnerMedia),Communications,2018,19219.2,5860.4,2594.7,79395,18107
+Time Warner (now part of WarnerMedia),Communications,2019,19027.008,5567.38,2490.912,82059,4711
+Time Warner (now part of WarnerMedia),Communications,2021,18456.19776,5344.6848,2366.3664,92154,4591
+Time Warner (now part of WarnerMedia),Communications,2022,17717.94985,5184.344256,2224.384416,95214,3430
+Exxon Mobil Corporation,Energy,2016,228000,64000,14000,102729,5943
+Exxon Mobil Corporation,Energy,2017,207480,58880,13020,103449,9476
+Exxon Mobil Corporation,Energy,2018,186732,55347.2,12759.6,103915,3330
+Exxon Mobil Corporation,Energy,2019,168058.8,51472.896,11994.024,104213,11545
+Exxon Mobil Corporation,Energy,2021,166378.212,50958.16704,11514.26304,108942,2700
+Exxon Mobil Corporation,Energy,2022,153067.955,50448.58537,11168.83515,109559,5116
+Chevron Corporation,Energy,2016,140000,123000,14000,110225,6040
+Chevron Corporation,Energy,2017,131600,113160,13020,113589,11519
+Chevron Corporation,Energy,2018,118440,101844,11978.4,120304,7290
+Chevron Corporation,Energy,2019,107780.4,95733.36,11499.264,122286,8741
+Chevron Corporation,Energy,2021,102391.38,93818.6928,11384.27136,124813,4715
+Chevron Corporation,Energy,2022,96247.8972,91004.13202,10928.90051,125843,3231
+Royal Dutch Shell plc,Energy,2016,190000,107000,14000,131868,9188
+Royal Dutch Shell plc,Energy,2017,184300,101650,13020,136866,2311
+Royal Dutch Shell plc,Energy,2018,169556,94534.5,11848.2,137237,9336
+Royal Dutch Shell plc,Energy,2019,154295.96,93589.155,11255.79,142422,9773
+Royal Dutch Shell plc,Energy,2021,140409.3236,92653.26345,10467.8847,145534,6877
+Royal Dutch Shell plc,Energy,2022,131984.7642,88947.13291,9944.490465,146516,43786
+BP plc,Energy,2016,222000,61000,14000,152703,21393
+BP plc,Energy,2017,199800,57950,12880,153566,28933
+BP plc,Energy,2018,189810,56211.5,11720.8,155900,4054
+BP plc,Energy,2019,174625.2,51714.58,11486.384,161857,7543
+BP plc,Energy,2021,162401.436,47577.4136,10912.0648,179589,3759
+BP plc,Energy,2022,154281.3642,43295.44638,9929.978968,181193,3407
+TotalEnergies SE,Energy,2016,136000,118000,14000,214319,14532
+TotalEnergies SE,Energy,2017,129200,114460,12600,242155,6291
+TotalEnergies SE,Energy,2018,120156,105303.2,11592,254616,4232
+TotalEnergies SE,Energy,2019,112946.64,103197.136,11476.08,256776,38457
+TotalEnergies SE,Energy,2021,101651.976,92877.4224,11017.0368,260174,31232
+TotalEnergies SE,Energy,2022,97585.89696,90091.09973,10686.5257,264938,6895
+ConocoPhillips,Energy,2016,183000,61000,14000,280522,11952
+ConocoPhillips,Energy,2017,179340,59780,13020,523964,109002
+ConocoPhillips,Energy,2018,177546.6,57986.6,12369,5655,236495
+ConocoPhillips,Energy,2019,173995.668,55667.136,12121.62,5681,225248
+ConocoPhillips,Energy,2021,167035.8413,51213.76512,11151.8904,5693,362597
+ConocoPhillips,Energy,2022,165365.4829,47628.80156,10148.22026,5755,338516
+"Kinder Morgan, Inc.",Energy,2016,153789.8991,44771.07347,10046.73806,5763,222449
+"Kinder Morgan, Inc.",Energy,2017,163000,87000,13000,5763,817729
+"Kinder Morgan, Inc.",Energy,2018,146700,79170,12740,5765,173889
+"Kinder Morgan, Inc.",Energy,2019,134964,76003.2,12612.6,5775,59672
+"Kinder Morgan, Inc.",Energy,2021,130915.08,68402.88,11981.97,5810,551669
+"Kinder Morgan, Inc.",Energy,2022,117823.572,62246.6208,11622.5109,5829,39172
+Enterprise Products Partners L.P.,Energy,2016,104000,105000,13000,5870,275909
+Enterprise Products Partners L.P.,Energy,2017,96720,96600,12610,5898,258537
+Enterprise Products Partners L.P.,Energy,2018,90916.8,94668,11853.4,5910,155774
+Enterprise Products Partners L.P.,Energy,2019,90007.632,91827.96,11379.264,5991,45400
+Enterprise Products Partners L.P.,Energy,2021,82807.02144,82645.164,11265.47136,6016,237428
+Enterprise Products Partners L.P.,Energy,2022,78666.67037,77686.45416,10364.23365,6027,40963
+Enbridge Inc.,Energy,2016,163000,96000,14000,6040,2687379
+Enbridge Inc.,Energy,2017,161370,90240,13160,6053,228037
+Enbridge Inc.,Energy,2018,148460.4,88435.2,13028.4,6074,67598
+Enbridge Inc.,Energy,2019,133614.36,86666.496,11725.56,6110,291727
+Enbridge Inc.,Energy,2021,129605.9292,85799.83104,11608.3044,6117,286556
+Enbridge Inc.,Energy,2022,128309.8699,81509.83949,10447.47396,6146,98556
+TransCanada Corporation,Energy,2016,171000,93000,14000,6146,45256
+TransCanada Corporation,Energy,2017,162450,92070,13020,6160,3503319
+TransCanada Corporation,Energy,2018,157576.5,83783.7,12499.2,6202,2434079
+TransCanada Corporation,Energy,2019,141818.85,77918.841,11249.28,6209,51236
+TransCanada Corporation,Energy,2021,133309.719,74802.08736,10574.3232,6214,58720
+TransCanada Corporation,Energy,2022,119978.7471,68817.92037,9728.377344,6243,263414
+Phillips 66,Energy,2016,235000,62000,13000,6260,77453
+Phillips 66,Energy,2017,232650,58900,11960,6276,1927555
+Phillips 66,Energy,2018,209385,53599,11242.4,6297,1951158
+Phillips 66,Energy,2019,205197.3,48775.09,11129.976,6313,53864
+Phillips 66,Energy,2021,203145.327,47311.8373,10239.57792,6343,266048
+Phillips 66,Energy,2022,188925.1541,46838.71893,9829.994803,6359,118861
+Valero Energy Corporation,Energy,2016,209000,56000,13000,6379,157728
+Valero Energy Corporation,Energy,2017,200640,53200,12220,6411,294823
+Valero Energy Corporation,Energy,2018,190608,47880,11486.8,6466,42779
+Valero Energy Corporation,Energy,2019,181077.6,44049.6,11371.932,6489,152186
+Valero Energy Corporation,Energy,2021,173834.496,39644.64,10575.89676,6499,139716
+Valero Energy Corporation,Energy,2022,170357.8061,38058.8544,10047.10192,6510,133625
+Marathon Petroleum Corporation,Energy,2016,206000,104000,14000,6531,2203623
+Marathon Petroleum Corporation,Energy,2017,189520,99840,12880,6547,40994
+Marathon Petroleum Corporation,Energy,2018,178148.8,96844.8,12751.2,6554,57857
+Marathon Petroleum Corporation,Energy,2019,176367.312,93939.456,12368.664,6554,39471
+Marathon Petroleum Corporation,Energy,2021,162257.927,86424.29952,12244.97736,6581,136524
+Marathon Petroleum Corporation,Energy,2022,155767.61,84695.81353,11510.27872,6601,133376
+"EOG Resources, Inc.",Energy,2016,205000,62000,14000,6611,54403
+"EOG Resources, Inc.",Energy,2017,200900,57660,12880,6691,740463
+"EOG Resources, Inc.",Energy,2018,186837,57083.4,12493.6,6695,193984
+"EOG Resources, Inc.",Energy,2019,175626.78,52516.728,11494.112,6699,115095
+"EOG Resources, Inc.",Energy,2021,165089.1732,48840.55704,10574.58304,6704,78547
+"EOG Resources, Inc.",Energy,2022,163438.2815,46886.93476,9517.124736,6726,29074
+Occidental Petroleum Corporation,Energy,2016,231000,101000,14000,6731,896552
+Occidental Petroleum Corporation,Energy,2017,207900,98980,13720,6743,43997
+Occidental Petroleum Corporation,Energy,2018,189189,92051.4,12348,6755,20777
+Occidental Petroleum Corporation,Energy,2019,185405.22,82846.26,12101.04,6784,17967
+Occidental Petroleum Corporation,Energy,2021,170572.8024,77047.0218,11980.0296,6840,47528
+Occidental Petroleum Corporation,Energy,2022,156926.9782,72424.20049,11141.42753,6845,33467
+Dow Inc.,Basic Materials,2016,96000,75000,#NUM!,6863,98880
+Dow Inc.,Basic Materials,2017,88320,73500,#NUM!,6892,992968
+Dow Inc.,Basic Materials,2018,80371.2,71295,#NUM!,6895,895429
+Dow Inc.,Basic Materials,2019,79567.488,64878.45,#NUM!,6915,78453
+Dow Inc.,Basic Materials,2021,73997.76384,59039.3895,#NUM!,6941,97793
+Dow Inc.,Basic Materials,2022,68817.92037,53725.84445,#NUM!,6964,167489
+BASF SE,Basic Materials,2016,113000,75000,#NUM!,6967,45058
+BASF SE,Basic Materials,2017,101700,72000,#NUM!,7070,525064
+BASF SE,Basic Materials,2018,96615,65520,#NUM!,7105,198321
+BASF SE,Basic Materials,2019,93716.55,59623.2,#NUM!,7136,64532
+BASF SE,Basic Materials,2021,89030.7225,57834.504,#NUM!,7159,84397
+BASF SE,Basic Materials,2022,83688.87915,54364.43376,#NUM!,7160,59995
+"DuPont de Nemours, Inc.",Basic Materials,2016,125000,76000,#NUM!,7183,148188
+"DuPont de Nemours, Inc.",Basic Materials,2017,115000,69160,#NUM!,7195,119950
+"DuPont de Nemours, Inc.",Basic Materials,2018,108100,67085.2,#NUM!,7210,330806
+"DuPont de Nemours, Inc.",Basic Materials,2019,98371,63730.94,#NUM!,7214,239540
+"DuPont de Nemours, Inc.",Basic Materials,2021,93452.45,58632.4648,#NUM!,7224,15591
+"DuPont de Nemours, Inc.",Basic Materials,2022,91583.401,56873.49086,#NUM!,7280,52611
+LyondellBasell Industries NV,Basic Materials,2016,97000,74000,#NUM!,7286,133644
+LyondellBasell Industries NV,Basic Materials,2017,91180,67340,#NUM!,7320,60524
+LyondellBasell Industries NV,Basic Materials,2018,85709.2,63299.6,#NUM!,7326,33097
+LyondellBasell Industries NV,Basic Materials,2019,83137.924,57602.636,#NUM!,7329,24145
+LyondellBasell Industries NV,Basic Materials,2021,75655.51084,52994.42512,#NUM!,7338,615042
+LyondellBasell Industries NV,Basic Materials,2022,73385.84551,48224.92686,#NUM!,7372,108709
+Air Liquide S.A.,Basic Materials,2016,120000,65000,#NUM!,7398,48841
+Air Liquide S.A.,Basic Materials,2017,110400,59800,#NUM!,7428,73011
+Air Liquide S.A.,Basic Materials,2018,102672,53820,#NUM!,7523,23717
+Air Liquide S.A.,Basic Materials,2019,97538.4,48976.2,#NUM!,7524,54895
+Air Liquide S.A.,Basic Materials,2021,95587.632,44568.342,#NUM!,7580,24507
+Air Liquide S.A.,Basic Materials,2022,89852.37408,41448.55806,#NUM!,7625,86381
+BHP Group Limited,Basic Materials,2016,91000,76000,#NUM!,7659,290731
+BHP Group Limited,Basic Materials,2017,83720,68400,#NUM!,7694,13269
+BHP Group Limited,Basic Materials,2018,82045.6,64296,#NUM!,7726,5992
+BHP Group Limited,Basic Materials,2019,77122.864,61081.2,#NUM!,7731,58679
+BHP Group Limited,Basic Materials,2021,73266.7208,56805.516,#NUM!,7769,70514
+BHP Group Limited,Basic Materials,2022,68138.05034,52261.07472,#NUM!,7838,173733
+Rio Tinto Group,Basic Materials,2016,146000,62000,#NUM!,7863,124977
+Rio Tinto Group,Basic Materials,2017,131400,55800,#NUM!,7863,41089
+Rio Tinto Group,Basic Materials,2018,122202,51894,#NUM!,7865,390365
+Rio Tinto Group,Basic Materials,2019,109981.8,49818.24,#NUM!,7887,29969
+Rio Tinto Group,Basic Materials,2021,100083.438,46330.9632,#NUM!,7902,89115
+Rio Tinto Group,Basic Materials,2022,91075.92858,44477.72467,#NUM!,7921,9936
+Vale S.A.,Basic Materials,2016,138000,72000,#NUM!,7924,61733
+Vale S.A.,Basic Materials,2017,125580,66240,#NUM!,7982,290318
+Vale S.A.,Basic Materials,2018,115533.6,62265.6,#NUM!,7986,44659
+Vale S.A.,Basic Materials,2019,113222.928,59152.32,#NUM!,8005,67887
+Vale S.A.,Basic Materials,2021,101900.6352,53237.088,#NUM!,8023,16448
+Vale S.A.,Basic Materials,2022,98843.61614,47913.3792,#NUM!,8066,110122
+Freeport-McMoRan Inc.,Basic Materials,2016,95878.30766,47434.24541,#NUM!,8094,42875
+Freeport-McMoRan Inc.,Basic Materials,2017,100000,66000,#NUM!,8107,34566
+Freeport-McMoRan Inc.,Basic Materials,2018,99000,63360,#NUM!,8116,51803
+Freeport-McMoRan Inc.,Basic Materials,2019,89100,59558.4,#NUM!,8118,16401
+Freeport-McMoRan Inc.,Basic Materials,2021,86427,53602.56,#NUM!,8170,49519
+Freeport-McMoRan Inc.,Basic Materials,2022,83834.19,50386.4064,#NUM!,8175,22825
+Newmont Corporation,Basic Materials,2016,92000,71000,#NUM!,8200,495426
+Newmont Corporation,Basic Materials,2017,88320,69580,#NUM!,8201,19220
+Newmont Corporation,Basic Materials,2018,81254.4,66796.8,#NUM!,8225,129944
+Newmont Corporation,Basic Materials,2019,76379.136,62121.024,#NUM!,8234,11288
+Newmont Corporation,Basic Materials,2021,71032.59648,61499.81376,#NUM!,8235,64549
+Newmont Corporation,Basic Materials,2022,68191.29262,57194.8268,#NUM!,8237,28361
+Barrick Gold Corporation,Basic Materials,2016,143000,66000,#NUM!,8342,58381
+Barrick Gold Corporation,Basic Materials,2017,138710,64020,#NUM!,8345,21172
+Barrick Gold Corporation,Basic Materials,2018,126226.1,58258.2,#NUM!,8352,12971
+Barrick Gold Corporation,Basic Materials,2019,123701.578,54762.708,#NUM!,8359,101450
+Barrick Gold Corporation,Basic Materials,2021,117516.4991,51476.94552,#NUM!,8365,158838
+Barrick Gold Corporation,Basic Materials,2022,109290.3442,47358.78988,#NUM!,8382,34309
+Alcoa Corporation,Basic Materials,2016,98000,76000,#NUM!,8443,9132
+Alcoa Corporation,Basic Materials,2017,93100,74480,#NUM!,8469,32957
+Alcoa Corporation,Basic Materials,2018,84721,69266.4,#NUM!,8479,5903
+Alcoa Corporation,Basic Materials,2019,80484.95,65110.416,#NUM!,8489,16197
+Alcoa Corporation,Basic Materials,2021,72436.455,62505.99936,#NUM!,8510,53369
+Alcoa Corporation,Basic Materials,2022,68090.2677,56255.39942,#NUM!,8527,11698
+Anglo American plc,Basic Materials,2016,101000,64000,#NUM!,8536,19575
+Anglo American plc,Basic Materials,2017,98980,57600,#NUM!,8548,19737
+Anglo American plc,Basic Materials,2018,90071.8,54720,#NUM!,8612,7181
+Anglo American plc,Basic Materials,2019,81965.338,54172.8,#NUM!,8620,48887
+Anglo American plc,Basic Materials,2021,75408.11096,49838.976,#NUM!,8649,59707
+Anglo American plc,Basic Materials,2022,72391.78652,46350.24768,#NUM!,8671,13943
+Glencore plc,Basic Materials,2016,112000,62000,#NUM!,8681,72574
+Glencore plc,Basic Materials,2017,100800,60760,#NUM!,8742,67493
+Glencore plc,Basic Materials,2018,90720,54684,#NUM!,8751,18345
+Glencore plc,Basic Materials,2019,89812.8,53043.48,#NUM!,8776,61627
+Glencore plc,Basic Materials,2021,88016.544,49330.4364,#NUM!,8781,25895
+Glencore plc,Basic Materials,2022,82735.55136,45384.00149,#NUM!,8846,25377
+Teck Resources Limited,Basic Materials,2016,115000,76000,#NUM!,8878,64742
+Teck Resources Limited,Basic Materials,2017,108100,70680,#NUM!,8899,33471
+Teck Resources Limited,Basic Materials,2018,100533,67146,#NUM!,8906,39286
+Teck Resources Limited,Basic Materials,2019,90479.7,63788.7,#NUM!,8919,152768
+Teck Resources Limited,Basic Materials,2021,89574.903,59323.491,#NUM!,8926,29360
+Teck Resources Limited,Basic Materials,2022,85096.15785,54577.61172,#NUM!,8942,109330
+"American Airlines Group, Inc.",Industrial,2016,45000,26000,5000,8992,61673
+"American Airlines Group, Inc.",Industrial,2017,44550,24960,4700,9041,7591
+"American Airlines Group, Inc.",Industrial,2018,44104.5,23462.4,4512,9041,410295
+"American Airlines Group, Inc.",Industrial,2019,42340.32,22289.28,4466.88,9120,69396
+"American Airlines Group, Inc.",Industrial,2021,41493.5136,21620.6016,4288.2048,9127,118700
+"American Airlines Group, Inc.",Industrial,2022,40248.70819,19674.74746,3859.38432,9145,10543
+Boeing Company,Industrial,2016,33000,20000,3000,9165,29574
+Boeing Company,Industrial,2017,30030,19400,2700,9172,47511
+Boeing Company,Industrial,2018,28228.2,18818,2646,9175,25051
+Boeing Company,Industrial,2019,26816.79,17500.74,2513.7,9273,9224
+Boeing Company,Industrial,2021,24135.111,16800.7104,2312.604,9298,381508
+Boeing Company,Industrial,2022,23169.70656,16296.68909,2266.35192,9304,70817
+Lockheed Martin Corporation,Industrial,2016,32000,22000,3000,9351,62082
+Lockheed Martin Corporation,Industrial,2017,29120,21560,2940,9444,18881
+Lockheed Martin Corporation,Industrial,2018,27664,20266.4,2822.4,9452,14462
+Lockheed Martin Corporation,Industrial,2019,24897.6,19050.416,2737.728,9497,33976
+Lockheed Martin Corporation,Industrial,2021,24150.672,18669.40768,2628.21888,9526,14555
+Lockheed Martin Corporation,Industrial,2022,23184.64512,16989.16099,2365.396992,9526,12681
+Northrop Grumman Corporation,Industrial,2016,51000,36000,2000,9538,49271
+Northrop Grumman Corporation,Industrial,2017,47430,34560,1980,9591,4654
+Northrop Grumman Corporation,Industrial,2018,43161.3,32486.4,1881,9650,8565
+Northrop Grumman Corporation,Industrial,2019,41866.461,29562.624,1862.19,9654,104826
+Northrop Grumman Corporation,Industrial,2021,41029.13178,28084.4928,1769.0805,9709,14646
+Northrop Grumman Corporation,Industrial,2022,38977.67519,26399.42323,1645.244865,9730,117691
+Raytheon Technologies Corp.,Industrial,2016,51000,12000,3000,9740,18718
+Raytheon Technologies Corp.,Industrial,2017,46410,11160,2970,9761,23351
+Raytheon Technologies Corp.,Industrial,2018,43161.3,10713.6,2821.5,9779,15283
+Raytheon Technologies Corp.,Industrial,2019,38845.17,10392.192,2736.855,9790,20497
+Raytheon Technologies Corp.,Industrial,2021,36514.4598,10184.34816,2654.74935,9871,30157
+Raytheon Technologies Corp.,Industrial,2022,33958.44761,9165.913344,2468.916896,9909,7999
+General Dynamics Corporation,Industrial,2016,58000,13000,4000,9909,13673
+General Dynamics Corporation,Industrial,2017,53360,12350,3880,9971,20496
+General Dynamics Corporation,Industrial,2018,49091.2,12226.5,3763.6,10007,7884
+General Dynamics Corporation,Industrial,2019,44672.992,11859.705,3387.24,10072,51333
+General Dynamics Corporation,Industrial,2021,42439.3424,11385.3168,3150.1332,10074,15607
+General Dynamics Corporation,Industrial,2022,41590.55555,10474.49146,2835.11988,10076,12165
+United Technologies Corp.,Industrial,2016,33000,22000,7000,10083,13226
+United Technologies Corp.,Industrial,2017,31680,21120,6580,10087,37125
+United Technologies Corp.,Industrial,2018,29462.4,19430.4,6514.2,10150,51765
+United Technologies Corp.,Industrial,2019,27105.408,18653.184,6253.632,10164,334761
+United Technologies Corp.,Industrial,2021,25750.1376,17160.92928,5815.87776,10168,85196
+United Technologies Corp.,Industrial,2022,24977.63347,16474.49211,5292.448762,10187,55126
+"Delta Air Lines, Inc.",Industrial,2016,44000,34000,6000,10189,29236
+"Delta Air Lines, Inc.",Industrial,2017,39600,32300,5400,10213,30111
+"Delta Air Lines, Inc.",Industrial,2018,35640,30362,5238,10221,6787
+"Delta Air Lines, Inc.",Industrial,2019,34927.2,27933.04,5133.24,10283,16204
+"Delta Air Lines, Inc.",Industrial,2021,33530.112,25419.0664,4876.578,10292,31357
+"Delta Air Lines, Inc.",Industrial,2022,31853.6064,24148.11308,4583.98332,10299,14128
+"United Parcel Service, Inc.",Industrial,2016,48000,31000,5000,10305,103823
+"United Parcel Service, Inc.",Industrial,2017,47040,30380,4600,10333,26370
+"United Parcel Service, Inc.",Industrial,2018,46569.6,28253.4,4140,10433,13679
+"United Parcel Service, Inc.",Industrial,2019,44241.12,27123.264,4057.2,10454,13736
+"United Parcel Service, Inc.",Industrial,2021,42913.8864,24410.9376,3935.484,10456,276088
+"United Parcel Service, Inc.",Industrial,2022,39909.91435,23190.39072,3896.12916,10465,9348
+FedEx Corporation,Industrial,2016,40000,23000,6000,10579,15034
+FedEx Corporation,Industrial,2017,39200,22310,5640,10647,75892
+FedEx Corporation,Industrial,2018,38416,20748.3,5527.2,10735,9737
+FedEx Corporation,Industrial,2019,35726.88,19295.919,5471.928,10800,11463
+FedEx Corporation,Industrial,2021,34297.8048,18138.16386,5417.20872,10850,27743
+FedEx Corporation,Industrial,2022,32239.93651,16868.49239,5038.00411,10879,4641
+The Boeing Company,Industrial,2016,29338.34223,16025.06777,4534.203699,10918,17708
+The Boeing Company,Industrial,2017,37000,36000,4000,10974,21402
+The Boeing Company,Industrial,2018,35520,34920,3640,11088,26783
+The Boeing Company,Industrial,2019,34454.4,32824.8,3348.8,11094,82243
+The Boeing Company,Industrial,2021,33420.768,30527.064,3281.824,11120,20869
+The Boeing Company,Industrial,2022,30747.10656,29611.25208,3216.18752,11144,30167
+General Electric Company,Industrial,2016,54000,17000,8000,11167,13156
+General Electric Company,Industrial,2017,52920,16490,7200,11171,17185
+General Electric Company,Industrial,2018,50803.2,15005.9,6984,11251,473078
+General Electric Company,Industrial,2019,46230.912,14405.664,6495.12,11296,19024
+General Electric Company,Industrial,2021,42070.12992,13397.26752,5845.608,11362,168622
+General Electric Company,Industrial,2022,39545.92212,12057.54077,5494.87152,11378,20597
+3M Company,Industrial,2016,55000,27000,2000,11389,40809
+3M Company,Industrial,2017,51700,25110,1920,11474,18018
+3M Company,Industrial,2018,49632,24607.8,1843.2,11486,27234
+3M Company,Industrial,2019,44668.8,23131.332,1714.176,11503,17577
+3M Company,Industrial,2021,43775.424,22206.07872,1628.4672,11529,76731
+3M Company,Industrial,2022,39397.8816,21984.01793,1612.182528,11548,17578
+Caterpillar Inc.,Industrial,2016,27000,19000,8000,11555,41888
+Caterpillar Inc.,Industrial,2017,24300,17290,7920,11618,31761
+Caterpillar Inc.,Industrial,2018,22356,15561,7682.4,11665,15068
+Caterpillar Inc.,Industrial,2019,21685.32,15094.17,7298.28,11785,17311
+Caterpillar Inc.,Industrial,2021,20384.2008,14188.5198,7079.3316,11809,113996
+Caterpillar Inc.,Industrial,2022,18549.62273,13195.32341,6654.571704,11847,8899
+Honeywell International Inc.,Industrial,2016,54000,13000,6000,11864,10357
+Honeywell International Inc.,Industrial,2017,52380,12740,5640,11937,42397
+Honeywell International Inc.,Industrial,2018,51856.2,11593.4,5132.4,11999,23199
+Honeywell International Inc.,Industrial,2019,50819.076,10434.06,4978.428,12029,15018
+Honeywell International Inc.,Industrial,2021,50310.88524,10225.3788,4530.36948,12044,17564
+Honeywell International Inc.,Industrial,2022,48801.55868,9714.10986,4213.243616,12067,79388
+Siemens AG,Industrial,2016,40000,35000,7000,12101,17305
+Siemens AG,Industrial,2017,37600,34650,6580,12112,1898
+Siemens AG,Industrial,2018,35344,31185,5922,12301,15609
+Siemens AG,Industrial,2019,33930.24,30561.3,5862.78,12347,74157
+Siemens AG,Industrial,2021,30876.5184,28727.622,5804.1522,12443,5270
+Siemens AG,Industrial,2022,29950.22285,26716.68846,5746.110678,12506,245610
+Microsoft Corporation,Technology ,2016,14000,11000,1000,12574,151828
+Microsoft Corporation,Technology ,2017,13300,10230,930,12593,2808
+Microsoft Corporation,Technology ,2018,12635,10025.4,911.4,12633,11608
+Microsoft Corporation,Technology ,2019,12508.65,9123.114,847.602,12669,10125
+Microsoft Corporation,Technology ,2021,12133.3905,8210.8026,762.8418,12673,33876
+Microsoft Corporation,Technology ,2022,11769.38879,7553.938392,694.186038,12808,38336
+Apple Inc.,Technology ,2016,18000,4000,1000,12856,33231
+Apple Inc.,Technology ,2017,17820,3800,900,12900,6084
+Apple Inc.,Technology ,2018,16572.6,3724,855,12914,41882
+Apple Inc.,Technology ,2019,15909.696,3426.08,846.45,12937,31124
+Apple Inc.,Technology ,2021,15432.40512,3391.8192,787.1985,13082,17457
+Apple Inc.,Technology ,2022,15278.08107,3086.555472,708.47865,13103,58079
+Google LLC (Alphabet Inc.),Technology ,2016,8000,10000,1000,13131,12780
+Google LLC (Alphabet Inc.),Technology ,2017,7680,9500,930,13191,65665
+Google LLC (Alphabet Inc.),Technology ,2018,7142.4,9215,920.7,13209,64382
+Google LLC (Alphabet Inc.),Technology ,2019,6571.008,9122.85,856.251,13210,35439
+Google LLC (Alphabet Inc.),Technology ,2021,6176.74752,8393.022,796.31343,13329,8332
+Google LLC (Alphabet Inc.),Technology ,2022,5744.375194,7889.44068,756.4977585,13458,2687
+"Amazon.com, Inc.","Consumer, Cyclical",2016,53000,41000,6000,13477,21416
+"Amazon.com, Inc.","Consumer, Cyclical",2017,51940,39770,5940,13578,5570
+"Amazon.com, Inc.","Consumer, Cyclical",2018,46746,36190.7,5464.8,13630,6571
+"Amazon.com, Inc.","Consumer, Cyclical",2019,44876.16,34381.165,5136.912,13739,67013
+"Amazon.com, Inc.","Consumer, Cyclical",2021,40388.544,34037.35335,4931.43552,13846,38257
+"Amazon.com, Inc.","Consumer, Cyclical",2022,37561.34592,33696.97982,4438.291968,13871,9896
+IBM (International Business Machines Corporation),Technology ,2016,9000,12000,3000,13888,171473
+IBM (International Business Machines Corporation),Technology ,2017,8910,11640,2760,13989,26616
+IBM (International Business Machines Corporation),Technology ,2018,8553.6,10592.4,2732.4,14102,294005
+IBM (International Business Machines Corporation),Technology ,2019,7869.312,10486.476,2459.16,14109,15505
+IBM (International Business Machines Corporation),Technology ,2021,7633.23264,10067.01696,2434.5684,14147,180644
+IBM (International Business Machines Corporation),Technology ,2022,7022.574029,9060.315264,2312.83998,14175,18046
+Intel Corporation,Technology ,2016,9000,11000,2000,14192,10976
+Intel Corporation,Technology ,2017,8370,10120,1940,14300,50448
+Intel Corporation,Technology ,2018,7784.1,9715.2,1862.4,14320,28898
+Intel Corporation,Technology ,2019,7628.418,9618.048,1676.16,14378,6005
+Intel Corporation,Technology ,2021,6941.86038,8944.78464,1508.544,14383,17360
+Intel Corporation,Technology ,2022,6664.185965,8050.306176,1402.94592,14402,19509
+NVIDIA Corporation,Technology ,2016,18000,6000,3000,14442,11668
+NVIDIA Corporation,Technology ,2017,17280,5700,2700,14539,18193
+NVIDIA Corporation,Technology ,2018,16070.4,5415,2646,14608,37923
+NVIDIA Corporation,Technology ,2019,15266.88,5198.4,2593.08,14664,6917
+NVIDIA Corporation,Technology ,2021,13740.192,4782.528,2489.3568,14745,20762
+NVIDIA Corporation,Technology ,2022,13327.98624,4399.92576,2439.569664,14863,7989
+"Advanced Micro Devices, Inc.",Technology ,2016,15000,9000,2000,14884,33735
+"Advanced Micro Devices, Inc.",Technology ,2017,13500,8910,1980,14906,49518
+"Advanced Micro Devices, Inc.",Technology ,2018,13230,8464.5,1801.8,14931,9367
+"Advanced Micro Devices, Inc.",Technology ,2019,12436.2,7618.05,1639.638,14954,23251
+"Advanced Micro Devices, Inc.",Technology ,2021,11316.942,7160.967,1590.44886,15066,8131
+"Advanced Micro Devices, Inc.",Technology ,2022,11203.77258,6444.8703,1431.403974,15146,17315
+Qualcomm Incorporated,Technology ,2016,17000,5000,2000,15310,51724
+Qualcomm Incorporated,Technology ,2017,16660,4800,1860,15455,42301
+Qualcomm Incorporated,Technology ,2018,16493.4,4416,1692.6,15464,18174
+Qualcomm Incorporated,Technology ,2019,16328.466,4151.04,1557.192,15524,30565
+Qualcomm Incorporated,Technology ,2021,16001.89668,4068.0192,1510.47624,15561,7311
+Qualcomm Incorporated,Technology ,2022,15361.82081,3661.21728,1434.952428,15693,28860
+Broadcom Inc.,Technology ,2016,20000,6000,2000,16039,8276
+Broadcom Inc.,Technology ,2017,18000,5940,1800,16222,50174
+Broadcom Inc.,Technology ,2018,17460,5464.8,1638,16227,4071
+Broadcom Inc.,Technology ,2019,16063.2,5246.208,1523.34,16383,14631
+Broadcom Inc.,Technology ,2021,14617.512,5036.35968,1508.1066,16569,83806
+Broadcom Inc.,Technology ,2022,13155.7608,4885.26889,1447.782336,16572,7151
+Adobe Inc.,Technology ,2016,19000,6000,1000,16648,22684
+Adobe Inc.,Technology ,2017,17670,5880,910,16652,44189
+Adobe Inc.,Technology ,2018,16963.2,5762.4,855.4,16783,5717
+Adobe Inc.,Technology ,2019,16454.304,5301.408,829.738,16829,17752
+Adobe Inc.,Technology ,2021,15631.5888,4771.2672,804.84586,16865,10716
+Adobe Inc.,Technology ,2022,14224.74581,4484.991168,732.4097326,16883,33648
+Oracle Corporation,Technology ,2016,12944.51869,4305.591521,710.4374406,17098,77539
+Oracle Corporation,Technology ,2017,8000,11000,3000,17129,9702
+Oracle Corporation,Technology ,2018,7760,10780,2700,17258,21812
+Oracle Corporation,Technology ,2019,7294.4,10241,2646,17290,10717
+Oracle Corporation,Technology ,2021,7002.624,9831.36,2381.4,17380,44291
+Oracle Corporation,Technology ,2022,6512.44032,8946.5376,2190.888,17450,15642
+SAP SE,Technology ,2016,9000,6000,3000,17487,47730
+SAP SE,Technology ,2017,8460,5760,2730,17593,15711
+SAP SE,Technology ,2018,8375.4,5702.4,2702.7,17772,16649
+SAP SE,Technology ,2019,7872.876,5303.232,2513.511,17817,27135
+SAP SE,Technology ,2021,7479.2322,5144.13504,2438.10567,17901,13387
+SAP SE,Technology ,2022,7030.478268,4784.045587,2243.057216,17983,13631
+Dell Technologies Inc.,Technology ,2016,18000,8000,3000,18032,13148
+Dell Technologies Inc.,Technology ,2017,17460,7760,2820,18289,12531
+Dell Technologies Inc.,Technology ,2018,16412.4,6984,2650.8,18372,169369
+Dell Technologies Inc.,Technology ,2019,15920.028,6704.64,2438.736,18450,24627
+Dell Technologies Inc.,Technology ,2021,14805.62604,6436.4544,2243.63712,18479,34108
+Dell Technologies Inc.,Technology ,2022,13769.23222,6178.996224,2131.455264,19146,39974
+HP Inc.,Technology ,2016,17000,7000,3000,19204,35492
+HP Inc.,Technology ,2017,16150,6580,2970,19392,11249
+HP Inc.,Technology ,2018,14858,6514.2,2940.3,19461,12001
+HP Inc.,Technology ,2019,14709.42,6123.348,2910.897,19519,3643
+HP Inc.,Technology ,2021,13826.8548,5755.94712,2794.46112,19744,249870
+HP Inc.,Technology ,2022,13273.78061,5295.47135,2766.516509,19796,22214
+"Micron Technology, Inc.",Technology ,2016,19000,7000,3000,19810,37474
+"Micron Technology, Inc.",Technology ,2017,17670,6580,2880,19974,19317
+"Micron Technology, Inc.",Technology ,2018,17316.6,6448.4,2678.4,20156,8109
+"Micron Technology, Inc.",Technology ,2019,16450.77,6125.98,2651.616,20173,14957
+"Micron Technology, Inc.",Technology ,2021,14805.693,5942.2006,2519.0352,20419,6495
+"Micron Technology, Inc.",Technology ,2022,14213.46528,5585.668564,2342.702736,20521,18970

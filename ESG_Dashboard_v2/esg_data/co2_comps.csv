@@ -1,0 +1,853 @@
+company_name,sector,year,s1,s2,s3,revenue__mil_$,production_volume_mil_units,type,services_provided,headquarters_location,net_zero_pledge_year,yearly_sum
+"American Airlines Group, Inc.",Industrial,2016,39000.0,27000.0,6000.0,5655,236495,Transportation,Airline Services,"Fort Worth, TX, USA",2040,72000.0
+"American Airlines Group, Inc.",Industrial,2017,38610.0,26190.0,5820.0,5681,225248,Transportation,Airline Services,"Fort Worth, TX, USA",2040,70620.0
+"American Airlines Group, Inc.",Industrial,2018,37837.8,23571.0,5354.4,5693,362597,Transportation,Airline Services,"Fort Worth, TX, USA",2040,66763.2
+"American Airlines Group, Inc.",Industrial,2019,37081.044,23335.29,5300.856,5755,338516,Transportation,Airline Services,"Fort Worth, TX, USA",2040,65717.19
+"American Airlines Group, Inc.",Industrial,2021,34485.37092,21001.761,5247.84744,5763,222449,Transportation,Airline Services,"Fort Worth, TX, USA",2040,60734.97936
+"American Airlines Group, Inc.",Industrial,2022,31381.68754,19321.62012,4932.976594,5763,817729,Transportation,Airline Services,"Fort Worth, TX, USA",2040,55636.284254
+PG&E Corporation,Utilities,2016,116000.0,73000.0,17000.0,5765,173889,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,206000.0
+PG&E Corporation,Utilities,2017,107880.0,70080.0,16150.0,5775,59672,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,194110.0
+PG&E Corporation,Utilities,2018,104643.6,65875.2,15019.5,5810,551669,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,185538.3
+PG&E Corporation,Utilities,2019,101504.292,63240.192,14719.11,5829,39172,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,179463.59399999998
+PG&E Corporation,Utilities,2021,95414.03448,59445.78048,13247.199,5870,275909,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,168107.01395999998
+PG&E Corporation,Utilities,2022,85872.63103,57067.94926,12717.31104,5898,258537,Electric/Gas,"Electricity, Gas","San Francisco, CA, USA",2050,155657.89133
+Duke Energy,Utilities,2016,154000.0,132000.0,17000.0,5910,155774,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,303000.0
+Duke Energy,Utilities,2017,150920.0,124080.0,15640.0,5991,45400,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,290640.0
+Duke Energy,Utilities,2018,147901.6,121598.4,14388.8,6016,237428,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,283888.8
+Duke Energy,Utilities,2019,143464.552,114302.496,14101.024,6027,40963,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,271868.072
+Duke Energy,Utilities,2021,142029.9065,108587.3712,12972.94208,6040,2687379,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,263590.21978
+Duke Energy,Utilities,2022,132087.813,99900.3815,12064.83613,6053,228037,Electric/Gas,"Electricity, Gas","Charlotte, NC, USA",2050,244053.03063
+Exelon Corporation,Utilities,2016,198000.0,94000.0,18000.0,6074,67598,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,310000.0
+Exelon Corporation,Utilities,2017,184140.0,92120.0,16740.0,6110,291727,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,293000.0
+Exelon Corporation,Utilities,2018,180457.2,89356.4,16405.2,6117,286556,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,286218.8
+Exelon Corporation,Utilities,2019,169629.768,84888.58,15092.784,6146,98556,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,269611.132
+Exelon Corporation,Utilities,2021,162844.5773,81493.0368,14790.92832,6146,45256,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,259128.54242
+Exelon Corporation,Utilities,2022,151445.4569,75788.52422,13903.47262,6160,3503319,Electric/Gas,"Electricity, Gas","Chicago, IL, USA",2050,241137.45374000003
+Dominion Energy,Utilities,2016,224000.0,113000.0,17000.0,6202,2434079,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,354000.0
+Dominion Energy,Utilities,2017,201600.0,106220.0,16490.0,6209,51236,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,324310.0
+Dominion Energy,Utilities,2018,181440.0,100909.0,15170.8,6214,58720,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,297519.8
+Dominion Energy,Utilities,2019,177811.2,98890.82,13805.428,6243,263414,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,290507.44800000003
+Dominion Energy,Utilities,2021,163586.304,94935.1872,12977.10232,6260,77453,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,271498.59352
+Dominion Energy,Utilities,2022,161950.441,88289.7241,12847.3313,6276,1927555,Electric/Gas,"Electricity, Gas","Richmond, VA, USA",2040,263087.4964
+National Grid,Utilities,2016,219000.0,75000.0,18000.0,6297,1951158,Electric/Gas,"Electricity, Gas","London, UK",2040,312000.0
+National Grid,Utilities,2017,197100.0,74250.0,17100.0,6313,53864,Electric/Gas,"Electricity, Gas","London, UK",2040,288450.0
+National Grid,Utilities,2018,193158.0,67567.5,15390.0,6343,266048,Electric/Gas,"Electricity, Gas","London, UK",2040,276115.5
+National Grid,Utilities,2019,191226.42,62837.775,15082.2,6359,118861,Electric/Gas,"Electricity, Gas","London, UK",2040,269146.395
+National Grid,Utilities,2021,175928.3064,57810.753,14177.268,6379,157728,Electric/Gas,"Electricity, Gas","London, UK",2040,247916.3274
+National Grid,Utilities,2022,172409.7403,54920.21535,13326.63192,6411,294823,Electric/Gas,"Electricity, Gas","London, UK",2040,240656.58757000003
+NextEra Energy,Utilities,2016,181000.0,54000.0,17000.0,6466,42779,Electric,Electricity,"Juno Beach, FL, USA",2030,252000.0
+NextEra Energy,Utilities,2017,173760.0,51840.0,16150.0,6489,152186,Electric,Electricity,"Juno Beach, FL, USA",2030,241750.0
+NextEra Energy,Utilities,2018,159859.2,49766.4,15019.5,6499,139716,Electric,Electricity,"Juno Beach, FL, USA",2030,224645.1
+NextEra Energy,Utilities,2019,153464.832,44789.76,13817.94,6510,133625,Electric,Electricity,"Juno Beach, FL, USA",2030,212072.532
+NextEra Energy,Utilities,2021,144256.9421,44341.8624,12988.8636,6531,2203623,Electric,Electricity,"Juno Beach, FL, USA",2030,201587.66809999998
+NextEra Energy,Utilities,2022,141371.8032,42124.76928,12339.42042,6547,40994,Electric,Electricity,"Juno Beach, FL, USA",2030,195835.9929
+Southern Company,Utilities,2016,128000.0,117000.0,18000.0,6554,57857,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,263000.0
+Southern Company,Utilities,2017,120320.0,108810.0,16560.0,6554,39471,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,245690.0
+Southern Company,Utilities,2018,117913.6,102281.4,15732.0,6581,136524,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,235927.0
+Southern Company,Utilities,2019,113197.056,92053.26,14788.08,6601,133376,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,220038.39599999998
+Southern Company,Utilities,2021,110933.1149,88371.1296,13752.9144,6611,54403,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,213057.1589
+Southern Company,Utilities,2022,107605.1214,84836.28442,12515.1521,6691,740463,Electric/Gas,"Electricity, Gas","Atlanta, GA, USA",2040,204956.55792
+American Water,Utilities,2016,250000.0,90000.0,17000.0,6695,193984,Water,Water and Wastewater,"Camden, NJ, USA",2040,357000.0
+American Water,Utilities,2017,230000.0,81900.0,16830.0,6699,115095,Water,Water and Wastewater,"Camden, NJ, USA",2040,328730.0
+American Water,Utilities,2018,216200.0,78624.0,15651.9,6704,78547,Water,Water and Wastewater,"Camden, NJ, USA",2040,310475.9
+American Water,Utilities,2019,198904.0,71547.84,15025.824,6726,29074,Water,Water and Wastewater,"Camden, NJ, USA",2040,285477.664
+American Water,Utilities,2021,179013.6,70832.3616,14124.27456,6731,896552,Water,Water and Wastewater,"Camden, NJ, USA",2040,263970.23616000003
+American Water,Utilities,2022,171853.056,67999.06714,13276.81809,6743,43997,Water,Water and Wastewater,"Camden, NJ, USA",2040,253128.94123
+Sempra Energy,Utilities,2016,120000.0,113000.0,17000.0,6755,20777,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,250000.0
+Sempra Energy,Utilities,2017,112800.0,102830.0,15300.0,6784,17967,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,230930.0
+Sempra Energy,Utilities,2018,111672.0,96660.2,14841.0,6840,47528,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,223173.2
+Sempra Energy,Utilities,2019,104971.68,92793.792,13950.54,6845,33467,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,211716.01200000002
+Sempra Energy,Utilities,2021,99723.096,88154.1024,13392.5184,6863,98880,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,201269.7168
+Sempra Energy,Utilities,2022,94736.9412,84627.9383,12856.81766,6892,992968,Electric/Gas,"Electricity, Gas","San Diego, CA, USA",2030,192221.69715999998
+E.ON SE,Utilities,2016,228000.0,102000.0,18000.0,6895,895429,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,348000.0
+E.ON SE,Utilities,2017,216600.0,95880.0,16740.0,6915,78453,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,329220.0
+E.ON SE,Utilities,2018,201438.0,93962.4,15233.4,6941,97793,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,310633.80000000005
+E.ON SE,Utilities,2019,193380.48,85505.784,14928.732,6964,167489,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,293814.99600000004
+E.ON SE,Utilities,2021,189512.8704,83795.66832,14779.44468,6967,45058,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,288087.9834
+E.ON SE,Utilities,2022,174351.8408,82957.71164,13301.50021,7070,525064,Electric/Gas,"Electricity, Gas","Essen, Germany",2030,270611.05265
+Veolia Environnement,Utilities,2016,198000.0,102000.0,17000.0,7105,198321,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,317000.0
+Veolia Environnement,Utilities,2017,178200.0,93840.0,16320.0,7136,64532,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,288360.0
+Veolia Environnement,Utilities,2018,167508.0,92901.6,15340.8,7159,84397,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,275750.4
+Veolia Environnement,Utilities,2019,165832.92,90114.552,14727.168,7160,59995,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,270674.64
+Veolia Environnement,Utilities,2021,159199.6032,88312.26096,13548.99456,7183,148188,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,261060.85872
+Veolia Environnement,Utilities,2022,156015.6111,81247.28008,12194.0951,7195,119950,Water/Energy,"Water, Energy, Waste Mgmt","Paris, France",2040,249456.98628
+Centrica,Utilities,2016,128000.0,86000.0,17000.0,7210,330806,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,231000.0
+Centrica,Utilities,2017,119040.0,78260.0,16660.0,7214,239540,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,213960.0
+Centrica,Utilities,2018,117849.6,74347.0,16160.2,7224,15591,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,208356.80000000002
+Centrica,Utilities,2019,107243.136,66912.3,15513.792,7280,52611,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,189669.22799999997
+Centrica,Utilities,2021,97591.25376,64904.931,14117.55072,7286,133644,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,176613.73548
+Centrica,Utilities,2022,92711.69107,58414.4379,13552.84869,7320,60524,Electric/Gas,"Electricity, Gas","Windsor, UK",2030,164678.97766
+Eversource Energy,Utilities,2016,194000.0,46000.0,18000.0,7326,33097,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,258000.0
+Eversource Energy,Utilities,2017,176540.0,42780.0,16380.0,7329,24145,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,235700.0
+Eversource Energy,Utilities,2018,173009.2,41496.6,14905.8,7338,615042,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,229411.6
+Eversource Energy,Utilities,2019,167818.924,37346.94,14756.742,7372,108709,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,219922.606
+Eversource Energy,Utilities,2021,151037.0316,34732.6542,14461.60716,7398,48841,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,200231.29296
+Eversource Energy,Utilities,2022,146505.9207,34038.00112,13304.67859,7428,73011,Electric/Gas,"Electricity, Gas","Boston, MA, USA",2040,193848.60040999998
+PPL Corporation,Utilities,2016,198000.0,132000.0,18000.0,7523,23717,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,348000.0
+PPL Corporation,Utilities,2017,196020.0,118800.0,16200.0,7524,54895,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,331020.0
+PPL Corporation,Utilities,2018,180338.4,108108.0,15228.0,7580,24507,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,303674.4
+PPL Corporation,Utilities,2019,169518.096,101621.52,15075.72,7625,86381,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,286215.33599999995
+PPL Corporation,Utilities,2021,167822.915,94508.0136,13568.148,7659,290731,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,275899.0766
+PPL Corporation,Utilities,2022,152718.8527,86002.29238,13296.78504,7694,13269,Electric/Gas,"Electricity, Gas","Allentown, PA, USA",2030,252017.93011999998
+Entergy Corporation,Utilities,2016,103000.0,45000.0,17000.0,7726,5992,Electric,Electricity,"New Orleans, LA, USA",2050,165000.0
+Entergy Corporation,Utilities,2017,96820.0,42750.0,16660.0,7731,58679,Electric,Electricity,"New Orleans, LA, USA",2050,156230.0
+Entergy Corporation,Utilities,2018,94883.6,39330.0,15827.0,7769,70514,Electric,Electricity,"New Orleans, LA, USA",2050,150040.6
+Entergy Corporation,Utilities,2019,93934.764,37756.8,14719.11,7838,173733,Electric,Electricity,"New Orleans, LA, USA",2050,146410.674
+Entergy Corporation,Utilities,2021,92995.41636,33981.12,13247.199,7863,124977,Electric,Electricity,"New Orleans, LA, USA",2050,140223.73536
+Entergy Corporation,Utilities,2022,86485.73721,30583.008,12187.42308,7863,41089,Electric,Electricity,"New Orleans, LA, USA",2050,129256.16829
+JPMorgan Chase & Co.,Financial,2016,79566.87824,28442.19744,11578.05193,7865,390365,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,119587.12761000001
+JPMorgan Chase & Co.,Financial,2017,49000.0,31000.0,10000.0,7887,29969,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,90000.0
+JPMorgan Chase & Co.,Financial,2018,44100.0,30690.0,9300.0,7902,89115,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,84090.0
+JPMorgan Chase & Co.,Financial,2019,40572.0,29155.5,8649.0,7921,9936,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,78376.5
+JPMorgan Chase & Co.,Financial,2021,38949.12,26823.06,8303.04,7924,61733,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,74075.22
+JPMorgan Chase & Co.,Financial,2022,38170.1376,26554.8294,8220.0096,7982,290318,Bank,"Banking, Investment, Insurance","New York, NY, USA",2050,72944.97660000001
+Bank of America Corp.,Financial,2016,49000.0,19000.0,4000.0,7986,44659,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,72000.0
+Bank of America Corp.,Financial,2017,48020.0,18810.0,3720.0,8005,67887,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,70550.0
+Bank of America Corp.,Financial,2018,46579.4,16929.0,3608.4,8023,16448,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,67116.8
+Bank of America Corp.,Financial,2019,45647.812,15405.39,3464.064,8066,110122,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,64517.265999999996
+Bank of America Corp.,Financial,2021,43365.4214,14943.2283,3117.6576,8094,42875,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,61426.3073
+Bank of America Corp.,Financial,2022,39896.18769,13598.33775,3055.304448,8107,34566,Bank,"Banking, Investment, Insurance","Charlotte, NC, USA",2050,56549.829888
+Wells Fargo & Co.,Financial,2016,47000.0,27000.0,10000.0,8116,51803,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,84000.0
+Wells Fargo & Co.,Financial,2017,42770.0,24570.0,9500.0,8118,16401,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,76840.0
+Wells Fargo & Co.,Financial,2018,41914.6,23832.9,9025.0,8170,49519,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,74772.5
+Wells Fargo & Co.,Financial,2019,39818.87,21687.939,8303.0,8175,22825,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,69809.80900000001
+Wells Fargo & Co.,Financial,2021,37827.9265,19952.90388,7638.76,8200,495426,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,65419.59038
+Wells Fargo & Co.,Financial,2022,36693.08871,19753.37484,7180.4344,8201,19220,Bank,"Banking, Investment, Insurance","San Francisco, CA, USA",2030,63626.89795
+Goldman Sachs Group Inc.,Financial,2016,42000.0,30000.0,4000.0,8225,129944,Bank,"Investment Banking, Securities","New York, NY, USA",2050,76000.0
+Goldman Sachs Group Inc.,Financial,2017,37800.0,29400.0,3800.0,8234,11288,Bank,"Investment Banking, Securities","New York, NY, USA",2050,71000.0
+Goldman Sachs Group Inc.,Financial,2018,35532.0,28224.0,3610.0,8235,64549,Bank,"Investment Banking, Securities","New York, NY, USA",2050,67366.0
+Goldman Sachs Group Inc.,Financial,2019,33044.76,25401.6,3537.8,8237,28361,Bank,"Investment Banking, Securities","New York, NY, USA",2050,61984.16
+Goldman Sachs Group Inc.,Financial,2021,32053.4172,24385.536,3431.666,8342,58381,Bank,"Investment Banking, Securities","New York, NY, USA",2050,59870.6192
+Goldman Sachs Group Inc.,Financial,2022,29168.60965,23897.82528,3157.13272,8345,21172,Bank,"Investment Banking, Securities","New York, NY, USA",2050,56223.567650000005
+Morgan Stanley,Financial,2016,50000.0,20000.0,4000.0,8352,12971,Bank,"Investment Banking, Securities","New York, NY, USA",2050,74000.0
+Morgan Stanley,Financial,2017,48000.0,18800.0,3800.0,8359,101450,Bank,"Investment Banking, Securities","New York, NY, USA",2050,70600.0
+Morgan Stanley,Financial,2018,47040.0,17860.0,3420.0,8365,158838,Bank,"Investment Banking, Securities","New York, NY, USA",2050,68320.0
+Morgan Stanley,Financial,2019,42806.4,16967.0,3385.8,8382,34309,Bank,"Investment Banking, Securities","New York, NY, USA",2050,63159.200000000004
+Morgan Stanley,Financial,2021,40238.016,16627.66,3216.51,8443,9132,Bank,"Investment Banking, Securities","New York, NY, USA",2050,60082.18600000001
+Morgan Stanley,Financial,2022,37018.97472,15463.7238,2894.859,8469,32957,Bank,"Investment Banking, Securities","New York, NY, USA",2050,55377.557519999995
+Berkshire Hathaway Inc.,Financial,2016,35000.0,27000.0,3000.0,8479,5903,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,65000.0
+Berkshire Hathaway Inc.,Financial,2016,35000.0,27000.0,3000.0,8479,5903,Insurance,Insurance,"Omaha, NE, USA",2040,65000.0
+Berkshire Hathaway Inc.,Financial,2017,31500.0,26730.0,2820.0,8489,16197,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,61050.0
+Berkshire Hathaway Inc.,Financial,2017,31500.0,26730.0,2820.0,8489,16197,Insurance,Insurance,"Omaha, NE, USA",2040,61050.0
+Berkshire Hathaway Inc.,Financial,2018,31185.0,25928.1,2650.8,8510,53369,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,59763.9
+Berkshire Hathaway Inc.,Financial,2018,31185.0,25928.1,2650.8,8510,53369,Insurance,Insurance,"Omaha, NE, USA",2040,59763.9
+Berkshire Hathaway Inc.,Financial,2019,28690.2,23853.852,2544.768,8527,11698,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,55088.81999999999
+Berkshire Hathaway Inc.,Financial,2019,28690.2,23853.852,2544.768,8527,11698,Insurance,Insurance,"Omaha, NE, USA",2040,55088.81999999999
+Berkshire Hathaway Inc.,Financial,2021,26968.788,21707.00532,2290.2912,8536,19575,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,50966.08452
+Berkshire Hathaway Inc.,Financial,2021,26968.788,21707.00532,2290.2912,8536,19575,Insurance,Insurance,"Omaha, NE, USA",2040,50966.08452
+Berkshire Hathaway Inc.,Financial,2022,25620.3486,20621.65505,2084.164992,8548,19737,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,48326.168642
+Berkshire Hathaway Inc.,Financial,2022,25620.3486,20621.65505,2084.164992,8548,19737,Insurance,Insurance,"Omaha, NE, USA",2040,48326.168642
+"BlackRock, Inc.",Financial,2016,41000.0,15000.0,5000.0,8612,7181,Diversified Financial,Investment Management,"New York, NY, USA",2040,61000.0
+"BlackRock, Inc.",Financial,2017,39770.0,13650.0,4550.0,8620,48887,Diversified Financial,Investment Management,"New York, NY, USA",2040,57970.0
+"BlackRock, Inc.",Financial,2018,36986.1,13377.0,4186.0,8649,59707,Diversified Financial,Investment Management,"New York, NY, USA",2040,54549.1
+"BlackRock, Inc.",Financial,2019,36246.378,12574.38,4018.56,8671,13943,Diversified Financial,Investment Management,"New York, NY, USA",2040,52839.31799999999
+"BlackRock, Inc.",Financial,2021,35883.91422,11694.1734,3656.8896,8681,72574,Diversified Financial,Investment Management,"New York, NY, USA",2040,51234.97722
+"BlackRock, Inc.",Financial,2022,32654.36194,11109.46473,3547.182912,8742,67493,Diversified Financial,Investment Management,"New York, NY, USA",2040,47311.009582
+"The Goldman Sachs Group, Inc.",Financial,2016,45000.0,23000.0,3000.0,8751,18345,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,71000.0
+"The Goldman Sachs Group, Inc.",Financial,2017,43650.0,22540.0,2760.0,8776,61627,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,68950.0
+"The Goldman Sachs Group, Inc.",Financial,2018,40594.5,20962.2,2677.2,8781,25895,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,64233.899999999994
+"The Goldman Sachs Group, Inc.",Financial,2019,38564.775,19285.224,2570.112,8846,25377,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,60420.111
+"The Goldman Sachs Group, Inc.",Financial,2021,36250.8885,18513.81504,2441.6064,8878,64742,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,57206.30994
+"The Goldman Sachs Group, Inc.",Financial,2022,32988.30854,17217.84799,2417.190336,8899,33471,Diversified Financial,"Investment Banking, Securities","New York, NY, USA",2040,52623.34686599999
+"American International Group, Inc. (AIG)",Financial,2016,42000.0,28000.0,4000.0,8906,39286,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,74000.0
+"American International Group, Inc. (AIG)",Financial,2017,38220.0,25480.0,3960.0,8919,152768,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,67660.0
+"American International Group, Inc. (AIG)",Financial,2018,34398.0,24970.4,3682.8,8926,29360,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,63051.200000000004
+"American International Group, Inc. (AIG)",Financial,2019,31302.18,23971.584,3609.144,8942,109330,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,58882.907999999996
+"American International Group, Inc. (AIG)",Financial,2021,28798.0056,22773.0048,3356.50392,8992,61673,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,54927.51432
+"American International Group, Inc. (AIG)",Financial,2022,27358.10532,22317.5447,3289.373842,9041,7591,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2030,52965.023862
+"Prudential Financial, Inc.",Financial,2016,50000.0,17000.0,4000.0,9041,410295,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,71000.0
+"Prudential Financial, Inc.",Financial,2017,45000.0,15470.0,3640.0,9120,69396,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,64110.0
+"Prudential Financial, Inc.",Financial,2018,41400.0,15160.6,3421.6,9127,118700,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,59982.2
+"Prudential Financial, Inc.",Financial,2019,38916.0,13644.54,3318.952,9145,10543,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,55879.492
+"Prudential Financial, Inc.",Financial,2021,38526.84,13371.6492,3219.38344,9165,29574,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,55117.872639999994
+"Prudential Financial, Inc.",Financial,2022,37756.3032,12836.78323,3154.995771,9172,47511,Insurance,"Insurance, Retirement, Investments","Newark, NJ, USA",2050,53748.082201000005
+"MetLife, Inc.",Financial,2016,49000.0,19000.0,4000.0,9175,25051,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,72000.0
+"MetLife, Inc.",Financial,2017,47530.0,18050.0,3720.0,9273,9224,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,69300.0
+"MetLife, Inc.",Financial,2018,45153.5,16245.0,3385.2,9298,381508,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,64783.7
+"MetLife, Inc.",Financial,2019,42444.29,15432.75,3080.532,9304,70817,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,60957.572
+"MetLife, Inc.",Financial,2021,39897.6326,13889.475,2926.5054,9351,62082,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,56713.613
+"MetLife, Inc.",Financial,2022,38700.70362,13056.1065,2633.85486,9444,18881,Insurance,"Insurance, Retirement, Investments","New York, NY, USA",2040,54390.66498
+Berkshire Hathaway Inc.,Financial,2016,38000.0,15000.0,10000.0,9452,14462,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,63000.0
+Berkshire Hathaway Inc.,Financial,2016,38000.0,15000.0,10000.0,9452,14462,Insurance,Insurance,"Omaha, NE, USA",2040,63000.0
+Berkshire Hathaway Inc.,Financial,2017,36480.0,14100.0,9000.0,9497,33976,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,59580.0
+Berkshire Hathaway Inc.,Financial,2017,36480.0,14100.0,9000.0,9497,33976,Insurance,Insurance,"Omaha, NE, USA",2040,59580.0
+Berkshire Hathaway Inc.,Financial,2018,32832.0,12831.0,8190.0,9526,14555,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,53853.0
+Berkshire Hathaway Inc.,Financial,2018,32832.0,12831.0,8190.0,9526,14555,Insurance,Insurance,"Omaha, NE, USA",2040,53853.0
+Berkshire Hathaway Inc.,Financial,2019,31190.4,12189.45,8108.1,9526,12681,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,51487.950000000004
+Berkshire Hathaway Inc.,Financial,2019,31190.4,12189.45,8108.1,9526,12681,Insurance,Insurance,"Omaha, NE, USA",2040,51487.950000000004
+Berkshire Hathaway Inc.,Financial,2021,28383.264,11823.7665,8027.019,9538,49271,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,48234.0495
+Berkshire Hathaway Inc.,Financial,2021,28383.264,11823.7665,8027.019,9538,49271,Insurance,Insurance,"Omaha, NE, USA",2040,48234.0495
+Berkshire Hathaway Inc.,Financial,2022,26396.43552,10996.10285,7304.58729,9591,4654,Diversified Financial,"Insurance, Investments, and more","Omaha, NE, USA",2030,44697.12566
+Berkshire Hathaway Inc.,Financial,2022,26396.43552,10996.10285,7304.58729,9591,4654,Insurance,Insurance,"Omaha, NE, USA",2040,44697.12566
+Realty Income Corporation,Financial,2016,42000.0,17000.0,7000.0,9650,8565,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,66000.0
+Realty Income Corporation,Financial,2017,40320.0,16150.0,6930.0,9654,104826,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,63400.0
+Realty Income Corporation,Financial,2018,37497.6,15019.5,6514.2,9709,14646,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,59031.299999999996
+Realty Income Corporation,Financial,2019,33747.84,14118.33,6188.49,9730,117691,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,54054.659999999996
+Realty Income Corporation,Financial,2021,32735.4048,13271.2302,5631.5259,9740,18718,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,51638.1609
+Realty Income Corporation,Financial,2022,29461.86432,12474.95639,5518.895382,9761,23351,REIT,Real Estate Investment Trust,"San Diego, CA, USA",2030,47455.716092
+"Simon Property Group, Inc.",Financial,2016,45000.0,19000.0,8000.0,9779,15283,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,72000.0
+"Simon Property Group, Inc.",Financial,2017,44550.0,18810.0,7680.0,9790,20497,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,71040.0
+"Simon Property Group, Inc.",Financial,2018,40095.0,17493.3,7296.0,9871,30157,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,64884.3
+"Simon Property Group, Inc.",Financial,2019,37288.35,15743.97,6785.28,9909,7999,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,59817.6
+"Simon Property Group, Inc.",Financial,2021,35796.816,15429.0906,6310.3104,9909,13673,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,57536.217000000004
+"Simon Property Group, Inc.",Financial,2022,32217.1344,14349.05426,6057.897984,9971,20496,REIT,Real Estate Investment Trust,"Indianapolis, IN, USA",2030,52624.086644
+Public Storage,Financial,2016,45000.0,23000.0,8000.0,10007,7884,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,76000.0
+Public Storage,Financial,2017,43200.0,22310.0,7840.0,10072,51333,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,73350.0
+Public Storage,Financial,2018,41040.0,20525.2,7369.6,10074,15607,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,68934.8
+Public Storage,Financial,2019,40629.6,18677.932,7001.12,10076,12165,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,66308.652
+Public Storage,Financial,2021,39817.008,18304.37336,6861.0976,10083,13226,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,64982.47896
+Public Storage,Financial,2022,39418.83792,16840.02349,6243.598816,10087,37125,REIT,Real Estate Investment Trust,"Glendale, CA, USA",2040,62502.460225999996
+Pfizer Inc.,"Consumer, Non-Cyclical",2016,78000.0,38000.0,11000.0,10150,51765,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,127000.0
+Pfizer Inc.,"Consumer, Non-Cyclical",2017,73320.0,37240.0,10340.0,10164,334761,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,120900.0
+Pfizer Inc.,"Consumer, Non-Cyclical",2018,65988.0,35005.6,9719.6,10168,85196,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,110713.20000000001
+Pfizer Inc.,"Consumer, Non-Cyclical",2019,64668.24,31855.096,9330.816,10187,55126,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,105854.152
+Pfizer Inc.,"Consumer, Non-Cyclical",2021,60141.4632,30262.3412,8770.96704,10189,29236,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,99174.77144
+Pfizer Inc.,"Consumer, Non-Cyclical",2022,57134.39004,29051.84755,8683.25737,10213,30111,Pharmaceutical,"Pharmaceuticals, Vaccines","New York, NY, USA",2050,94869.49496000001
+Johnson & Johnson,"Consumer, Non-Cyclical",2016,56000.0,46000.0,10000.0,10221,6787,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,112000.0
+Johnson & Johnson,"Consumer, Non-Cyclical",2017,54880.0,41400.0,9000.0,10283,16204,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,105280.0
+Johnson & Johnson,"Consumer, Non-Cyclical",2018,52684.8,37674.0,8190.0,10292,31357,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,98548.8
+Johnson & Johnson,"Consumer, Non-Cyclical",2019,47416.32,36920.52,8108.1,10299,14128,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,92444.94
+Johnson & Johnson,"Consumer, Non-Cyclical",2021,46467.9936,35812.9044,8027.019,10305,103823,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,90307.917
+Johnson & Johnson,"Consumer, Non-Cyclical",2022,45538.63373,32947.87205,7384.85748,10333,26370,Pharmaceutical,"Pharmaceuticals, Medical Devices","New Brunswick, NJ, USA",2050,85871.36326000001
+Novartis International AG,"Consumer, Non-Cyclical",2016,45083.24739,30641.521,7163.311756,10433,13679,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,82888.080146
+Novartis International AG,"Consumer, Non-Cyclical",2017,54000.0,44000.0,9000.0,10454,13736,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,107000.0
+Novartis International AG,"Consumer, Non-Cyclical",2018,53460.0,43120.0,8460.0,10456,276088,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,105040.0
+Novartis International AG,"Consumer, Non-Cyclical",2019,50787.0,40964.0,8290.8,10465,9348,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,100041.8
+Novartis International AG,"Consumer, Non-Cyclical",2021,50279.13,38096.52,7793.352,10579,15034,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,96169.002
+Novartis International AG,"Consumer, Non-Cyclical",2022,47765.1735,34286.868,7559.55144,10647,75892,Pharmaceutical,"Pharmaceuticals, Eye Care, Generics","Basel, Switzerland",2030,89611.59293999999
+The Coca-Cola Company,"Consumer, Non-Cyclical",2016,77000.0,47000.0,11000.0,10735,9737,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,135000.0
+The Coca-Cola Company,"Consumer, Non-Cyclical",2017,75460.0,43240.0,10340.0,10800,11463,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,129040.0
+The Coca-Cola Company,"Consumer, Non-Cyclical",2018,73950.8,41942.8,9306.0,10850,27743,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,125199.6
+The Coca-Cola Company,"Consumer, Non-Cyclical",2019,68034.736,38587.376,8747.64,10879,4641,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,115369.752
+The Coca-Cola Company,"Consumer, Non-Cyclical",2021,63952.65184,35500.38592,8222.7816,10918,17708,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,107675.81936000001
+The Coca-Cola Company,"Consumer, Non-Cyclical",2022,58836.43969,34080.37048,7811.64252,10974,21402,Beverages,Non-Alcoholic Beverages,"Atlanta, GA, USA",2040,100728.45268999999
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2016,66000.0,33000.0,12000.0,11088,26783,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,111000.0
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2017,60720.0,29700.0,10920.0,11094,82243,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,101340.0
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2018,57076.8,26730.0,10046.4,11120,20869,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,93853.2
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2019,55364.496,24324.3,9343.152,11144,30167,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,89031.948
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2021,50381.69136,22864.842,8689.13136,11167,13156,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,81935.66472
+"PepsiCo, Inc.","Consumer, Non-Cyclical",2022,46351.15605,21721.5999,8428.457419,11171,17185,Beverages,"Snacks, Beverages, Food","Purchase, NY, USA",2050,76501.21336899999
+Nestlé S.A.,"Consumer, Non-Cyclical",2016,59000.0,31000.0,9000.0,11251,473078,Food,Food and Beverages,"Vevey, Switzerland",2040,99000.0
+Nestlé S.A.,"Consumer, Non-Cyclical",2017,56050.0,29760.0,8280.0,11296,19024,Food,Food and Beverages,"Vevey, Switzerland",2040,94090.0
+Nestlé S.A.,"Consumer, Non-Cyclical",2018,55489.5,29462.4,7866.0,11362,168622,Food,Food and Beverages,"Vevey, Switzerland",2040,92817.9
+Nestlé S.A.,"Consumer, Non-Cyclical",2019,49940.55,27400.032,7236.72,11378,20597,Food,Food and Beverages,"Vevey, Switzerland",2040,84577.302
+Nestlé S.A.,"Consumer, Non-Cyclical",2021,49441.1445,25756.03008,6947.2512,11389,40809,Food,Food and Beverages,"Vevey, Switzerland",2040,82144.42578
+Nestlé S.A.,"Consumer, Non-Cyclical",2022,46474.67583,24210.66828,6808.306176,11474,18018,Food,Food and Beverages,"Vevey, Switzerland",2040,77493.650286
+Unilever PLC,"Consumer, Non-Cyclical",2016,80000.0,35000.0,13000.0,11486,27234,Food,"Food, Home and Personal Care","London, UK",2030,128000.0
+Unilever PLC,"Consumer, Non-Cyclical",2017,72000.0,31850.0,12610.0,11503,17577,Food,"Food, Home and Personal Care","London, UK",2030,116460.0
+Unilever PLC,"Consumer, Non-Cyclical",2018,71280.0,28983.5,12357.8,11529,76731,Food,"Food, Home and Personal Care","London, UK",2030,112621.3
+Unilever PLC,"Consumer, Non-Cyclical",2019,66290.4,27824.16,11739.91,11548,17578,Food,"Food, Home and Personal Care","London, UK",2030,105854.47
+Unilever PLC,"Consumer, Non-Cyclical",2021,59661.36,26154.7104,10683.3181,11555,41888,Food,"Food, Home and Personal Care","London, UK",2030,96499.3885
+Unilever PLC,"Consumer, Non-Cyclical",2022,54291.8376,25631.61619,10149.1522,11618,31761,Food,"Food, Home and Personal Care","London, UK",2030,90072.60599
+Kraft Heinz Company,"Consumer, Non-Cyclical",2016,78000.0,35000.0,7000.0,11665,15068,Food,Food and Beverage Products,"Chicago, IL, USA",2040,120000.0
+Kraft Heinz Company,"Consumer, Non-Cyclical",2017,74100.0,32200.0,6650.0,11785,17311,Food,Food and Beverage Products,"Chicago, IL, USA",2040,112950.0
+Kraft Heinz Company,"Consumer, Non-Cyclical",2018,73359.0,31556.0,6450.5,11809,113996,Food,Food and Beverage Products,"Chicago, IL, USA",2040,111365.5
+Kraft Heinz Company,"Consumer, Non-Cyclical",2019,68223.87,30609.32,6063.47,11847,8899,Food,Food and Beverage Products,"Chicago, IL, USA",2040,104896.66
+Kraft Heinz Company,"Consumer, Non-Cyclical",2021,63448.1991,28466.6676,6002.8353,11864,10357,Food,Food and Beverage Products,"Chicago, IL, USA",2040,97917.702
+Kraft Heinz Company,"Consumer, Non-Cyclical",2022,59006.82516,28182.00092,5882.778594,11937,42397,Food,Food and Beverage Products,"Chicago, IL, USA",2040,93071.604674
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2016,74000.0,49000.0,11000.0,11999,23199,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,134000.0
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2017,68820.0,44590.0,10450.0,12029,15018,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,123860.0
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2018,61938.0,40576.9,10032.0,12044,17564,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,112546.9
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2019,58221.72,38548.055,9028.8,12067,79388,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,105798.575
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2021,54728.4168,35849.69115,8577.36,12101,17305,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,99155.46795
+"Mondelez International, Inc.","Consumer, Non-Cyclical",2022,53633.84846,34057.20659,8148.492,12112,1898,Food,Snacks and Confectionery,"Deerfield, IL, USA",2040,95839.54705
+Danone S.A.,"Consumer, Non-Cyclical",2016,59000.0,47000.0,8000.0,12301,15609,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,114000.0
+Danone S.A.,"Consumer, Non-Cyclical",2017,57820.0,46530.0,7760.0,12347,74157,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,112110.0
+Danone S.A.,"Consumer, Non-Cyclical",2018,55507.2,45599.4,7294.4,12443,5270,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,108401.0
+Danone S.A.,"Consumer, Non-Cyclical",2019,52731.84,41039.46,6856.736,12506,245610,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,100628.036
+Danone S.A.,"Consumer, Non-Cyclical",2021,49567.9296,40218.6708,6308.19712,12574,151828,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,96094.79752
+Danone S.A.,"Consumer, Non-Cyclical",2022,45602.49523,38609.92397,5740.459379,12593,2808,Food,"Dairy Products, Waters, Plant-Based Food","Paris, France",2030,89952.87857900001
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2016,79000.0,49000.0,6000.0,12633,11608,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,134000.0
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2017,75840.0,44590.0,5640.0,12669,10125,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,126070.0
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2018,74323.2,41022.8,5301.6,12673,33876,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,120647.6
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2019,69863.808,40612.572,5089.536,12808,38336,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,115565.916
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2021,64973.34144,38988.06912,4733.26848,12856,33231,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,108694.67903999999
+"Gilead Sciences, Inc.","Consumer, Non-Cyclical",2022,59775.47412,37428.54636,4543.937741,12900,6084,Pharmaceutical,Pharmaceuticals,"Foster City, CA, USA",2040,101747.95822100001
+"Amgen, Inc.","Consumer, Non-Cyclical",2016,66000.0,47000.0,7000.0,12914,41882,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,120000.0
+"Amgen, Inc.","Consumer, Non-Cyclical",2017,64020.0,44650.0,6790.0,12937,31124,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,115460.0
+"Amgen, Inc.","Consumer, Non-Cyclical",2018,58258.2,43310.5,6382.6,13082,17457,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,107951.3
+"Amgen, Inc.","Consumer, Non-Cyclical",2019,54180.126,42011.185,6127.296,13103,58079,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,102318.60699999999
+"Amgen, Inc.","Consumer, Non-Cyclical",2021,53096.52348,39490.5139,5820.9312,13131,12780,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,98407.96858
+"Amgen, Inc.","Consumer, Non-Cyclical",2022,52034.59301,37515.98821,5588.093952,13191,65665,Pharmaceutical,"Biotechnology, Pharmaceuticals","Thousand Oaks, CA, USA",2040,95138.67517199999
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2016,75000.0,44000.0,6000.0,13209,64382,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,125000.0
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2017,73500.0,42680.0,5940.0,13210,35439,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,122120.0
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2018,71295.0,42253.2,5643.0,13329,8332,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,119191.2
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2019,70582.05,41830.668,5530.14,13458,2687,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,117942.858
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2021,69876.2295,39739.1346,4977.126,13477,21416,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,114592.49010000001
+Anheuser-Busch InBev,"Consumer, Non-Cyclical",2022,63587.36885,38149.56922,4479.4134,13578,5570,Beverages,Alcoholic and Non-Alcoholic Beverages,"Leuven, Belgium",2030,106216.35147000001
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2016,66000.0,46000.0,10000.0,13630,6571,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,122000.0
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2017,65340.0,41400.0,9400.0,13739,67013,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,116140.0
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2018,61419.6,40158.0,8742.0,13846,38257,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,110319.6
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2019,60805.404,39354.84,7867.8,13871,9896,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,108028.04400000001
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2021,58981.24188,38961.2916,7789.122,13888,171473,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,105731.65548
+Keurig Dr Pepper Inc.,"Consumer, Non-Cyclical",2022,54262.74253,38182.06577,7010.2098,13989,26616,Beverages,"Beverages, Coffee, and Snack Brands","Burlington, MA, USA",2050,99455.0181
+"General Mills, Inc.","Consumer, Non-Cyclical",2016,64000.0,38000.0,12000.0,14102,294005,Food,Food Products,"Minneapolis, MN, USA",2040,114000.0
+"General Mills, Inc.","Consumer, Non-Cyclical",2017,62080.0,36100.0,11400.0,14109,15505,Food,Food Products,"Minneapolis, MN, USA",2040,109580.0
+"General Mills, Inc.","Consumer, Non-Cyclical",2018,58355.2,32490.0,10944.0,14147,180644,Food,Food Products,"Minneapolis, MN, USA",2040,101789.2
+"General Mills, Inc.","Consumer, Non-Cyclical",2019,56604.544,31840.2,10068.48,14175,18046,Food,Food Products,"Minneapolis, MN, USA",2040,98513.224
+"General Mills, Inc.","Consumer, Non-Cyclical",2021,53208.27136,31521.798,9363.6864,14192,10976,Food,Food Products,"Minneapolis, MN, USA",2040,94093.75576
+"General Mills, Inc.","Consumer, Non-Cyclical",2022,51612.02322,29630.49012,8520.954624,14300,50448,Food,Food Products,"Minneapolis, MN, USA",2040,89763.46796400001
+Kellogg Company,"Consumer, Non-Cyclical",2016,76000.0,32000.0,9000.0,14320,28898,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,117000.0
+Kellogg Company,"Consumer, Non-Cyclical",2017,72200.0,29440.0,8460.0,14378,6005,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,110100.0
+Kellogg Company,"Consumer, Non-Cyclical",2018,67868.0,27968.0,7867.8,14383,17360,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,103703.8
+Kellogg Company,"Consumer, Non-Cyclical",2019,61759.88,27408.64,7710.444,14402,19509,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,96878.96399999999
+Kellogg Company,"Consumer, Non-Cyclical",2021,58671.886,26038.208,7093.60848,14442,11668,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,91803.70247999999
+Kellogg Company,"Consumer, Non-Cyclical",2022,56325.01056,25517.44384,6384.247632,14539,18193,Food,"Cereal, Snacks, Convenience Foods","Battle Creek, MI, USA",2050,88226.702032
+Walmart Inc.,"Consumer, Cyclical",2016,67000.0,39000.0,7000.0,14608,37923,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,113000.0
+Walmart Inc.,"Consumer, Cyclical",2017,62310.0,36270.0,6720.0,14664,6917,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,105300.0
+Walmart Inc.,"Consumer, Cyclical",2018,59194.5,35544.6,6451.2,14745,20762,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,101190.3
+Walmart Inc.,"Consumer, Cyclical",2019,53275.05,32345.586,5999.616,14863,7989,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,91620.252
+Walmart Inc.,"Consumer, Cyclical",2021,49013.046,29111.0274,5399.6544,14884,33735,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,83523.7278
+Walmart Inc.,"Consumer, Cyclical",2022,44601.87186,27073.25548,5345.657856,14906,49518,Retail,"Retail, Supermarkets, E-commerce","Bentonville, AR, USA",2050,77020.78519600001
+"Amazon.com, Inc.","Consumer, Cyclical",2016,50000.0,30000.0,9000.0,14931,9367,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,89000.0
+"Amazon.com, Inc.","Consumer, Cyclical",2017,48500.0,29700.0,8460.0,14954,23251,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,86660.0
+"Amazon.com, Inc.","Consumer, Cyclical",2018,47530.0,29106.0,7867.8,15066,8131,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,84503.8
+"Amazon.com, Inc.","Consumer, Cyclical",2019,45628.8,26195.4,7238.376,15146,17315,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,79062.57600000002
+"Amazon.com, Inc.","Consumer, Cyclical",2021,41065.92,25933.446,6586.92216,15310,51724,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,73586.28816
+"Amazon.com, Inc.","Consumer, Cyclical",2022,38601.9648,25414.77708,5994.099166,15455,42301,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,70010.841046
+"The Home Depot, Inc.","Consumer, Cyclical",2016,68000.0,41000.0,10000.0,15464,18174,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,119000.0
+"The Home Depot, Inc.","Consumer, Cyclical",2017,67320.0,39360.0,9300.0,15524,30565,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,115980.0
+"The Home Depot, Inc.","Consumer, Cyclical",2018,64627.2,36211.2,9021.0,15561,7311,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,109859.4
+"The Home Depot, Inc.","Consumer, Cyclical",2019,59457.024,34400.64,8930.79,15693,28860,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,102788.454
+"The Home Depot, Inc.","Consumer, Cyclical",2021,58862.45376,33712.6272,8484.2505,16039,8276,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,101059.33145999999
+"The Home Depot, Inc.","Consumer, Cyclical",2022,53564.83292,30678.49075,7975.19547,16222,50174,Retail,Home Improvement Retail,"Atlanta, GA, USA",2040,92218.51914
+Target Corporation,"Consumer, Cyclical",2016,50886.59128,27610.64168,7337.179832,16227,4071,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,85834.41279199999
+Target Corporation,"Consumer, Cyclical",2017,52000.0,41000.0,7000.0,16383,14631,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,100000.0
+Target Corporation,"Consumer, Cyclical",2018,49400.0,40590.0,6510.0,16569,83806,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,96500.0
+Target Corporation,"Consumer, Cyclical",2019,48906.0,37748.7,5989.2,16572,7151,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,92643.9
+Target Corporation,"Consumer, Cyclical",2021,47927.88,37371.213,5569.956,16648,22684,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,90869.049
+Target Corporation,"Consumer, Cyclical",2022,43135.092,36250.07661,5514.25644,16652,44189,Retail,"Retail, Supermarkets","Minneapolis, MN, USA",2030,84899.42504999999
+Costco Wholesale Corp.,"Consumer, Cyclical",2016,63000.0,42000.0,7000.0,16783,5717,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,112000.0
+Costco Wholesale Corp.,"Consumer, Cyclical",2017,62370.0,41580.0,6440.0,16829,17752,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,110390.0
+Costco Wholesale Corp.,"Consumer, Cyclical",2018,58004.1,40332.6,5860.4,16865,10716,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,104197.09999999999
+Costco Wholesale Corp.,"Consumer, Cyclical",2019,52203.69,37509.318,5743.192,16883,33648,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,95456.2
+Costco Wholesale Corp.,"Consumer, Cyclical",2021,46983.321,37134.22482,5628.32816,17098,77539,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,89745.87398
+Costco Wholesale Corp.,"Consumer, Cyclical",2022,42284.9889,34906.17133,5065.495344,17129,9702,Retail,"Retail, Wholesale Club","Issaquah, WA, USA",2050,82256.65557399999
+Ford Motor Company,"Consumer, Cyclical",2016,57000.0,37000.0,13000.0,17258,21812,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,107000.0
+Ford Motor Company,"Consumer, Cyclical",2017,51870.0,35150.0,12350.0,17290,10717,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,99370.0
+Ford Motor Company,"Consumer, Cyclical",2018,47720.4,32338.0,11485.5,17380,44291,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,91543.9
+Ford Motor Company,"Consumer, Cyclical",2019,47243.196,30397.72,10911.225,17450,15642,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,88552.141
+Ford Motor Company,"Consumer, Cyclical",2021,45825.90012,28269.8796,9929.21475,17487,47730,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,84024.99446999999
+Ford Motor Company,"Consumer, Cyclical",2022,44451.12312,27704.48201,9532.04616,17593,15711,Auto Manufacturer,"Automotive Manufacturing, Sales","Dearborn, MI, USA",2050,81687.65129
+General Motors Company,"Consumer, Cyclical",2016,56000.0,30000.0,9000.0,17772,16649,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,95000.0
+General Motors Company,"Consumer, Cyclical",2017,52640.0,27000.0,8460.0,17817,27135,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,88100.0
+General Motors Company,"Consumer, Cyclical",2018,48955.2,25650.0,8375.4,17901,13387,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,82980.59999999999
+General Motors Company,"Consumer, Cyclical",2019,46507.44,25137.0,8291.646,17983,13631,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,79936.08600000001
+General Motors Company,"Consumer, Cyclical",2021,44647.1424,23628.78,7462.4814,18032,13148,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,75738.4038
+General Motors Company,"Consumer, Cyclical",2022,40182.42816,23156.2044,7387.856586,18289,12531,Auto Manufacturer,"Automotive Manufacturing, Sales","Detroit, MI, USA",2050,70726.48914599999
+Toyota Motor Corporation,"Consumer, Cyclical",2016,59000.0,42000.0,7000.0,18372,169369,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,108000.0
+Toyota Motor Corporation,"Consumer, Cyclical",2017,53690.0,41160.0,6440.0,18450,24627,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,101290.0
+Toyota Motor Corporation,"Consumer, Cyclical",2018,52616.2,37455.6,5989.2,18479,34108,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,96060.99999999999
+Toyota Motor Corporation,"Consumer, Cyclical",2019,47354.58,35957.376,5929.308,19146,39974,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,89241.26400000001
+Toyota Motor Corporation,"Consumer, Cyclical",2021,43566.2136,35597.80224,5395.67028,19204,35492,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,84559.68612000001
+Toyota Motor Corporation,"Consumer, Cyclical",2022,42694.88933,32749.97806,5179.843469,19392,11249,Auto Manufacturer,"Automotive Manufacturing, Sales","Toyota City, Japan",2050,80624.710859
+Volkswagen Group,"Consumer, Cyclical",2016,51000.0,30000.0,11000.0,19461,12001,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,92000.0
+Volkswagen Group,"Consumer, Cyclical",2017,48960.0,29400.0,9900.0,19519,3643,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,88260.0
+Volkswagen Group,"Consumer, Cyclical",2018,46022.4,27930.0,8910.0,19744,249870,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,82862.4
+Volkswagen Group,"Consumer, Cyclical",2019,45101.952,25974.9,8197.2,19796,22214,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,79274.052
+Volkswagen Group,"Consumer, Cyclical",2021,44199.91296,25195.653,8033.256,19810,37474,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,77428.82196
+Volkswagen Group,"Consumer, Cyclical",2022,41105.91905,23683.91382,7631.5932,19974,19317,Auto Manufacturer,"Automotive Manufacturing, Sales","Wolfsburg, Germany",2040,72421.42607
+"Tesla, Inc.","Consumer, Cyclical",2016,53000.0,31000.0,12000.0,20156,8109,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,96000.0
+"Tesla, Inc.","Consumer, Cyclical",2017,48760.0,29450.0,11400.0,20173,14957,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,89610.0
+"Tesla, Inc.","Consumer, Cyclical",2018,44371.6,28272.0,11058.0,20419,6495,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,83701.6
+"Tesla, Inc.","Consumer, Cyclical",2019,43927.884,26292.96,10283.94,20521,18970,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,80504.784
+"Tesla, Inc.","Consumer, Cyclical",2021,40852.93212,23663.664,9666.9036,20740,19067,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,74183.49972
+"Tesla, Inc.","Consumer, Cyclical",2022,39627.34416,22007.20752,9376.896492,20822,7016,Auto Manufacturer,"Electric Vehicles, Energy Products","Palo Alto, CA, USA",2040,71011.448172
+BMW AG,"Consumer, Cyclical",2016,61000.0,36000.0,13000.0,20864,16008,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,110000.0
+BMW AG,"Consumer, Cyclical",2017,56730.0,32760.0,12480.0,20972,4830,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,101970.0
+BMW AG,"Consumer, Cyclical",2018,55028.1,30139.2,12230.4,21077,23126,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,97397.7
+BMW AG,"Consumer, Cyclical",2019,53927.538,28330.848,11496.576,21184,5471,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,93754.962
+BMW AG,"Consumer, Cyclical",2021,49613.33496,28047.53952,11151.67872,21336,15047,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,88812.5532
+BMW AG,"Consumer, Cyclical",2022,46140.40151,27767.06412,10036.51085,21419,2953,Auto Manufacturer,"Automotive Manufacturing, Sales","Munich, Germany",2050,83943.97648000001
+Daimler AG,"Consumer, Cyclical",2016,53000.0,33000.0,12000.0,21512,60899,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,98000.0
+Daimler AG,"Consumer, Cyclical",2017,47700.0,30030.0,11880.0,21624,7760,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,89610.0
+Daimler AG,"Consumer, Cyclical",2018,44838.0,27027.0,11761.2,21674,26932,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,83626.2
+Daimler AG,"Consumer, Cyclical",2019,42147.72,26756.73,10937.916,21708,24639,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,79842.366
+Daimler AG,"Consumer, Cyclical",2021,39618.8568,24081.057,10828.53684,21971,169051,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,74528.45064
+Daimler AG,"Consumer, Cyclical",2022,36449.34826,23840.24643,9745.683156,22260,14475,Auto Manufacturer,"Automotive Manufacturing, Sales","Stuttgart, Germany",2040,70035.277846
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2016,70000.0,43000.0,14000.0,22307,18943,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,127000.0
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2017,63000.0,41710.0,12880.0,22320,19299,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,117590.0
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2018,59850.0,38373.2,12364.8,22376,7031,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,110588.0
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2019,58653.0,35303.344,11622.912,22401,16469,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,105579.256
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2021,53960.76,32832.10992,11157.99552,22408,4809,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,97950.86544
+"Honda Motor Co., Ltd.","Consumer, Cyclical",2022,53421.1524,29877.22003,11046.41556,22428,12993,Auto Manufacturer,"Automotive Manufacturing, Sales","Tokyo, Japan",2030,94344.78799
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2016,52000.0,38000.0,13000.0,22449,6950,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,103000.0
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2017,48880.0,34580.0,12610.0,22589,6629,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,96070.0
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2018,43992.0,33888.4,12231.7,22597,25345,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,90112.09999999999
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2019,41352.48,31177.328,11008.53,22977,101342,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,83538.338
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2021,39698.3808,28994.91504,10237.9329,23179,18815,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,78931.22874
+"Nissan Motor Co., Ltd.","Consumer, Cyclical",2022,35728.54272,28125.06759,10033.17424,23362,17665,Auto Manufacturer,"Automotive Manufacturing, Sales","Yokohama, Japan",2030,73886.78455
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2016,48000.0,35000.0,14000.0,23406,7220,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,97000.0
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2017,46080.0,32550.0,13300.0,23481,102478,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,91930.0
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2018,42854.4,30922.5,12502.0,23571,6771,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,86278.9
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2019,38568.96,29685.6,11251.8,23611,2276,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,79506.36
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2021,37797.5808,26717.04,10576.692,23757,41124,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,75091.3128
+Fiat Chrysler Automobiles (FCA),"Consumer, Cyclical",2022,34017.82272,26449.8696,10153.62432,23838,5893,Auto Manufacturer,"Automotive Manufacturing, Sales","Amsterdam, Netherlands",2040,70621.31664
+AT&T Inc.,Communications,2016,16000.0,8000.0,3000.0,23894,16193,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,27000.0
+AT&T Inc.,Communications,2017,15680.0,7440.0,2850.0,24088,13149,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,25970.0
+AT&T Inc.,Communications,2018,15052.8,6993.6,2707.5,24273,10677,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,24753.9
+AT&T Inc.,Communications,2019,13999.104,6504.048,2680.425,24508,23347,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,23183.576999999997
+AT&T Inc.,Communications,2021,12739.18464,5853.6432,2573.208,24578,5566,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,21166.035839999997
+AT&T Inc.,Communications,2022,12484.40095,5502.424608,2521.74384,24658,3731,Telecommunications,"Telecommunications, Media, Entertainment","Dallas, TX, USA",2050,20508.569398
+Verizon Communications Inc.,Communications,2016,25000.0,8000.0,3000.0,24977,5018,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,36000.0
+Verizon Communications Inc.,Communications,2017,24500.0,7280.0,2700.0,25282,5289,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,34480.0
+Verizon Communications Inc.,Communications,2018,24255.0,6843.2,2457.0,25331,14432,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,33555.2
+Verizon Communications Inc.,Communications,2019,23527.35,6774.768,2260.44,25542,8320,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,32562.557999999997
+Verizon Communications Inc.,Communications,2021,23056.803,6707.02032,2147.418,25600,70130,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,31911.24132
+Verizon Communications Inc.,Communications,2022,22595.66694,6170.458694,2040.0471,25868,5027,Telecommunications,"Telecommunications, Internet, TV","New York, NY, USA",2030,30806.172734
+Comcast Corporation,Communications,2016,20000.0,11000.0,2000.0,25939,3906,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,33000.0
+Comcast Corporation,Communications,2017,18200.0,10340.0,1980.0,26145,10816,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,30520.0
+Comcast Corporation,Communications,2018,17836.0,10236.6,1801.8,26509,46040,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,29874.399999999998
+Comcast Corporation,Communications,2019,17479.28,9724.77,1621.62,27325,18944,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,28825.67
+Comcast Corporation,Communications,2021,16605.316,9141.2838,1508.1066,27754,3692,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,27254.706399999995
+Comcast Corporation,Communications,2022,16107.15652,8775.632448,1357.29594,27812,3901,Telecommunications,"Cable TV, Internet, Media, Entertainment","Philadelphia, PA, USA",2040,26240.084908
+"Charter Communications, Inc.",Communications,2016,16000.0,7000.0,2000.0,28917,13261,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,25000.0
+"Charter Communications, Inc.",Communications,2017,15520.0,6510.0,1960.0,29135,29232,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,23990.0
+"Charter Communications, Inc.",Communications,2018,14899.2,5989.2,1803.2,29176,17488,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,22691.600000000002
+"Charter Communications, Inc.",Communications,2019,14750.208,5450.172,1713.04,29805,11918,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,21913.420000000002
+"Charter Communications, Inc.",Communications,2021,13865.19552,5395.67028,1610.2576,31581,165733,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,20871.1234
+"Charter Communications, Inc.",Communications,2022,13726.54356,5179.843469,1465.334416,31901,38830,Telecommunications,"Cable TV, Internet, Phone Services","Stamford, CT, USA",2050,20371.721445000003
+"T-Mobile US, Inc.",Communications,2016,17000.0,8000.0,3000.0,31904,6589,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,28000.0
+"T-Mobile US, Inc.",Communications,2017,15300.0,7760.0,2880.0,32136,8140,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,25940.0
+"T-Mobile US, Inc.",Communications,2018,13923.0,7294.4,2592.0,32294,24639,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,23809.4
+"T-Mobile US, Inc.",Communications,2019,13366.08,7002.624,2384.64,32789,25408,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,22753.343999999997
+"T-Mobile US, Inc.",Communications,2021,13232.4192,6862.57152,2265.408,32897,54703,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,22360.39872
+"T-Mobile US, Inc.",Communications,2022,12438.47405,6793.945805,2038.8672,33266,26643,Telecommunications,"Wireless Telecommunications, Mobile Services","Bellevue, WA, USA",2050,21271.287055
+Deutsche Telekom AG,Communications,2016,12065.31983,6318.369598,1936.92384,33669,10642,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,20320.613268
+Deutsche Telekom AG,Communications,2017,22000.0,8000.0,3000.0,33766,5660,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,33000.0
+Deutsche Telekom AG,Communications,2018,20020.0,7280.0,2970.0,33841,14805,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,30270.0
+Deutsche Telekom AG,Communications,2019,19019.0,6697.6,2791.8,34438,7606,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,28508.399999999998
+Deutsche Telekom AG,Communications,2021,17117.1,6027.84,2735.964,35617,16711,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,25880.904
+Deutsche Telekom AG,Communications,2022,16774.758,5605.8912,2517.08688,36670,45680,Telecommunications,"Telecommunications, IT Services","Bonn, Germany",2050,24897.73608
+Orange S.A.,Communications,2016,20000.0,11000.0,3000.0,36709,4178,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,34000.0
+Orange S.A.,Communications,2017,19400.0,10120.0,2820.0,36819,12843,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,32340.0
+Orange S.A.,Communications,2018,18624.0,9512.8,2650.8,36998,144988,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,30787.6
+Orange S.A.,Communications,2019,18065.28,9132.288,2438.736,37253,2511,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,29636.304
+Orange S.A.,Communications,2021,16258.752,8949.64224,2243.63712,37266,14127,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,27452.03136
+Orange S.A.,Communications,2022,15770.98944,8233.670861,2019.273408,38463,42802,Telecommunications,"Telecommunications, Mobile Services","Paris, France",2040,26023.933709
+China Mobile Limited,Communications,2016,13000.0,7000.0,3000.0,39022,2518,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,23000.0
+China Mobile Limited,Communications,2017,12480.0,6300.0,2700.0,39117,34952,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,21480.0
+China Mobile Limited,Communications,2018,11980.8,5922.0,2565.0,39258,3810,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,20467.8
+China Mobile Limited,Communications,2019,10782.72,5744.34,2334.15,39350,4864,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,18861.21
+China Mobile Limited,Communications,2021,10243.584,5399.6796,2310.8085,39506,13717,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,17954.0721
+China Mobile Limited,Communications,2022,10141.14816,4967.705232,2172.15999,40454,32586,Telecommunications,"Telecommunications, Mobile Services",Hong Kong,2040,17281.013382
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2016,16000.0,8000.0,2000.0,41717,2229,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,26000.0
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2017,15040.0,7200.0,1840.0,42405,17439,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,24080.0
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2018,14288.0,6984.0,1784.8,42951,13347,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,23056.8
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2019,13859.36,6844.32,1749.104,43228,5594,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,22452.784
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2021,12612.0176,6775.8768,1714.12192,43259,3250,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,21102.01632
+Nippon Telegraph and Telephone Corporation (NTT),Communications,2022,11729.17637,6708.118032,1662.698262,43638,10828,Telecommunications,"Telecommunications, IT Services","Tokyo, Japan",2040,20099.992664
+Comcast NBCUniversal,Communications,2016,19000.0,8000.0,3000.0,43982,21076,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,30000.0
+Comcast NBCUniversal,Communications,2017,18430.0,7440.0,2820.0,44117,2911,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,28690.0
+Comcast NBCUniversal,Communications,2018,17692.8,7068.0,2622.6,44675,19635,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,27383.399999999998
+Comcast NBCUniversal,Communications,2019,17162.016,6361.2,2543.922,45764,4997,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,26067.138
+Comcast NBCUniversal,Communications,2021,15789.05472,6297.588,2289.5298,45768,10006,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,24376.17252
+Comcast NBCUniversal,Communications,2022,14525.93034,5667.8292,2106.367416,46840,3092,Media,"Media, Entertainment, Cable TV, Film","Philadelphia, PA, USA",2040,22300.126956
+The Walt Disney Company,Communications,2016,25000.0,11000.0,3000.0,47007,8670,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,39000.0
+The Walt Disney Company,Communications,2017,23250.0,10780.0,2760.0,47020,6393,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,36790.0
+The Walt Disney Company,Communications,2018,21157.5,10564.4,2566.8,49746,5489,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,34288.700000000004
+The Walt Disney Company,Communications,2019,20311.2,10141.824,2387.124,51336,7354,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,32840.148
+The Walt Disney Company,Communications,2021,19498.752,9736.15104,2220.02532,51750,7236,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,31454.92836
+The Walt Disney Company,Communications,2022,17938.85184,9249.343488,2020.223041,51904,119873,Media,"Media, Entertainment, Theme Parks","Burbank, CA, USA",2030,29208.418369000003
+"Netflix, Inc.",Communications,2016,23000.0,8000.0,3000.0,53800,8987,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,34000.0
+"Netflix, Inc.",Communications,2017,22080.0,7680.0,2820.0,53823,136828,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,32580.0
+"Netflix, Inc.",Communications,2018,21638.4,7065.6,2791.8,53922,7437,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,31495.8
+"Netflix, Inc.",Communications,2019,20556.48,6359.04,2680.128,54213,4431,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,29595.648
+"Netflix, Inc.",Communications,2021,20350.9152,5977.4976,2626.52544,58756,26837,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,28954.93824
+"Netflix, Inc.",Communications,2022,20147.40605,5738.397696,2495.199168,59812,6285,Media,"Streaming, Entertainment, Film, TV","Los Gatos, CA, USA",2050,28381.002914
+ViacomCBS Inc.,Communications,2016,24000.0,9000.0,3000.0,60114,6283,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,36000.0
+ViacomCBS Inc.,Communications,2017,21600.0,8280.0,2910.0,60535,126240,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,32790.0
+ViacomCBS Inc.,Communications,2018,19872.0,7948.8,2764.5,64656,25054,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,30585.3
+ViacomCBS Inc.,Communications,2019,18083.52,7392.384,2681.565,64807,6028,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,28157.469
+ViacomCBS Inc.,Communications,2021,16817.6736,6653.1456,2440.22415,64888,21487,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,25911.04335
+ViacomCBS Inc.,Communications,2022,15304.08298,6253.956864,2318.212943,67161,3832,Media,"Media, Entertainment, Broadcasting","New York, NY, USA",2050,23876.252786999998
+News Corporation,Communications,2016,22000.0,9000.0,2000.0,67684,11348,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,33000.0
+News Corporation,Communications,2017,19800.0,8910.0,1860.0,69570,6113,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,30570.0
+News Corporation,Communications,2018,19404.0,8642.7,1804.2,69620,9610,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,29850.9
+News Corporation,Communications,2019,19015.92,7951.284,1713.99,69693,13871,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,28681.194
+News Corporation,Communications,2021,18065.124,7712.74548,1645.4304,70697,63138,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,27423.299880000002
+News Corporation,Communications,2022,16619.91408,7172.853296,1546.704576,71965,26495,Media,"Media, Publishing, News, Digital Services","New York, NY, USA",2030,25339.471952
+Sony Corporation,Communications,2016,10000.0,7000.0,3000.0,72148,16406,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,20000.0
+Sony Corporation,Communications,2017,9400.0,6370.0,2730.0,74094,227259,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,18500.0
+Sony Corporation,Communications,2018,8648.0,5987.8,2620.8,74639,94493,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,17256.6
+Sony Corporation,Communications,2019,7956.16,5628.532,2358.72,75125,6645,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,15943.411999999998
+Sony Corporation,Communications,2021,7717.4752,5178.24944,2122.848,76559,21782,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,15018.57264
+Sony Corporation,Communications,2022,7331.60144,5074.684451,2080.39104,77046,3693,Media,"Media, Electronics, Entertainment","Tokyo, Japan",2040,14486.676931
+Time Warner (now part of WarnerMedia),Communications,2016,22000.0,7000.0,3000.0,77147,19845,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,32000.0
+Time Warner (now part of WarnerMedia),Communications,2017,21120.0,6370.0,2790.0,78112,2820,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,30280.0
+Time Warner (now part of WarnerMedia),Communications,2018,19219.2,5860.4,2594.7,79395,18107,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,27674.3
+Time Warner (now part of WarnerMedia),Communications,2019,19027.008,5567.38,2490.912,82059,4711,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,27085.300000000003
+Time Warner (now part of WarnerMedia),Communications,2021,18456.19776,5344.6848,2366.3664,92154,4591,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,26167.248959999997
+Time Warner (now part of WarnerMedia),Communications,2022,17717.94985,5184.344256,2224.384416,95214,3430,Media,"Media, Entertainment, Cable TV","New York, NY, USA",2030,25126.678522000002
+Exxon Mobil Corporation,Energy,2016,228000.0,64000.0,14000.0,102729,5943,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,306000.0
+Exxon Mobil Corporation,Energy,2017,207480.0,58880.0,13020.0,103449,9476,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,279380.0
+Exxon Mobil Corporation,Energy,2018,186732.0,55347.2,12759.6,103915,3330,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,254838.80000000002
+Exxon Mobil Corporation,Energy,2019,168058.8,51472.896,11994.024,104213,11545,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,231525.72
+Exxon Mobil Corporation,Energy,2021,166378.212,50958.16704,11514.26304,108942,2700,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,228850.64208
+Exxon Mobil Corporation,Energy,2022,153067.955,50448.58537,11168.83515,109559,5116,Oil and Gas,"Oil and Gas Exploration, Production","Irving, TX, USA",2030,214685.37552
+Chevron Corporation,Energy,2016,140000.0,123000.0,14000.0,110225,6040,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,277000.0
+Chevron Corporation,Energy,2017,131600.0,113160.0,13020.0,113589,11519,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,257780.0
+Chevron Corporation,Energy,2018,118440.0,101844.0,11978.4,120304,7290,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,232262.4
+Chevron Corporation,Energy,2019,107780.4,95733.36,11499.264,122286,8741,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,215013.024
+Chevron Corporation,Energy,2021,102391.38,93818.6928,11384.27136,124813,4715,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,207594.34416000004
+Chevron Corporation,Energy,2022,96247.8972,91004.13202,10928.90051,125843,3231,Oil and Gas,"Oil and Gas Exploration, Production","San Ramon, CA, USA",2050,198180.92973000003
+Royal Dutch Shell plc,Energy,2016,190000.0,107000.0,14000.0,131868,9188,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,311000.0
+Royal Dutch Shell plc,Energy,2017,184300.0,101650.0,13020.0,136866,2311,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,298970.0
+Royal Dutch Shell plc,Energy,2018,169556.0,94534.5,11848.2,137237,9336,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,275938.7
+Royal Dutch Shell plc,Energy,2019,154295.96,93589.155,11255.79,142422,9773,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,259140.905
+Royal Dutch Shell plc,Energy,2021,140409.3236,92653.26345,10467.8847,145534,6877,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,243530.47175
+Royal Dutch Shell plc,Energy,2022,131984.7642,88947.13291,9944.490465,146516,43786,Oil and Gas,"Oil and Gas Exploration, Production","The Hague, Netherlands",2050,230876.38757500003
+BP plc,Energy,2016,222000.0,61000.0,14000.0,152703,21393,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,297000.0
+BP plc,Energy,2017,199800.0,57950.0,12880.0,153566,28933,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,270630.0
+BP plc,Energy,2018,189810.0,56211.5,11720.8,155900,4054,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,257742.3
+BP plc,Energy,2019,174625.2,51714.58,11486.384,161857,7543,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,237826.16400000002
+BP plc,Energy,2021,162401.436,47577.4136,10912.0648,179589,3759,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,220890.91439999998
+BP plc,Energy,2022,154281.3642,43295.44638,9929.978968,181193,3407,Oil and Gas,"Oil and Gas Exploration, Production","London, UK",2050,207506.78954800003
+TotalEnergies SE,Energy,2016,136000.0,118000.0,14000.0,214319,14532,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,268000.0
+TotalEnergies SE,Energy,2017,129200.0,114460.0,12600.0,242155,6291,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,256260.0
+TotalEnergies SE,Energy,2018,120156.0,105303.2,11592.0,254616,4232,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,237051.2
+TotalEnergies SE,Energy,2019,112946.64,103197.136,11476.08,256776,38457,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,227619.856
+TotalEnergies SE,Energy,2021,101651.976,92877.4224,11017.0368,260174,31232,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,205546.4352
+TotalEnergies SE,Energy,2022,97585.89696,90091.09973,10686.5257,264938,6895,Oil and Gas,"Oil and Gas Exploration, Production","Paris, France",2040,198363.52239
+ConocoPhillips,Energy,2016,183000.0,61000.0,14000.0,280522,11952,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,258000.0
+ConocoPhillips,Energy,2017,179340.0,59780.0,13020.0,523964,109002,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,252140.0
+ConocoPhillips,Energy,2018,177546.6,57986.6,12369.0,5655,236495,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,247902.2
+ConocoPhillips,Energy,2019,173995.668,55667.136,12121.62,5681,225248,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,241784.424
+ConocoPhillips,Energy,2021,167035.8413,51213.76512,11151.8904,5693,362597,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,229401.49682
+ConocoPhillips,Energy,2022,165365.4829,47628.80156,10148.22026,5755,338516,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2040,223142.50472
+"Kinder Morgan, Inc.",Energy,2016,153789.8991,44771.07347,10046.73806,5763,222449,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,208607.71063000002
+"Kinder Morgan, Inc.",Energy,2017,163000.0,87000.0,13000.0,5763,817729,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,263000.0
+"Kinder Morgan, Inc.",Energy,2018,146700.0,79170.0,12740.0,5765,173889,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,238610.0
+"Kinder Morgan, Inc.",Energy,2019,134964.0,76003.2,12612.6,5775,59672,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,223579.80000000002
+"Kinder Morgan, Inc.",Energy,2021,130915.08,68402.88,11981.97,5810,551669,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,211299.93000000002
+"Kinder Morgan, Inc.",Energy,2022,117823.572,62246.6208,11622.5109,5829,39172,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2030,191692.70369999998
+Enterprise Products Partners L.P.,Energy,2016,104000.0,105000.0,13000.0,5870,275909,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,222000.0
+Enterprise Products Partners L.P.,Energy,2017,96720.0,96600.0,12610.0,5898,258537,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,205930.0
+Enterprise Products Partners L.P.,Energy,2018,90916.8,94668.0,11853.4,5910,155774,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,197438.19999999998
+Enterprise Products Partners L.P.,Energy,2019,90007.632,91827.96,11379.264,5991,45400,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,193214.856
+Enterprise Products Partners L.P.,Energy,2021,82807.02144,82645.164,11265.47136,6016,237428,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,176717.6568
+Enterprise Products Partners L.P.,Energy,2022,78666.67037,77686.45416,10364.23365,6027,40963,Pipeline Operator,"Energy Infrastructure, Pipelines","Houston, TX, USA",2050,166717.35818
+Enbridge Inc.,Energy,2016,163000.0,96000.0,14000.0,6040,2687379,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,273000.0
+Enbridge Inc.,Energy,2017,161370.0,90240.0,13160.0,6053,228037,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,264770.0
+Enbridge Inc.,Energy,2018,148460.4,88435.2,13028.4,6074,67598,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,249923.99999999997
+Enbridge Inc.,Energy,2019,133614.36,86666.496,11725.56,6110,291727,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,232006.41599999997
+Enbridge Inc.,Energy,2021,129605.9292,85799.83104,11608.3044,6117,286556,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,227014.06464
+Enbridge Inc.,Energy,2022,128309.8699,81509.83949,10447.47396,6146,98556,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2040,220267.18335
+TransCanada Corporation,Energy,2016,171000.0,93000.0,14000.0,6146,45256,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,278000.0
+TransCanada Corporation,Energy,2017,162450.0,92070.0,13020.0,6160,3503319,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,267540.0
+TransCanada Corporation,Energy,2018,157576.5,83783.7,12499.2,6202,2434079,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,253859.40000000002
+TransCanada Corporation,Energy,2019,141818.85,77918.841,11249.28,6209,51236,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,230986.971
+TransCanada Corporation,Energy,2021,133309.719,74802.08736,10574.3232,6214,58720,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,218686.12956000003
+TransCanada Corporation,Energy,2022,119978.7471,68817.92037,9728.377344,6243,263414,Pipeline Operator,"Energy Infrastructure, Pipelines","Calgary, Canada",2050,198525.044814
+Phillips 66,Energy,2016,235000.0,62000.0,13000.0,6260,77453,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,310000.0
+Phillips 66,Energy,2017,232650.0,58900.0,11960.0,6276,1927555,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,303510.0
+Phillips 66,Energy,2018,209385.0,53599.0,11242.4,6297,1951158,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,274226.4
+Phillips 66,Energy,2019,205197.3,48775.09,11129.976,6313,53864,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,265102.366
+Phillips 66,Energy,2021,203145.327,47311.8373,10239.57792,6343,266048,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,260696.74222000001
+Phillips 66,Energy,2022,188925.1541,46838.71893,9829.994803,6359,118861,Oil and Gas,"Refining, Marketing, Midstream","Houston, TX, USA",2030,245593.86783300003
+Valero Energy Corporation,Energy,2016,209000.0,56000.0,13000.0,6379,157728,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,278000.0
+Valero Energy Corporation,Energy,2017,200640.0,53200.0,12220.0,6411,294823,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,266060.0
+Valero Energy Corporation,Energy,2018,190608.0,47880.0,11486.8,6466,42779,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,249974.8
+Valero Energy Corporation,Energy,2019,181077.6,44049.6,11371.932,6489,152186,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,236499.132
+Valero Energy Corporation,Energy,2021,173834.496,39644.64,10575.89676,6499,139716,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,224055.03276
+Valero Energy Corporation,Energy,2022,170357.8061,38058.8544,10047.10192,6510,133625,Oil and Gas,"Refining, Marketing, Midstream","San Antonio, TX, USA",2040,218463.76241999998
+Marathon Petroleum Corporation,Energy,2016,206000.0,104000.0,14000.0,6531,2203623,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,324000.0
+Marathon Petroleum Corporation,Energy,2017,189520.0,99840.0,12880.0,6547,40994,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,302240.0
+Marathon Petroleum Corporation,Energy,2018,178148.8,96844.8,12751.2,6554,57857,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,287744.8
+Marathon Petroleum Corporation,Energy,2019,176367.312,93939.456,12368.664,6554,39471,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,282675.43200000003
+Marathon Petroleum Corporation,Energy,2021,162257.927,86424.29952,12244.97736,6581,136524,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,260927.20388
+Marathon Petroleum Corporation,Energy,2022,155767.61,84695.81353,11510.27872,6601,133376,Oil and Gas,"Refining, Marketing, Midstream","Findlay, OH, USA",2030,251973.70224999997
+"EOG Resources, Inc.",Energy,2016,205000.0,62000.0,14000.0,6611,54403,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,281000.0
+"EOG Resources, Inc.",Energy,2017,200900.0,57660.0,12880.0,6691,740463,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,271440.0
+"EOG Resources, Inc.",Energy,2018,186837.0,57083.4,12493.6,6695,193984,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,256414.0
+"EOG Resources, Inc.",Energy,2019,175626.78,52516.728,11494.112,6699,115095,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,239637.62
+"EOG Resources, Inc.",Energy,2021,165089.1732,48840.55704,10574.58304,6704,78547,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,224504.31328
+"EOG Resources, Inc.",Energy,2022,163438.2815,46886.93476,9517.124736,6726,29074,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,219842.340996
+Occidental Petroleum Corporation,Energy,2016,231000.0,101000.0,14000.0,6731,896552,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,346000.0
+Occidental Petroleum Corporation,Energy,2017,207900.0,98980.0,13720.0,6743,43997,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,320600.0
+Occidental Petroleum Corporation,Energy,2018,189189.0,92051.4,12348.0,6755,20777,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,293588.4
+Occidental Petroleum Corporation,Energy,2019,185405.22,82846.26,12101.04,6784,17967,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,280352.51999999996
+Occidental Petroleum Corporation,Energy,2021,170572.8024,77047.0218,11980.0296,6840,47528,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,259599.85379999998
+Occidental Petroleum Corporation,Energy,2022,156926.9782,72424.20049,11141.42753,6845,33467,Oil and Gas,"Oil and Gas Exploration, Production","Houston, TX, USA",2030,240492.60622000002
+Dow Inc.,Basic Materials,2016,96000.0,75000.0,7172.578348083596,6863,98880,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,178172.5783480836
+Dow Inc.,Basic Materials,2017,88320.0,73500.0,7172.578348083596,6892,992968,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,168992.5783480836
+Dow Inc.,Basic Materials,2018,80371.2,71295.0,7172.578348083596,6895,895429,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,158838.7783480836
+Dow Inc.,Basic Materials,2019,79567.488,64878.45,7172.578348083596,6915,78453,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,151618.5163480836
+Dow Inc.,Basic Materials,2021,73997.76384,59039.3895,7172.578348083596,6941,97793,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,140209.7316880836
+Dow Inc.,Basic Materials,2022,68817.92037,53725.84445,7172.578348083596,6964,167489,Chemicals,Chemical Manufacturing,"Midland, MI, USA",2040,129716.34316808361
+BASF SE,Basic Materials,2016,113000.0,75000.0,7172.578348083596,6967,45058,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,195172.5783480836
+BASF SE,Basic Materials,2017,101700.0,72000.0,7172.578348083596,7070,525064,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,180872.5783480836
+BASF SE,Basic Materials,2018,96615.0,65520.0,7172.578348083596,7105,198321,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,169307.5783480836
+BASF SE,Basic Materials,2019,93716.55,59623.2,7172.578348083596,7136,64532,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,160512.3283480836
+BASF SE,Basic Materials,2021,89030.7225,57834.504,7172.578348083596,7159,84397,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,154037.8048480836
+BASF SE,Basic Materials,2022,83688.87915,54364.43376,7172.578348083596,7160,59995,Chemicals,Chemical Manufacturing,"Ludwigshafen, Germany",2030,145225.89125808357
+"DuPont de Nemours, Inc.",Basic Materials,2016,125000.0,76000.0,7172.578348083596,7183,148188,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,208172.5783480836
+"DuPont de Nemours, Inc.",Basic Materials,2017,115000.0,69160.0,7172.578348083596,7195,119950,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,191332.5783480836
+"DuPont de Nemours, Inc.",Basic Materials,2018,108100.0,67085.2,7172.578348083596,7210,330806,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,182357.7783480836
+"DuPont de Nemours, Inc.",Basic Materials,2019,98371.0,63730.94,7172.578348083596,7214,239540,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,169274.5183480836
+"DuPont de Nemours, Inc.",Basic Materials,2021,93452.45,58632.4648,7172.578348083596,7224,15591,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,159257.4931480836
+"DuPont de Nemours, Inc.",Basic Materials,2022,91583.401,56873.49086,7172.578348083596,7280,52611,Chemicals,Chemical Manufacturing,"Wilmington, DE, USA",2030,155629.4702080836
+LyondellBasell Industries NV,Basic Materials,2016,97000.0,74000.0,7172.578348083596,7286,133644,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,178172.5783480836
+LyondellBasell Industries NV,Basic Materials,2017,91180.0,67340.0,7172.578348083596,7320,60524,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,165692.5783480836
+LyondellBasell Industries NV,Basic Materials,2018,85709.2,63299.6,7172.578348083596,7326,33097,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,156181.37834808358
+LyondellBasell Industries NV,Basic Materials,2019,83137.924,57602.636,7172.578348083596,7329,24145,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,147913.1383480836
+LyondellBasell Industries NV,Basic Materials,2021,75655.51084,52994.42512,7172.578348083596,7338,615042,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,135822.5143080836
+LyondellBasell Industries NV,Basic Materials,2022,73385.84551,48224.92686,7172.578348083596,7372,108709,Chemicals,Chemical Manufacturing,"Houston, TX, USA",2050,128783.35071808359
+Air Liquide S.A.,Basic Materials,2016,120000.0,65000.0,7172.578348083596,7398,48841,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,192172.5783480836
+Air Liquide S.A.,Basic Materials,2017,110400.0,59800.0,7172.578348083596,7428,73011,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,177372.5783480836
+Air Liquide S.A.,Basic Materials,2018,102672.0,53820.0,7172.578348083596,7523,23717,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,163664.5783480836
+Air Liquide S.A.,Basic Materials,2019,97538.4,48976.2,7172.578348083596,7524,54895,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,153687.17834808357
+Air Liquide S.A.,Basic Materials,2021,95587.632,44568.342,7172.578348083596,7580,24507,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,147328.55234808358
+Air Liquide S.A.,Basic Materials,2022,89852.37408,41448.55806,7172.578348083596,7625,86381,Chemicals,"Industrial Gases, Chemicals","Paris, France",2050,138473.5104880836
+BHP Group Limited,Basic Materials,2016,91000.0,76000.0,7172.578348083596,7659,290731,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,174172.5783480836
+BHP Group Limited,Basic Materials,2017,83720.0,68400.0,7172.578348083596,7694,13269,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,159292.5783480836
+BHP Group Limited,Basic Materials,2018,82045.6,64296.0,7172.578348083596,7726,5992,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,153514.1783480836
+BHP Group Limited,Basic Materials,2019,77122.864,61081.2,7172.578348083596,7731,58679,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,145376.6423480836
+BHP Group Limited,Basic Materials,2021,73266.7208,56805.516,7172.578348083596,7769,70514,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,137244.8151480836
+BHP Group Limited,Basic Materials,2022,68138.05034,52261.07472,7172.578348083596,7838,173733,Mining,"Mining, Metals, Petroleum","Melbourne, Australia",2030,127571.70340808359
+Rio Tinto Group,Basic Materials,2016,146000.0,62000.0,7172.578348083596,7863,124977,Mining,"Mining, Metals","London, UK",2050,215172.5783480836
+Rio Tinto Group,Basic Materials,2017,131400.0,55800.0,7172.578348083596,7863,41089,Mining,"Mining, Metals","London, UK",2050,194372.5783480836
+Rio Tinto Group,Basic Materials,2018,122202.0,51894.0,7172.578348083596,7865,390365,Mining,"Mining, Metals","London, UK",2050,181268.5783480836
+Rio Tinto Group,Basic Materials,2019,109981.8,49818.24,7172.578348083596,7887,29969,Mining,"Mining, Metals","London, UK",2050,166972.6183480836
+Rio Tinto Group,Basic Materials,2021,100083.438,46330.9632,7172.578348083596,7902,89115,Mining,"Mining, Metals","London, UK",2050,153586.9795480836
+Rio Tinto Group,Basic Materials,2022,91075.92858,44477.72467,7172.578348083596,7921,9936,Mining,"Mining, Metals","London, UK",2050,142726.2315980836
+Vale S.A.,Basic Materials,2016,138000.0,72000.0,7172.578348083596,7924,61733,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,217172.5783480836
+Vale S.A.,Basic Materials,2017,125580.0,66240.0,7172.578348083596,7982,290318,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,198992.5783480836
+Vale S.A.,Basic Materials,2018,115533.6,62265.6,7172.578348083596,7986,44659,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,184971.7783480836
+Vale S.A.,Basic Materials,2019,113222.928,59152.32,7172.578348083596,8005,67887,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,179547.8263480836
+Vale S.A.,Basic Materials,2021,101900.6352,53237.088,7172.578348083596,8023,16448,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,162310.3015480836
+Vale S.A.,Basic Materials,2022,98843.61614,47913.3792,7172.578348083596,8066,110122,Mining,"Mining, Metals","Rio de Janeiro, Brazil",2040,153929.5736880836
+Freeport-McMoRan Inc.,Basic Materials,2016,95878.30766,47434.24541,7172.578348083596,8094,42875,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,150485.13141808362
+Freeport-McMoRan Inc.,Basic Materials,2017,100000.0,66000.0,7172.578348083596,8107,34566,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,173172.5783480836
+Freeport-McMoRan Inc.,Basic Materials,2018,99000.0,63360.0,7172.578348083596,8116,51803,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,169532.5783480836
+Freeport-McMoRan Inc.,Basic Materials,2019,89100.0,59558.4,7172.578348083596,8118,16401,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,155830.9783480836
+Freeport-McMoRan Inc.,Basic Materials,2021,86427.0,53602.56,7172.578348083596,8170,49519,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,147202.1383480836
+Freeport-McMoRan Inc.,Basic Materials,2022,83834.19,50386.4064,7172.578348083596,8175,22825,Mining,"Mining, Copper, Gold","Phoenix, AZ, USA",2050,141393.1747480836
+Newmont Corporation,Basic Materials,2016,92000.0,71000.0,7172.578348083596,8200,495426,Mining,"Mining, Gold","Denver, CO, USA",2030,170172.5783480836
+Newmont Corporation,Basic Materials,2017,88320.0,69580.0,7172.578348083596,8201,19220,Mining,"Mining, Gold","Denver, CO, USA",2030,165072.5783480836
+Newmont Corporation,Basic Materials,2018,81254.4,66796.8,7172.578348083596,8225,129944,Mining,"Mining, Gold","Denver, CO, USA",2030,155223.7783480836
+Newmont Corporation,Basic Materials,2019,76379.136,62121.024,7172.578348083596,8234,11288,Mining,"Mining, Gold","Denver, CO, USA",2030,145672.7383480836
+Newmont Corporation,Basic Materials,2021,71032.59648,61499.81376,7172.578348083596,8235,64549,Mining,"Mining, Gold","Denver, CO, USA",2030,139704.9885880836
+Newmont Corporation,Basic Materials,2022,68191.29262,57194.8268,7172.578348083596,8237,28361,Mining,"Mining, Gold","Denver, CO, USA",2030,132558.6977680836
+Barrick Gold Corporation,Basic Materials,2016,143000.0,66000.0,7172.578348083596,8342,58381,Mining,"Mining, Gold","Toronto, Canada",2040,216172.5783480836
+Barrick Gold Corporation,Basic Materials,2017,138710.0,64020.0,7172.578348083596,8345,21172,Mining,"Mining, Gold","Toronto, Canada",2040,209902.5783480836
+Barrick Gold Corporation,Basic Materials,2018,126226.1,58258.2,7172.578348083596,8352,12971,Mining,"Mining, Gold","Toronto, Canada",2040,191656.87834808358
+Barrick Gold Corporation,Basic Materials,2019,123701.578,54762.708,7172.578348083596,8359,101450,Mining,"Mining, Gold","Toronto, Canada",2040,185636.8643480836
+Barrick Gold Corporation,Basic Materials,2021,117516.4991,51476.94552,7172.578348083596,8365,158838,Mining,"Mining, Gold","Toronto, Canada",2040,176166.0229680836
+Barrick Gold Corporation,Basic Materials,2022,109290.3442,47358.78988,7172.578348083596,8382,34309,Mining,"Mining, Gold","Toronto, Canada",2040,163821.71242808359
+Alcoa Corporation,Basic Materials,2016,98000.0,76000.0,7172.578348083596,8443,9132,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,181172.5783480836
+Alcoa Corporation,Basic Materials,2017,93100.0,74480.0,7172.578348083596,8469,32957,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,174752.5783480836
+Alcoa Corporation,Basic Materials,2018,84721.0,69266.4,7172.578348083596,8479,5903,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,161159.9783480836
+Alcoa Corporation,Basic Materials,2019,80484.95,65110.416,7172.578348083596,8489,16197,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,152767.94434808358
+Alcoa Corporation,Basic Materials,2021,72436.455,62505.99936,7172.578348083596,8510,53369,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,142115.0327080836
+Alcoa Corporation,Basic Materials,2022,68090.2677,56255.39942,7172.578348083596,8527,11698,Mining,"Mining, Aluminum","Pittsburgh, PA, USA",2030,131518.2454680836
+Anglo American plc,Basic Materials,2016,101000.0,64000.0,7172.578348083596,8536,19575,Mining,"Mining, Metals","London, UK",2030,172172.5783480836
+Anglo American plc,Basic Materials,2017,98980.0,57600.0,7172.578348083596,8548,19737,Mining,"Mining, Metals","London, UK",2030,163752.5783480836
+Anglo American plc,Basic Materials,2018,90071.8,54720.0,7172.578348083596,8612,7181,Mining,"Mining, Metals","London, UK",2030,151964.37834808358
+Anglo American plc,Basic Materials,2019,81965.338,54172.8,7172.578348083596,8620,48887,Mining,"Mining, Metals","London, UK",2030,143310.7163480836
+Anglo American plc,Basic Materials,2021,75408.11096,49838.976,7172.578348083596,8649,59707,Mining,"Mining, Metals","London, UK",2030,132419.6653080836
+Anglo American plc,Basic Materials,2022,72391.78652,46350.24768,7172.578348083596,8671,13943,Mining,"Mining, Metals","London, UK",2030,125914.61254808359
+Glencore plc,Basic Materials,2016,112000.0,62000.0,7172.578348083596,8681,72574,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,181172.5783480836
+Glencore plc,Basic Materials,2017,100800.0,60760.0,7172.578348083596,8742,67493,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,168732.5783480836
+Glencore plc,Basic Materials,2018,90720.0,54684.0,7172.578348083596,8751,18345,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,152576.5783480836
+Glencore plc,Basic Materials,2019,89812.8,53043.48,7172.578348083596,8776,61627,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,150028.8583480836
+Glencore plc,Basic Materials,2021,88016.544,49330.4364,7172.578348083596,8781,25895,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,144519.5587480836
+Glencore plc,Basic Materials,2022,82735.55136,45384.00149,7172.578348083596,8846,25377,Mining,"Mining, Metals, Energy","Baar, Switzerland",2050,135292.1311980836
+Teck Resources Limited,Basic Materials,2016,115000.0,76000.0,7172.578348083596,8878,64742,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,198172.5783480836
+Teck Resources Limited,Basic Materials,2017,108100.0,70680.0,7172.578348083596,8899,33471,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,185952.5783480836
+Teck Resources Limited,Basic Materials,2018,100533.0,67146.0,7172.578348083596,8906,39286,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,174851.5783480836
+Teck Resources Limited,Basic Materials,2019,90479.7,63788.7,7172.578348083596,8919,152768,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,161440.9783480836
+Teck Resources Limited,Basic Materials,2021,89574.903,59323.491,7172.578348083596,8926,29360,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,156070.9723480836
+Teck Resources Limited,Basic Materials,2022,85096.15785,54577.61172,7172.578348083596,8942,109330,Mining,"Mining, Metals, Energy","Vancouver, Canada",2040,146846.3479180836
+"American Airlines Group, Inc.",Industrial,2016,45000.0,26000.0,5000.0,8992,61673,Transportation,Airline Services,"Fort Worth, TX, USA",2040,76000.0
+"American Airlines Group, Inc.",Industrial,2017,44550.0,24960.0,4700.0,9041,7591,Transportation,Airline Services,"Fort Worth, TX, USA",2040,74210.0
+"American Airlines Group, Inc.",Industrial,2018,44104.5,23462.4,4512.0,9041,410295,Transportation,Airline Services,"Fort Worth, TX, USA",2040,72078.9
+"American Airlines Group, Inc.",Industrial,2019,42340.32,22289.28,4466.88,9120,69396,Transportation,Airline Services,"Fort Worth, TX, USA",2040,69096.48
+"American Airlines Group, Inc.",Industrial,2021,41493.5136,21620.6016,4288.2048,9127,118700,Transportation,Airline Services,"Fort Worth, TX, USA",2040,67402.32
+"American Airlines Group, Inc.",Industrial,2022,40248.70819,19674.74746,3859.38432,9145,10543,Transportation,Airline Services,"Fort Worth, TX, USA",2040,63782.83996999999
+Boeing Company,Industrial,2016,33000.0,20000.0,3000.0,9165,29574,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,56000.0
+Boeing Company,Industrial,2017,30030.0,19400.0,2700.0,9172,47511,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,52130.0
+Boeing Company,Industrial,2018,28228.2,18818.0,2646.0,9175,25051,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,49692.2
+Boeing Company,Industrial,2019,26816.79,17500.74,2513.7,9273,9224,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,46831.229999999996
+Boeing Company,Industrial,2021,24135.111,16800.7104,2312.604,9298,381508,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,43248.4254
+Boeing Company,Industrial,2022,23169.70656,16296.68909,2266.35192,9304,70817,Aerospace & Defense,"Aerospace Manufacturing, Defense","Chicago, IL, USA",2030,41732.74757
+Lockheed Martin Corporation,Industrial,2016,32000.0,22000.0,3000.0,9351,62082,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,57000.0
+Lockheed Martin Corporation,Industrial,2017,29120.0,21560.0,2940.0,9444,18881,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,53620.0
+Lockheed Martin Corporation,Industrial,2018,27664.0,20266.4,2822.4,9452,14462,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,50752.8
+Lockheed Martin Corporation,Industrial,2019,24897.6,19050.416,2737.728,9497,33976,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,46685.744000000006
+Lockheed Martin Corporation,Industrial,2021,24150.672,18669.40768,2628.21888,9526,14555,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,45448.298559999996
+Lockheed Martin Corporation,Industrial,2022,23184.64512,16989.16099,2365.396992,9526,12681,Aerospace & Defense,"Aerospace, Defense, Security","Bethesda, MD, USA",2050,42539.20310200001
+Northrop Grumman Corporation,Industrial,2016,51000.0,36000.0,2000.0,9538,49271,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,89000.0
+Northrop Grumman Corporation,Industrial,2017,47430.0,34560.0,1980.0,9591,4654,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,83970.0
+Northrop Grumman Corporation,Industrial,2018,43161.3,32486.4,1881.0,9650,8565,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,77528.70000000001
+Northrop Grumman Corporation,Industrial,2019,41866.461,29562.624,1862.19,9654,104826,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,73291.27500000001
+Northrop Grumman Corporation,Industrial,2021,41029.13178,28084.4928,1769.0805,9709,14646,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,70882.70508
+Northrop Grumman Corporation,Industrial,2022,38977.67519,26399.42323,1645.244865,9730,117691,Aerospace & Defense,"Aerospace, Defense, Technology","Falls Church, VA, USA",2030,67022.343285
+Raytheon Technologies Corp.,Industrial,2016,51000.0,12000.0,3000.0,9740,18718,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,66000.0
+Raytheon Technologies Corp.,Industrial,2017,46410.0,11160.0,2970.0,9761,23351,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,60540.0
+Raytheon Technologies Corp.,Industrial,2018,43161.3,10713.6,2821.5,9779,15283,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,56696.4
+Raytheon Technologies Corp.,Industrial,2019,38845.17,10392.192,2736.855,9790,20497,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,51974.217
+Raytheon Technologies Corp.,Industrial,2021,36514.4598,10184.34816,2654.74935,9871,30157,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,49353.55731
+Raytheon Technologies Corp.,Industrial,2022,33958.44761,9165.913344,2468.916896,9909,7999,Aerospace & Defense,"Aerospace, Defense, Technology","Waltham, MA, USA",2050,45593.277850000006
+General Dynamics Corporation,Industrial,2016,58000.0,13000.0,4000.0,9909,13673,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,75000.0
+General Dynamics Corporation,Industrial,2017,53360.0,12350.0,3880.0,9971,20496,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,69590.0
+General Dynamics Corporation,Industrial,2018,49091.2,12226.5,3763.6,10007,7884,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,65081.299999999996
+General Dynamics Corporation,Industrial,2019,44672.992,11859.705,3387.24,10072,51333,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,59919.937
+General Dynamics Corporation,Industrial,2021,42439.3424,11385.3168,3150.1332,10074,15607,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,56974.792400000006
+General Dynamics Corporation,Industrial,2022,41590.55555,10474.49146,2835.11988,10076,12165,Aerospace & Defense,"Aerospace, Defense, Marine Systems","Reston, VA, USA",2030,54900.16688999999
+United Technologies Corp.,Industrial,2016,33000.0,22000.0,7000.0,10083,13226,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,62000.0
+United Technologies Corp.,Industrial,2017,31680.0,21120.0,6580.0,10087,37125,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,59380.0
+United Technologies Corp.,Industrial,2018,29462.4,19430.4,6514.2,10150,51765,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,55407.0
+United Technologies Corp.,Industrial,2019,27105.408,18653.184,6253.632,10164,334761,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,52012.224
+United Technologies Corp.,Industrial,2021,25750.1376,17160.92928,5815.87776,10168,85196,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,48726.94464
+United Technologies Corp.,Industrial,2022,24977.63347,16474.49211,5292.448762,10187,55126,Aerospace & Defense,"Aerospace, Defense, Technology","Farmington, CT, USA",2050,46744.574342
+"Delta Air Lines, Inc.",Industrial,2016,44000.0,34000.0,6000.0,10189,29236,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,84000.0
+"Delta Air Lines, Inc.",Industrial,2017,39600.0,32300.0,5400.0,10213,30111,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,77300.0
+"Delta Air Lines, Inc.",Industrial,2018,35640.0,30362.0,5238.0,10221,6787,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,71240.0
+"Delta Air Lines, Inc.",Industrial,2019,34927.2,27933.04,5133.24,10283,16204,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,67993.48
+"Delta Air Lines, Inc.",Industrial,2021,33530.112,25419.0664,4876.578,10292,31357,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,63825.756400000006
+"Delta Air Lines, Inc.",Industrial,2022,31853.6064,24148.11308,4583.98332,10299,14128,Transportation,"Airline, Aviation","Atlanta, GA, USA",2050,60585.7028
+"United Parcel Service, Inc.",Industrial,2016,48000.0,31000.0,5000.0,10305,103823,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,84000.0
+"United Parcel Service, Inc.",Industrial,2017,47040.0,30380.0,4600.0,10333,26370,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,82020.0
+"United Parcel Service, Inc.",Industrial,2018,46569.6,28253.4,4140.0,10433,13679,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,78963.0
+"United Parcel Service, Inc.",Industrial,2019,44241.12,27123.264,4057.2,10454,13736,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,75421.584
+"United Parcel Service, Inc.",Industrial,2021,42913.8864,24410.9376,3935.484,10456,276088,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,71260.308
+"United Parcel Service, Inc.",Industrial,2022,39909.91435,23190.39072,3896.12916,10465,9348,Transportation,"Package Delivery, Logistics","Atlanta, GA, USA",2050,66996.43423
+FedEx Corporation,Industrial,2016,40000.0,23000.0,6000.0,10579,15034,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,69000.0
+FedEx Corporation,Industrial,2017,39200.0,22310.0,5640.0,10647,75892,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,67150.0
+FedEx Corporation,Industrial,2018,38416.0,20748.3,5527.2,10735,9737,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,64691.5
+FedEx Corporation,Industrial,2019,35726.88,19295.919,5471.928,10800,11463,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,60494.727
+FedEx Corporation,Industrial,2021,34297.8048,18138.16386,5417.20872,10850,27743,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,57853.17738
+FedEx Corporation,Industrial,2022,32239.93651,16868.49239,5038.00411,10879,4641,Transportation,"Package Delivery, Logistics","Memphis, TN, USA",2040,54146.43301
+The Boeing Company,Industrial,2016,29338.34223,16025.06777,4534.203699,10918,17708,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,49897.613698999994
+The Boeing Company,Industrial,2017,37000.0,36000.0,4000.0,10974,21402,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,77000.0
+The Boeing Company,Industrial,2018,35520.0,34920.0,3640.0,11088,26783,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,74080.0
+The Boeing Company,Industrial,2019,34454.4,32824.8,3348.8,11094,82243,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,70628.00000000001
+The Boeing Company,Industrial,2021,33420.768,30527.064,3281.824,11120,20869,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,67229.65599999999
+The Boeing Company,Industrial,2022,30747.10656,29611.25208,3216.18752,11144,30167,Transportation,"Aerospace, Aviation","Chicago, IL, USA",2030,63574.54616
+General Electric Company,Industrial,2016,54000.0,17000.0,8000.0,11167,13156,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,79000.0
+General Electric Company,Industrial,2017,52920.0,16490.0,7200.0,11171,17185,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,76610.0
+General Electric Company,Industrial,2018,50803.2,15005.9,6984.0,11251,473078,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,72793.09999999999
+General Electric Company,Industrial,2019,46230.912,14405.664,6495.12,11296,19024,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,67131.696
+General Electric Company,Industrial,2021,42070.12992,13397.26752,5845.608,11362,168622,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,61313.00544
+General Electric Company,Industrial,2022,39545.92212,12057.54077,5494.87152,11378,20597,Commercial & Services,"Diversified Manufacturing, Services","Boston, MA, USA",2040,57098.33441
+3M Company,Industrial,2016,55000.0,27000.0,2000.0,11389,40809,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,84000.0
+3M Company,Industrial,2017,51700.0,25110.0,1920.0,11474,18018,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,78730.0
+3M Company,Industrial,2018,49632.0,24607.8,1843.2,11486,27234,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,76083.0
+3M Company,Industrial,2019,44668.8,23131.332,1714.176,11503,17577,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,69514.308
+3M Company,Industrial,2021,43775.424,22206.07872,1628.4672,11529,76731,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,67609.96992
+3M Company,Industrial,2022,39397.8816,21984.01793,1612.182528,11548,17578,Commercial & Services,"Diversified Manufacturing, Services","St. Paul, MN, USA",2030,62994.082058
+Caterpillar Inc.,Industrial,2016,27000.0,19000.0,8000.0,11555,41888,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,54000.0
+Caterpillar Inc.,Industrial,2017,24300.0,17290.0,7920.0,11618,31761,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,49510.0
+Caterpillar Inc.,Industrial,2018,22356.0,15561.0,7682.4,11665,15068,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,45599.4
+Caterpillar Inc.,Industrial,2019,21685.32,15094.17,7298.28,11785,17311,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,44077.77
+Caterpillar Inc.,Industrial,2021,20384.2008,14188.5198,7079.3316,11809,113996,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,41652.0522
+Caterpillar Inc.,Industrial,2022,18549.62273,13195.32341,6654.571704,11847,8899,Commercial & Services,"Construction, Mining Equipment","Deerfield, IL, USA",2050,38399.517844
+Honeywell International Inc.,Industrial,2016,54000.0,13000.0,6000.0,11864,10357,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,73000.0
+Honeywell International Inc.,Industrial,2017,52380.0,12740.0,5640.0,11937,42397,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,70760.0
+Honeywell International Inc.,Industrial,2018,51856.2,11593.4,5132.4,11999,23199,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,68582.0
+Honeywell International Inc.,Industrial,2019,50819.076,10434.06,4978.428,12029,15018,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,66231.564
+Honeywell International Inc.,Industrial,2021,50310.88524,10225.3788,4530.36948,12044,17564,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,65066.63352
+Honeywell International Inc.,Industrial,2022,48801.55868,9714.10986,4213.243616,12067,79388,Commercial & Services,"Diversified Manufacturing, Services","Charlotte, NC, USA",2050,62728.912156
+Siemens AG,Industrial,2016,40000.0,35000.0,7000.0,12101,17305,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,82000.0
+Siemens AG,Industrial,2017,37600.0,34650.0,6580.0,12112,1898,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,78830.0
+Siemens AG,Industrial,2018,35344.0,31185.0,5922.0,12301,15609,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,72451.0
+Siemens AG,Industrial,2019,33930.24,30561.3,5862.78,12347,74157,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,70354.31999999999
+Siemens AG,Industrial,2021,30876.5184,28727.622,5804.1522,12443,5270,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,65408.2926
+Siemens AG,Industrial,2022,29950.22285,26716.68846,5746.110678,12506,245610,Commercial & Services,"Diversified Manufacturing, Services","Munich, Germany",2040,62413.02198799999
+Microsoft Corporation,Technology ,2016,14000.0,11000.0,1000.0,12574,151828,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,26000.0
+Microsoft Corporation,Technology ,2017,13300.0,10230.0,930.0,12593,2808,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,24460.0
+Microsoft Corporation,Technology ,2018,12635.0,10025.4,911.4,12633,11608,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,23571.800000000003
+Microsoft Corporation,Technology ,2019,12508.65,9123.114,847.602,12669,10125,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,22479.365999999998
+Microsoft Corporation,Technology ,2021,12133.3905,8210.8026,762.8418,12673,33876,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,21107.0349
+Microsoft Corporation,Technology ,2022,11769.38879,7553.938392,694.186038,12808,38336,Software,"Software Development, Cloud Services","Redmond, WA, USA",2050,20017.51322
+Apple Inc.,Technology ,2016,18000.0,4000.0,1000.0,12856,33231,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,23000.0
+Apple Inc.,Technology ,2017,17820.0,3800.0,900.0,12900,6084,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,22520.0
+Apple Inc.,Technology ,2018,16572.6,3724.0,855.0,12914,41882,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,21151.6
+Apple Inc.,Technology ,2019,15909.696,3426.08,846.45,12937,31124,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,20182.226
+Apple Inc.,Technology ,2021,15432.40512,3391.8192,787.1985,13082,17457,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,19611.42282
+Apple Inc.,Technology ,2022,15278.08107,3086.555472,708.47865,13103,58079,Computers,"Consumer Electronics, Software","Cupertino, CA, USA",2050,19073.115192
+Google LLC (Alphabet Inc.),Technology ,2016,8000.0,10000.0,1000.0,13131,12780,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,19000.0
+Google LLC (Alphabet Inc.),Technology ,2017,7680.0,9500.0,930.0,13191,65665,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,18110.0
+Google LLC (Alphabet Inc.),Technology ,2018,7142.4,9215.0,920.7,13209,64382,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,17278.1
+Google LLC (Alphabet Inc.),Technology ,2019,6571.008,9122.85,856.251,13210,35439,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,16550.109
+Google LLC (Alphabet Inc.),Technology ,2021,6176.74752,8393.022,796.31343,13329,8332,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,15366.082950000002
+Google LLC (Alphabet Inc.),Technology ,2022,5744.375194,7889.44068,756.4977585,13458,2687,Software,"Internet Services, Advertising","Mountain View, CA, USA",2040,14390.3136325
+"Amazon.com, Inc.","Consumer, Cyclical",2016,53000.0,41000.0,6000.0,13477,21416,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,100000.0
+"Amazon.com, Inc.","Consumer, Cyclical",2017,51940.0,39770.0,5940.0,13578,5570,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,97650.0
+"Amazon.com, Inc.","Consumer, Cyclical",2018,46746.0,36190.7,5464.8,13630,6571,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,88401.5
+"Amazon.com, Inc.","Consumer, Cyclical",2019,44876.16,34381.165,5136.912,13739,67013,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,84394.23700000001
+"Amazon.com, Inc.","Consumer, Cyclical",2021,40388.544,34037.35335,4931.43552,13846,38257,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,79357.33287
+"Amazon.com, Inc.","Consumer, Cyclical",2022,37561.34592,33696.97982,4438.291968,13871,9896,Retail,"E-commerce, Cloud Computing, Streaming","Seattle, WA, USA",2030,75696.617708
+IBM (International Business Machines Corporation),Technology ,2016,9000.0,12000.0,3000.0,13888,171473,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,24000.0
+IBM (International Business Machines Corporation),Technology ,2017,8910.0,11640.0,2760.0,13989,26616,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,23310.0
+IBM (International Business Machines Corporation),Technology ,2018,8553.6,10592.4,2732.4,14102,294005,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,21878.4
+IBM (International Business Machines Corporation),Technology ,2019,7869.312,10486.476,2459.16,14109,15505,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,20814.948
+IBM (International Business Machines Corporation),Technology ,2021,7633.23264,10067.01696,2434.5684,14147,180644,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,20134.818000000003
+IBM (International Business Machines Corporation),Technology ,2022,7022.574029,9060.315264,2312.83998,14175,18046,Software,"IT Services, Cloud, AI","Armonk, NY, USA",2050,18395.729273
+Intel Corporation,Technology ,2016,9000.0,11000.0,2000.0,14192,10976,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,22000.0
+Intel Corporation,Technology ,2017,8370.0,10120.0,1940.0,14300,50448,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,20430.0
+Intel Corporation,Technology ,2018,7784.1,9715.2,1862.4,14320,28898,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,19361.700000000004
+Intel Corporation,Technology ,2019,7628.418,9618.048,1676.16,14378,6005,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,18922.626
+Intel Corporation,Technology ,2021,6941.86038,8944.78464,1508.544,14383,17360,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,17395.18902
+Intel Corporation,Technology ,2022,6664.185965,8050.306176,1402.94592,14402,19509,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,16117.438060999999
+NVIDIA Corporation,Technology ,2016,18000.0,6000.0,3000.0,14442,11668,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,27000.0
+NVIDIA Corporation,Technology ,2017,17280.0,5700.0,2700.0,14539,18193,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,25680.0
+NVIDIA Corporation,Technology ,2018,16070.4,5415.0,2646.0,14608,37923,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,24131.4
+NVIDIA Corporation,Technology ,2019,15266.88,5198.4,2593.08,14664,6917,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,23058.36
+NVIDIA Corporation,Technology ,2021,13740.192,4782.528,2489.3568,14745,20762,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,21012.076800000003
+NVIDIA Corporation,Technology ,2022,13327.98624,4399.92576,2439.569664,14863,7989,Semiconductors,Graphics Processing Units (GPUs),"Santa Clara, CA, USA",2030,20167.481664
+"Advanced Micro Devices, Inc.",Technology ,2016,15000.0,9000.0,2000.0,14884,33735,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,26000.0
+"Advanced Micro Devices, Inc.",Technology ,2017,13500.0,8910.0,1980.0,14906,49518,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,24390.0
+"Advanced Micro Devices, Inc.",Technology ,2018,13230.0,8464.5,1801.8,14931,9367,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,23496.3
+"Advanced Micro Devices, Inc.",Technology ,2019,12436.2,7618.05,1639.638,14954,23251,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,21693.888
+"Advanced Micro Devices, Inc.",Technology ,2021,11316.942,7160.967,1590.44886,15066,8131,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,20068.35786
+"Advanced Micro Devices, Inc.",Technology ,2022,11203.77258,6444.8703,1431.403974,15146,17315,Semiconductors,Semiconductor Manufacturing,"Santa Clara, CA, USA",2030,19080.046854
+Qualcomm Incorporated,Technology ,2016,17000.0,5000.0,2000.0,15310,51724,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,24000.0
+Qualcomm Incorporated,Technology ,2017,16660.0,4800.0,1860.0,15455,42301,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,23320.0
+Qualcomm Incorporated,Technology ,2018,16493.4,4416.0,1692.6,15464,18174,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,22602.0
+Qualcomm Incorporated,Technology ,2019,16328.466,4151.04,1557.192,15524,30565,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,22036.698
+Qualcomm Incorporated,Technology ,2021,16001.89668,4068.0192,1510.47624,15561,7311,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,21580.39212
+Qualcomm Incorporated,Technology ,2022,15361.82081,3661.21728,1434.952428,15693,28860,Semiconductors,"Wireless Technologies, Semiconductors","San Diego, CA, USA",2040,20457.990518
+Broadcom Inc.,Technology ,2016,20000.0,6000.0,2000.0,16039,8276,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,28000.0
+Broadcom Inc.,Technology ,2017,18000.0,5940.0,1800.0,16222,50174,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,25740.0
+Broadcom Inc.,Technology ,2018,17460.0,5464.8,1638.0,16227,4071,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,24562.8
+Broadcom Inc.,Technology ,2019,16063.2,5246.208,1523.34,16383,14631,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,22832.748
+Broadcom Inc.,Technology ,2021,14617.512,5036.35968,1508.1066,16569,83806,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,21161.97828
+Broadcom Inc.,Technology ,2022,13155.7608,4885.26889,1447.782336,16572,7151,Semiconductors,"Semiconductors, Connectivity Solutions","San Jose, CA, USA",2040,19488.812026
+Adobe Inc.,Technology ,2016,19000.0,6000.0,1000.0,16648,22684,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,26000.0
+Adobe Inc.,Technology ,2017,17670.0,5880.0,910.0,16652,44189,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,24460.0
+Adobe Inc.,Technology ,2018,16963.2,5762.4,855.4,16783,5717,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,23581.0
+Adobe Inc.,Technology ,2019,16454.304,5301.408,829.738,16829,17752,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,22585.45
+Adobe Inc.,Technology ,2021,15631.5888,4771.2672,804.84586,16865,10716,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,21207.70186
+Adobe Inc.,Technology ,2022,14224.74581,4484.991168,732.4097326,16883,33648,Software,"Creative Software, Document Management","San Jose, CA, USA",2030,19442.146710600002
+Oracle Corporation,Technology ,2016,12944.51869,4305.591521,710.4374406,17098,77539,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,17960.547651599998
+Oracle Corporation,Technology ,2017,8000.0,11000.0,3000.0,17129,9702,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,22000.0
+Oracle Corporation,Technology ,2018,7760.0,10780.0,2700.0,17258,21812,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,21240.0
+Oracle Corporation,Technology ,2019,7294.4,10241.0,2646.0,17290,10717,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,20181.4
+Oracle Corporation,Technology ,2021,7002.624,9831.36,2381.4,17380,44291,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,19215.384000000002
+Oracle Corporation,Technology ,2022,6512.44032,8946.5376,2190.888,17450,15642,Software,"Database Software, Cloud Services","Redwood City, CA, USA",2040,17649.86592
+SAP SE,Technology ,2016,9000.0,6000.0,3000.0,17487,47730,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,18000.0
+SAP SE,Technology ,2017,8460.0,5760.0,2730.0,17593,15711,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,16950.0
+SAP SE,Technology ,2018,8375.4,5702.4,2702.7,17772,16649,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,16780.5
+SAP SE,Technology ,2019,7872.876,5303.232,2513.511,17817,27135,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,15689.619
+SAP SE,Technology ,2021,7479.2322,5144.13504,2438.10567,17901,13387,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,15061.47291
+SAP SE,Technology ,2022,7030.478268,4784.045587,2243.057216,17983,13631,Software,"Enterprise Software, Cloud Solutions","Walldorf, Germany",2040,14057.581071
+Dell Technologies Inc.,Technology ,2016,18000.0,8000.0,3000.0,18032,13148,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,29000.0
+Dell Technologies Inc.,Technology ,2017,17460.0,7760.0,2820.0,18289,12531,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,28040.0
+Dell Technologies Inc.,Technology ,2018,16412.4,6984.0,2650.8,18372,169369,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,26047.2
+Dell Technologies Inc.,Technology ,2019,15920.028,6704.64,2438.736,18450,24627,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,25063.404000000002
+Dell Technologies Inc.,Technology ,2021,14805.62604,6436.4544,2243.63712,18479,34108,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,23485.717559999997
+Dell Technologies Inc.,Technology ,2022,13769.23222,6178.996224,2131.455264,19146,39974,Computers,"Computer Hardware, IT Services","Round Rock, TX, USA",2050,22079.683708
+HP Inc.,Technology ,2016,17000.0,7000.0,3000.0,19204,35492,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,27000.0
+HP Inc.,Technology ,2017,16150.0,6580.0,2970.0,19392,11249,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,25700.0
+HP Inc.,Technology ,2018,14858.0,6514.2,2940.3,19461,12001,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,24312.5
+HP Inc.,Technology ,2019,14709.42,6123.348,2910.897,19519,3643,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,23743.665
+HP Inc.,Technology ,2021,13826.8548,5755.94712,2794.46112,19744,249870,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,22377.263039999998
+HP Inc.,Technology ,2022,13273.78061,5295.47135,2766.516509,19796,22214,Computers,"Personal Computers, Printers","Palo Alto, CA, USA",2030,21335.768469000002
+"Micron Technology, Inc.",Technology ,2016,19000.0,7000.0,3000.0,19810,37474,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,29000.0
+"Micron Technology, Inc.",Technology ,2017,17670.0,6580.0,2880.0,19974,19317,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,27130.0
+"Micron Technology, Inc.",Technology ,2018,17316.6,6448.4,2678.4,20156,8109,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,26443.4
+"Micron Technology, Inc.",Technology ,2019,16450.77,6125.98,2651.616,20173,14957,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,25228.366
+"Micron Technology, Inc.",Technology ,2021,14805.693,5942.2006,2519.0352,20419,6495,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,23266.928799999998
+"Micron Technology, Inc.",Technology ,2022,14213.46528,5585.668564,2342.702736,20521,18970,Semiconductors,Semiconductor Manufacturing,"Boise, ID, USA",2030,22141.83658
