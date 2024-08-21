@@ -14,27 +14,26 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class trigger_jenkins(APIView):
-    def post(self, request):  
-        try:
-            data=request.data
-            access_key=''
-            secret_key=''
-            branch_name=data['branch_name']
-            username=''
-            api_token=''
-            trigger_jenkins_build( access_key, secret_key, branch_name,username, api_token)           
+    def post(self, request):
+        branch_name=request.data.get('branch_name')  
+        username='nimbus_developer'
+        api_token='118d2caf04826dbacb68a98f312e94f93e'  
+        try: 
+            trigger_jenkins_build( branch_name,username, api_token) 
+            return Response({"msg":"build trigger successfully"}, status=status.HTTP_200_OK)
         except Exception as e:
             return Response({"error": f"An error occurred: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 class check_build(APIView):
     def get(self, request):  
         try:
-            JOB_NAME = 'UBO'
-            USERNAME = 'nimbus_developer'
-            API_TOKEN = 'nyInDiuVUo'
-            check_jenkins_build( JOB_NAME, USERNAME, API_TOKEN)           
+            username = 'nimbus_developer'
+            api_token = '118d2caf04826dbacb68a98f312e94f93e'
+            status_message = check_jenkins_build(username, api_token)
+            return Response({"status": status_message}, status=status.HTTP_200_OK)
         except Exception as e:
             return Response({"error": f"An error occurred: {str(e)}"}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
 
 
 class CheckCertificateStatus(APIView):
