@@ -12,12 +12,12 @@ def trigger_jenkins_build(branch_name,username, api_token):
     auth = (username, api_token)
 
     params = {
-        'img_tag': f'streamlit_dev_{branch_name}',
-        'release_name': branch_name,
-        'branch_name': branch_name,
-        'region':'ap-south-1',
-        'access_key': access_key,
-        'secret_key': secret_key
+        'IMAGE_TAG': f'streamlit_dev_{branch_name}',
+        'RELEASE_NAME': branch_name,
+        'BRANCH_NAME': branch_name,
+        'REGION':'ap-south-1',
+        'ACCESS_KEY_ID': access_key,
+        'SECRET_ACCESS_KEY': secret_key
     }
     response = requests.post(build_url, auth=auth, params=params)
     response.raise_for_status() 
