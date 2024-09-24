@@ -10,6 +10,10 @@ from .sslhelper import create_route53_validation_record, update_values_yml
 from .jenkins_build import trigger_jenkins_build, check_jenkins_build
 
 # Configure logging
+import base64
+import re
+import requests
+from github import Github
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -116,3 +120,69 @@ class CreateSSLCertificate(APIView):
             "hostname": hostname,
             "certificate_arn": certificate_arn
         }, status=status.HTTP_201_CREATED)
+    
+class UpdateYAMLView(APIView):
+    def post(self, request, *args, **kwargs):
+        data = request.data
+        branch_name=data.get('branch_name')
+        certificate_arn = data.get('certificateArn')
+        name_override = f"streamlit-{branch_name}"
+        fullname_override = f"streamlit-{branch_name}"
+        host =f"{branch_name}.solytics.us"
+
+        try:
+            GITHUB_TOKEN = 'insert token'  # Replace with an actual token for production use
+            OWNER = 'Rohan-Solytics'
+            REPO_NAME = 'ideal-stream-lit'
+            BRANCH = 'test-IRRBB'
+            FILE_PATH = 'helm-chart-streamlit/values.yaml'
+
+            # Initialize GitHub API client
+            g = Github(GITHUB_TOKEN)
+            repo = g.get_repo(f"{OWNER}/{REPO_NAME}")
+            contents = repo.get_contents(FILE_PATH, ref=BRANCH)
+            file_content = base64.b64decode(contents.content).decode('utf-8')
+            
+            # Update specific lines for the required parameters if provided
+            file_content, count = re.subn(
+                r'^(nameOverride:\s*).*$', f'nameOverride: "{name_override}"', 
+                file_content, flags=re.MULTILINE
+            )
+            file_content, count = re.subn(
+                r'^(fullnameOverride:\s*).*$', f'fullnameOverride: "{fullname_override}"', 
+                file_content, flags=re.MULTILINE
+            )
+            file_content, count = re.subn(
+                r'^(.*alb.ingress.kubernetes.io/certificate-arn:\s*).*$', 
+                f'alb.ingress.kubernetes.io/certificate-arn: "{certificate_arn}"', 
+                file_content, flags=re.MULTILINE
+            )
+            file_content, count = re.subn(
+                r'^(.*host:\s*).*$', 
+                f'  host: "{host}"', 
+                file_content, flags=re.MULTILINE
+            )        
+            encoded_content = base64.b64encode(file_content.encode('utf-8')).decode('utf-8')
+
+            # Prepare data for commit
+            commit_message = 'Selective parameter update in values.yaml'
+            data = {
+                "message": commit_message,
+                "content": encoded_content,
+                "sha": contents.sha,
+                "branch": BRANCH
+            }
+            url = f"https://api.github.com/repos/{OWNER}/{REPO_NAME}/contents/{FILE_PATH}"
+            headers = {
+                "Authorization": f"token {GITHUB_TOKEN}",
+                "Accept": "application/vnd.github.v3+json"
+            }
+
+            # Send request to update the file on GitHub
+            response = requests.put(url, json=data, headers=headers)
+            if response.status_code == 200:
+                return Response({"message": "File updated successfully"}, status=status.HTTP_200_OK)
+            else:
+                return Response({"error": "Failed to update file", "details": response.json()}, status=response.status_code)
+        except Exception as e:
+            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
